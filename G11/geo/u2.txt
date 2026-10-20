@@ -1,0 +1,84 @@
+UNIT TWO: CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD
+
+1. INTRODUCTION TO CLIMATE CLASSIFICATION
+Purpose and Utility:
+- Determines expected weather patterns for a region.
+- Compares exceptional and regular daily meteorological variables.
+- Indicates climate variability and change through time.
+
+Data and Scale:
+- Widely available data includes soil, vegetation, temperature, and precipitation collected over long periods.
+- Most classification schemes (like Köppen's and Trewartha's) are designed for global or continental use.
+
+2. HISTORICAL AND METHODOLOGICAL APPROACHES
+Ancient Greek Classification:
+- Based on the Earth-Sun relationship and perceptions of habitability.
+- Divided into three zones: Frigid Zone (polar regions), Temperate Zone (between torrid and frigid, considered ideal), and Torrid Zone (tropics).
+
+Data Utilization Methods:
+- Genetic Classification Method: Classifies climates based solely on major forcing processes like air masses, circulation systems, fronts, jet streams, solar radiation, and topography.
+- Empirical Classification System: Uses data input to calculate climatic types based on specified class boundaries (e.g., Köppen's and Trewartha's).
+
+---
+
+3. MAJOR EMPIRICAL CLASSIFICATION SYSTEMS
+Köppen's Climate Classification System:
+- Developed by Vladimir Köppen using natural vegetation boundaries, yearly/monthly temperature, precipitation, and seasonality.
+- Does not consider winds, temperature extremes, precipitation intensity, sunshine quantity, cloud cover, or net radiation.
+
+Trewartha's Classification System:
+- Combines empirical and genetic principles using temperature, precipitation, and the impacts of water surfaces.
+- Established six broad first-order climatic types labeled A, B, C, D, E, and F.
+
+---
+
+4. KÖPPEN'S CLIMATE CLASSIFICATION: DETAILED OVERVIEW
+Five Major Terrestrial Types:
+- Tropical Climate (A): All months have an average temperature above 18°C (64.4°F) with no real winter. Subdivided into Af (tropical wet/rainforest), Am (tropical monsoon), and Aw (tropical savanna).
+- Dry Climate (B): Evapotranspiration exceeds precipitation most of the year. Subdivided into deserts (BW) and semi-arid steppes (BS), further designated as hot (h) or cold (k).
+- Meso-thermal or Mid-latitude Mild Climate (C): Coldest month average is below 18°C and above -3°C (or 0°C depending on convention). Includes Cf (wet all year), Cw (dry winters), and Cs (Mediterranean/dry summers).
+- Micro-thermal or Mid-latitude Cold Climate (D): Warmest month exceeds 10°C, coldest month drops below -3°C. Subdivided into Df, Dw, and Ds.
+- Polar Climate (E): Warmest month is below 10°C. Subdivided into Polar tundra (ET) with permafrost, and Polar ice cap (EF).
+- Highland Climate (H): Added to account for significant climate changes across mountainous areas over short vertical distances.
+
+Merits and Demerits:
+- Strengths: Quantifiable, straightforward, and clearly links climate with natural vegetation domains.
+- Weaknesses: Relies only on mean conditions while ignoring extreme events, sunlight, and wind; uses inconsistent criteria for Zone B.
+
+---
+
+5. WORLD CLIMATIC REGIONS
+Low-Latitude Climates:
+- Tropical Wet Region (Af): Found along the equator; high temperatures and consistent year-round precipitation supporting rainforests.
+- Tropical Wet and Dry Region (Aw): Alternates between wet summers (ITCZ) and prolonged dry winters (subtropical high).
+- Dry Desert (BWh) and Steppe (BSh): Dominated by continental tropical air masses, subsidence, low humidity, and sparse precipitation.
+
+Mid-Latitude Climates:
+- Mid-latitude Desert (BWk) and Steppe (BSk): Characterized by a rain shadow effect, wider temperature ranges, and cold winters.
+- Mid-latitude Wet Region: Abundant year-round precipitation driven by marine tropical air and mid-latitude cyclones, supporting deciduous forests.
+- Mid-latitude Winter Dry (Cw and Dw): Hot, humid summers with convectional storms and dry, cold winters.
+- Mid-latitude Summer Dry (Cs / Mediterranean): Characterized by dry, heated summers due to sinking air from subtropical highs and winter rainfall from cyclones.
+
+High-Latitude Climates:
+- Polar Tundra (ET): Cold winters, cool summers, and low summer precipitation.
+- Polar Ice Cap (EF): Permanently covered with snow and ice, high albedo, sub-zero monthly averages, and persistent blizzard winds.
+
+---
+
+6. FACTORS INFLUENCING WORLD CLIMATIC REGIONS
+Key Climate Controls:
+- Latitude (Seasonality): Determines solar energy insolation intensity and day length variations based on Earth's tilt, rotation, and revolution.
+- Continentality: Distance to large water bodies moderates temperatures; inland areas experience greater thermal extremes.
+- Atmospheric Circulation: Balances energy inequities across latitudes via high and low-pressure systems and the seasonal migration of Subtropical Highs (STH).
+- Coriolis Effect, Friction, and Topography: Alter wind trajectories, surface velocities, and create microclimates or orographic precipitation via mountain barriers.
+- Ocean Circulation: Surface currents act alongside atmospheric circulation to redistribute global heat energy.
+
+---
+
+7. LOCAL CLIMATE CLASSIFICATION OF ETHIOPIA
+Traditional System (Based on height, temperature, and growing season length):
+- Bereha (Hot Lowlands): Below 500 meters elevation, temperatures above 27°C, and annual rainfall under 20 inches; harsh desert-like environment used by pastoralists.
+- Kolla (Semi-Arid): 500 to 1,500 meters elevation, temperatures between 20°C and 27°C, supporting crops like sorghum and maize.
+- Woina-Dega (Temperate Highlands): 1,500 to 2,300 meters elevation, temperatures from 15°C to 20°C, ideal for staples like teff, wheat, and barley.
+- Dega (Cold Temperate Highlands): 2,300 to 3,200 meters elevation, coldest month below 10°C, suited for highland pulses and oil seeds.
+- Wurch (Alpine Climate): Above 3,200 meters elevation (e.g., Simien and Choke mountains), temperatures below 10°C, characterized by afro-alpine conditions where barley is cultivated.

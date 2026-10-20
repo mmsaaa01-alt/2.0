@@ -1,0 +1,203 @@
+
+Study Notes: Economics - G9
+
+UNIT 6: Introduction to Money: 6.1 Definition of Money, 6.2 Evolution of Money, 6.3 Functions of Money, 6.4 Demand and Supply of Money, 6.5 Money and Electronic Money (e-money), UNIT 6: Unit Summary, UNIT 6: Review Questions
+
+
+Unit 6: Money
+• This unit provides a comprehensive understanding of money, covering its definition, historical evolution, essential functions in an economy, and the factors influencing its demand and supply.
+• It also explores the emergence and characteristics of electronic money.
+
+6.1 Definition of Money
+• This section defines money from an economic perspective, differentiates it from mere currency, and outlines the crucial criteria a commodity must meet to be accepted as money.
+
+6.1.1 What is Money?
+• Economists' Definition: Money is anything generally accepted in payment for goods or services or in the repayment of debts.
+  ◦ When people refer to "money," they are often talking about currency.
+• Alternative Definition: Money is any good that is widely used and accepted in transactions involving the transfer of goods and services from one person to another.
+• Core Role: Money serves as a medium for expressing prices and values. As currency, it moves anonymously, facilitating trade and acting as a primary measure of wealth.
+• Essential Characteristic: Money is immediately exchangeable for all types of marketable assets, such as goods, services, or real estate.
+• Social Convention: People accept money as a means of payment because they are confident that others will also accept it. This confidence can be established through legal or other social means.
+
+6.1.2 Criteria for a Commodity to be Accepted as Money
+• For a commodity to function effectively as money, it must satisfy several key characteristics:
+  ◦ Standardization: It must be easily standardized, allowing for simple and consistent ascertainment of its value.
+  ◦ Acceptability: It must be widely accepted by common consent as a medium of exchange.
+  ◦ Divisibility: It must be easily divisible into smaller units to facilitate making change and payments of varying amounts.
+  ◦ Portability: It must be easy to carry and transport.
+  ◦ Durability: It should be resistant to degradation and not lose its value quickly over time.
+
+6.2 Evolution of Money
+• This section traces the historical development of money, from simple self-sufficiency to complex electronic payment systems, highlighting the transition from barter and the challenges overcome at each stage.
+
+6.2.1 Life Before Money: The Rise of Exchange
+• Ancient Humans: Initially, human needs were simple, and individuals were largely self-sufficient, producing their own food, clothing, and shelter through activities like hunting and gathering.
+• End of Self-Sufficiency: As humans gained knowledge, formed families, and their needs increased, it became impossible for individuals to satisfy all their needs by producing everything themselves. This led to the beginning of the process of exchange.
+
+6.2.2 Bartering System
+• Definition: Barter is a direct exchange of goods for goods without the use of money.
+  ◦ Under this system, individuals produce more goods than they need and exchange the surplus with others for goods they require.
+• Barter Economy: An economy based upon this system of direct exchange is called a barter economy.
+
+6.2.3 Limitations of the Barter System
+• The direct exchange of goods and services under the barter system presented several significant difficulties:
+  ◦ Lack of Double Coincidence of Wants: This was the most critical problem. It required that a person with a surplus of a particular commodity find another person who not only desired that commodity but also possessed something acceptable to offer in return.
+  ◦ Lack of a Common Measure of Value: Different commodities had varying values, and there was no universal unit to compare them. This made it difficult to determine fair exchange ratios (e.g., how many units of wheat for one sheep).
+  ◦ Indivisibility of Commodities: Many goods could not be easily divided without losing their intrinsic identity or value. For instance, exchanging a portion of a horse for shoes was impractical as the horse would lose its identity and value.
+  ◦ Difficulty in Storing and Transferring Wealth: Most commodities (like rice, wheat, cattle) would degrade over time, incur high storage costs, or involve substantial transportation expenses to move from one place to another.
+  ◦ Difficulty in Deferred Payments: The barter system lacked stability in prices, quality, and general acceptability, making it very hard to arrange payments that were due at a later date.
+
+6.2.4 Historical Development of Payment Systems
+• The limitations of barter led to the evolution of more efficient payment systems:
+
+6.2.4.1 Primitive Money (Commodity Money)
+• Description: When the barter system was replaced, the first form of money used was commodity money. This involved using a specific commodity as a medium of exchange.
+• Choice of Commodity: The chosen commodity varied based on the community's location and economic development.
+• Problem: This form of money, especially precious metals or other valuable commodities, was often very heavy and difficult to transport.
+
+6.2.4.2 Paper Currency
+• Next Development: The invention of paper currency, which consisted of pieces of paper functioning as a medium of exchange.
+• Initial Form: Initially, paper currency represented a promise to be convertible into coins or a specific quantity of precious metal.
+• Fiat Money: In most modern countries, currency has evolved into fiat money.
+  ◦ Definition: Fiat money is paper currency decreed by governments as legal tender, meaning it must legally be accepted as payment for debts, but it is not convertible into coins or precious metal.
+  ◦ Advantages: Much lighter than coins or precious metals.
+  ◦ Conditions for Acceptance: Relies on trust in the issuing authorities and advanced printing techniques to prevent counterfeiting.
+• Drawbacks: Paper currency and coins are easily stolen and can be expensive to transport in large quantities due to their bulk.
+
+6.2.4.3 Checks
+• Innovation: The development of checks emerged with modern banking to address the drawbacks of paper currency.
+• How it Works: Individuals hold a checking account at a bank and can write checks to make payments. The check holder can then cash it at the bank.
+• Advantages:
+  ◦ Payable on Demand: Allows transactions without carrying large amounts of physical currency.
+  ◦ Improved Efficiency: Reduces transaction and transportation costs, enhancing economic efficiency.
+  ◦ Flexibility: Can be written for any amount up to the account balance, making large transactions easier.
+  ◦ Reduced Theft Loss: Significantly reduces the risk of loss from theft.
+  ◦ Receipts: Provides convenient receipts for purchases.
+
+6.2.4.4 Electronic Means of Payment (EMOP)
+• Modern Development: With advancements in computers and telecommunications, payments have shifted towards electronic means.
+• Goal: To eliminate paperwork by making all payments using electronic telecommunications.
+• Examples: Visa cards, credit cards, and similar electronic payment systems.
+
+6.2.5 History of Money in Ethiopia
+• Axumite Kingdom: The Axumite kingdom began using its own coins for internal and external trade around the 3rd century A.D. (during the reigns of King Endybis and Aphilas).
+• Post-Axum: After the fall of the Axumite kingdom, coins disappeared, and various commodities like a bar of salt (amole), cloth, and beads were used as money. Salt was the most important and widely used medium of exchange.
+• Maria Theresa Thaler:
+  ◦ A prominent coin minted in Vienna in 1751, introduced to Ethiopia by traders between the late 18th and early 19th centuries.
+  ◦ It served as a medium of exchange until 1945, coexisting with salt for some time.
+• National Coins:
+  ◦ Emperor Menelik II minted the first national coin in 1893.
+  ◦ These were replaced in July 1933 by new metallic coins bearing the image of Emperor Haile Selassie I.
+• Paper Money in Ethiopia:
+  ◦ Bank of Abyssinia issued paper money for the first time in 1914, but it failed to gain acceptance due to public unfamiliarity.
+  ◦ The Bank of Ethiopia (successor to the Bank of Abyssinia) re-issued paper money in 1932. These notes were 100 percent backed by gold deposits and were used alongside salt bars and Maria Theresa Thaler until the Italian occupation in 1936.
+• Post-Liberation Currency: After liberation from Italian occupation in 1941, Ethiopia lacked a national currency and financial institutions. Several foreign currencies circulated, including the Italian Lire, Maria Theresa Dollar, East African Shilling, Indian Rupee, and Egyptian Pound.
+• Ethiopian Birr: In July 1945, the Ethiopian government issued the new national currency, the Birr.
+• Modern Developments: With the banking system's growth, checks also started being used as money, with further advancements in recent years.
+
+6.3 Functions of Money
+• This section elaborates on the four fundamental functions that money performs in every society, highlighting how each contributes to the economy's operation and efficiency.
+• In every society, money performs four basic functions that are vital for the economy's operation:
+
+6.3.1 1. Medium of Exchange
+• Primary Function: Money's most basic function is to serve as a medium of exchange, facilitating market transactions.
+• Mechanism: It is used universally to pay for goods and services.
+• Economic Efficiency: Using money eliminates the need for a double coincidence of wants (a major problem in barter systems), significantly reducing the time and effort spent exchanging goods.
+• Transaction Cost: The time spent trying to exchange goods or services is called a transaction cost. Money drastically lowers these costs.
+• Impact: Money acts as a "lubricant," allowing the economy to run more smoothly, encouraging specialization and the division of labor.
+
+6.3.2 2. Unit of Account
+• Definition: Money provides a unit of account, serving as a common measure of value in the economy.
+• Analogy: Just as we use pounds for weight or miles for distance, money is used to measure the value of goods and services.
+• Benefits of a Common Unit: Without money, comparing the prices of numerous items would be extremely complex and time-consuming, leading to very high transaction costs (e.g., a supermarket with thousands of items would need countless price comparisons for each item).
+• Enables Orderly Pricing: Money enables an orderly pricing system, which is crucial for:
+  ◦ Rational economic calculation and choice.
+  ◦ Transmitting economic information among individuals.
+
+6.3.3 3. Store of Value
+• Definition: Money functions as a store of value, acting as a repository of purchasing power over time.
+• Purpose: It allows individuals to save their purchasing power from the moment income is received until it is spent later. This is useful because people rarely spend all their income immediately.
+• Comparison to Other Assets: While money is a store of value, it is not unique. Other assets like stocks, bonds, land, houses, art, or jewelry can also store wealth.
+• Advantage of Other Assets: Many other assets often offer higher interest rates or maintain price value better than money.
+• Why Hold Money? People still hold money due to its liquidity.
+  ◦ Liquidity: The relative ease and speed with which an asset can be converted into a medium of exchange. Money is the most liquid asset.
+
+6.3.4 4. Standard of Deferred Payments
+• Definition: Money serves as a standard of deferred payments, allowing transactions where payment is made at a future date.
+• Facilitates Credit: This function enables people to buy now and pay later, or to lend now and collect later.
+• Investment Channel: Money saved can be borrowed and channeled into investments.
+• Resource Allocation: It permits the easy transfer of resources from less desired (less productive, less profitable) uses to more desired (more productive, more profitable) uses.
+
+6.4 Demand and Supply of Money
+• This section delves into the factors influencing how much money individuals and businesses want to hold (demand for money) and what constitutes the total amount of money available in an economy (supply of money).
+
+6.4.1 Demand for Money
+• Traditional View: The old idea was that money was demanded solely to complete business transactions, meaning the demand for money depended on the volume of trade. Demand increased during boom periods and decreased during depressions.
+• Modern View (Keynesian Economics): John Maynard Keynes, a famous English economist, introduced the modern concept. He called the demand for money liquidity preference, defining it as the demand for money to hold.
+• Keynes's Three Main Motives for Holding Money:
+  ◦ (i) Transactional Motive:
+    ▪ Definition: The need for cash for current transactions of individuals and businesses. People hold money to bridge the interval between receiving income and spending it.
+    ▪ Sub-motives:
+      - Income Motive (Consumers): Individuals hold cash to meet daily household expenditures. The amount depends on income size, the frequency of income receipt (e.g., weekly vs. monthly), and local payment methods.
+      - Business Motive (Businessmen): Businesses hold ready cash to cover current operational expenses like raw materials, transport, wages, and salaries. The amount largely depends on the firm's turnover (volume of trade).
+  ◦ (ii) Precautionary Motive:
+    ▪ Definition: The desire to hold cash balances for unforeseen contingencies.
+    ▪ Purpose: To provide for unexpected events such as unemployment, sickness, accidents, or other uncertain losses.
+    ▪ Influencing Factors: The amount held for this motive depends on individual nature and prevailing living conditions.
+  ◦ (iii) Speculative Motive:
+    ▪ Definition: The desire to hold resources in liquid form to take advantage of future market movements, particularly changes in interest rates or bond prices.
+    ▪ Function: Money held for speculative reasons also serves as a store of value, but for a different, strategic purpose compared to the precautionary motive.
+• Total Demand: The sum of money required under these three motives constitutes the overall demand for money.
+
+6.4.2 Supply of Money
+• Definition: The supply of money refers to the sum total of all the forms of money held by a community at any given moment. Just like demand, it is about money available to hold.
+• Components of Money Supply:
+  ◦ (a) Metallic money or coins.
+  ◦ (b) Currency notes issued by the country's currency authority (central bank or government).
+  ◦ (c) Chequable bank deposits (funds in current accounts that can be withdrawn by checks).
+• Historical Shift in Components: Historically, coins formed the bulk of money supply, then currency notes became dominant, and now bank deposits withdrawable by checks have largely surpassed other forms.
+• Broad Definition: Money supply means the total volume of monetary medium of exchange available to the community for use in connection with the economic activity of the country.
+• Two Main Elements:
+  ◦ (a) Currency with the public: Includes currency notes in circulation, Birr notes and coins, and small coins, minus "Cash in hand with banks." In Ethiopia, the National Bank of Ethiopia issues the bulk of currency.
+  ◦ (b) Deposit money with the public: This refers to the bank balances held in current accounts.
+• Developing Countries Context: In developing countries, currency (cash) holds a more dominant position than bank deposits because most commercial transactions are conducted in cash rather than through checks, unlike in advanced countries.
+• Influence of Policy: The supply of money in a country is largely influenced by the credit control policies pursued by its banking system.
+
+6.5 Money and Electronic Money (e-money)
+• This section defines electronic money, outlines how it functions in modern payment systems, and discusses its primary advantages and disadvantages.
+
+6.5.1 Definition of Electronic Money
+• Definition: Electronic money (e-money) is an electronic store of monetary value on a technical device that can be widely used for making payments.
+• Payment Methods: Payments can be made in various ways, including:
+  ◦ Debit cards
+  ◦ Prepaid cards
+  ◦ Credit cards
+  ◦ These methods make payments at point-of-sale terminals quick and simple.
+• Common Perception: For many, e-money also means 24-hour access to cash through an Automated Teller Machine (ATM) or direct deposit of paychecks into checking or savings accounts.
+• Broad Scope: Electronic money involves different types of transactions, rights, responsibilities, and sometimes fees.
+• Synonym: Also known as Electronic Fund Transfer (EFT).
+  ◦ How EFT Works: EFT utilizes computers and electronic technology instead of checks or other paper transactions. It is initiated using devices like cards or codes (e.g., ATM cards, debit cards, Personal Identification Numbers (PINs), or even signatures/scans) that allow authorized access to an account.
+  ◦ ATMs in Ethiopia: ATMs are electronic terminals that provide banking services almost anytime.
+
+6.5.2 Advantages of E-Money
+• The ability to move money quickly.
+• Better recordkeeping for transactions.
+• Facilitates global money transfers.
+• The ability to move large sums of money without any physical burden.
+
+6.5.3 Disadvantages of E-Money
+• Cybercrime: Increased risk of cybercrime and new digital forms of money laundering.
+• User Training: Users must possess a minimum level of training and knowledge, especially for more complicated electronic transfers.
+• Criminal Activity Link: Some types of e-money, notably cryptocurrencies, can be closely linked to criminal activity.
+• Hardware and Software Requirement: Both hardware and software are necessary to perform transfers of electronic cash.
+
+Unit Summary
+• Money is anything generally accepted in payment for goods or services or in debt repayment.
+• To be accepted as money, a commodity must exhibit standardization, acceptability, divisibility, portability, and durability.
+• The evolution of money transitioned from self-sufficiency and the bartering system to commodity money, paper currency, checks, and electronic means of payment.
+• The barter system suffered from severe limitations, notably the lack of a double coincidence of wants and a common measure of value.
+• Money in Ethiopia evolved from Axumite coins, salt bars, and the Maria Theresa Thaler to national coins, paper issues by the Bank of Abyssinia and Bank of Ethiopia, and eventually the official introduction of the Ethiopian Birr in July 1945.
+• Money performs four primary functions: medium of exchange, unit of account, store of value, and standard of deferred payments.
+• The demand for money (liquidity preference) is driven by transactional, precautionary, and speculative motives.
+• The supply of money comprises currency with the public and deposit money in bank accounts, heavily influenced by national central bank policies.
+• Electronic money (e-money/EFT) provides fast transfers, modern point-of-sale capabilities, and ATM access, though it brings risks like cybercrime and technical requirements.

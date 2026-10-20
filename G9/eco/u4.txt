@@ -1,0 +1,269 @@
+
+Study Notes: Economics - G9
+
+UNIT 4: Introduction to Demand and Supply: 4.1 Concept of Demand, 4.2 Concept of Supply, 4.3 Market Equilibrium, UNIT 4: Unit Summary, UNIT 4: Review Questions
+
+Unit 4: Introduction to Demand and Supply
+
+- Chapter Purpose: Provides a foundational understanding of two core economic concepts: demand and supply.
+
+- Market Forces: Explores how demand and supply operate individually in a market and how their interaction ultimately determines market equilibrium, including equilibrium price and quantity.
+
+1. The Concept of Demand
+
+- Scope of Section: Defines demand, differentiates it from mere desire, and introduces the fundamental Law of Demand.
+
+- Representations: Covers various ways to represent demand, such as schedules, curves, and functions, and distinguishes between individual and market demand.
+
+1.1 Defining Demand
+
+- Terminology: The terms desire, want, and demand are often used interchangeably in everyday language, but in economics, demand has a specific meaning.
+
+- Demand Definition: States that a consumer must be willing and able to buy a commodity that he or she desires, at a given price, during a given period of time.
+
+- Distinction from Desire: Demand is distinct from a mere desire to acquire something.
+
+- Unlimited Wants: While human wants and desires are unlimited, only a desire backed by specific features becomes an effective demand.
+
+- Features for Effective Demand: A desire transforms into an effective demand only when it is supported by:
+  ◦ Ability to pay for the good desired.
+  ◦ Willingness to pay the price of the good desired.
+  ◦ Availability of the good itself.
+
+- Contextual Nature: Demand for a good is always stated relative to a specific price and a certain time.
+
+- Examples:
+  ◦ Example 1 (Price): An individual might be interested in buying jeans at Birr 500 but cannot demand them if the price is Birr 900.
+  ◦ Example 2 (Time/Season): An individual might be willing to buy a room heater at Birr 1000 during a cold season, but not during a hot season.
+
+- Formal Definition: The amount of a commodity that a consumer is willing to buy at various given prices and a given moment of time.
+
+1.2 Quantity Demanded
+
+- Definition: The amount of commodity a consumer must be willing and able to buy, which he/she desires, at a given price during a given period of time.
+
+- Nature: Represents a specific amount at a specific price, unlike 'demand' which refers to the entire relationship between prices and quantities.
+
+1.3 The Law of Demand
+
+- Inverse Relationship: States that, ceteris paribus, the price of a commodity and its quantity demanded are inversely related.
+
+- Ceteris Paribus: A Latin phrase meaning 'other things remaining the same' or 'all else being equal'.
+
+- Purpose of Assumption: This assumption is crucial because it isolates the effect of price on quantity demanded, holding all other influencing factors constant.
+
+- Relationship: The higher the price, the lower the quantity demanded, and vice versa, which is a fundamental principle in economics.
+
+1.4 Representing Demand
+
+- Overview: Demand can be represented in various ways to illustrate the relationship between price and quantity demanded.
+
+1.4.1 Demand Schedule
+
+- Definition: A tabular description that presents various quantities of a commodity that would be demanded at different prices.
+
+- Function: Shows the quantity of a product demanded by an individual or a group at specified prices and times.
+
+- Table 4.1: Individual Household Demand Schedule for Oranges per Week
+  ◦ Price (Birr Per kg): 5 | Quantity Demanded (kg/week): 5
+  ◦ Price (Birr Per kg): 4 | Quantity Demanded (kg/week): 7
+  ◦ Price (Birr Per kg): 3 | Quantity Demanded (kg/week): 9
+  ◦ Price (Birr Per kg): 2 | Quantity Demanded (kg/week): 11
+  ◦ Price (Birr Per kg): 1 | Quantity Demanded (kg/week): 13
+
+- Explanation: Shows that as the price of oranges decreases from Birr 5 to Birr 1 per kg, the quantity an individual household demands per week increases from 5 kg to 13 kg, demonstrating the inverse relationship described by the Law of Demand.
+
+1.4.2 Demand Curve
+
+- Definition: A graphical representation of the relationship between different quantities of a commodity demanded by an individual at different prices per time period.
+
+- Graphical Representation: (Refer to Figure 4.1: Individual household demand curve in your textbook).
+
+- Slope: The demand curve typically slopes downwards from left to right, visually depicting the inverse relationship between price and quantity demanded.
+
+1.4.3 Demand Function
+
+- Definition: A mathematical representation of the relationship between price and quantity demanded, ceteris paribus.
+
+- Typical Function: $Q_d = f(P)$
+
+- Variables: Where $Q_d$ is the quantity demanded and $P$ is the commodity's price.
+
+- Implication: This function implies that quantity demanded is dependent on price.
+
+1.5 Market Demand
+
+- Definition: Describes the total demand for a given product by all consumers who want to purchase it.
+
+- Determination: Determined by the collective willingness of consumers to spend a certain price on a particular good or service.
+
+- Relationship with Price: As market demand increases (e.g., due to more consumers entering the market or existing consumers desiring more), the price tends to increase, and conversely.
+
+- Derivation: Derived by a simple horizontal summation of the quantity demanded for a commodity by all buyers at each price, adding up quantities demanded by all individuals at every possible price.
+
+- Market Demand Curve: Describes the relationship between various quantities of a commodity that consumers are willing to buy at different prices, representing the horizontal summation of individual demand curves at the market price.
+
+2. The Concept of Supply
+
+- Scope of Section: Defines supply, distinguishing it from stock, and explains the Law of Supply.
+
+- Representations: Covers ways to represent supply, such as schedules, curves, and functions, and differentiates between individual and market supply.
+
+2.1 Supply vs. Stock
+
+- Common Confusion: The term 'supply' is often confused with 'stock' in everyday language.
+
+- Stock Definition: The total volume of a commodity produced during a period, less the quantity already sold out, representing the total amount available.
+
+- Supply Definition: The quantity of a commodity which is actually brought to the market for sale.
+
+- Key Distinction: Producers usually do not offer all of their stock for sale and might hold some back to sell at a later time for better prices.
+
+- Examples:
+  ◦ Example 1 (Agricultural Product): A large part of an agricultural product is kept in cold storage after harvest and sold during the off-season when prices are higher.
+  ◦ Example 2 (Industrial Product): Industrial products are also often kept in stock and offered for sale when higher prices can be achieved.
+
+- Relationship: Stock is considered potential supply, meaning supply may be less than or equal to the stock of a commodity.
+
+2.2 Defining Supply
+
+- Formal Definition: Refers to the various quantities of a commodity which producers are willing and able to offer for sale at a particular time at various corresponding prices.
+
+2.3 Quantity Supplied
+
+- Definition: Indicates various quantities of a commodity that sellers (producers) are willing and able to provide at different prices in a given period of time.
+
+- Distinction from Supply:
+  ◦ Supply shows the relationship between the quantity supplied and price of a commodity (the entire curve/schedule).
+  ◦ Quantity Supplied refers to a specific amount of the commodity that a producer is willing to sell at a specific price (a single point on the curve).
+
+- Influence of Price: The quantity supplied differs from the total amount of stock, as price changes influence how much producers actually put on the market.
+
+2.4 The Law of Supply
+
+- Slope Relationship: Unlike the law of demand, the supply relationship shows an upward slope, meaning that the higher the price, the higher the quantity supplied.
+
+- Law Definition: States that, ceteris paribus, there is a direct or positive relationship between price and the quantity supplied of a commodity.
+
+- Ceteris Paribus: Meaning 'other things remaining the same', used to isolate the effect of price.
+
+- Reasoning: Producers are motivated by profit; at higher prices, producing and selling more becomes more profitable, incentivizing them to increase the quantity supplied.
+
+2.5 Representing Supply
+
+- Overview: Supply can be represented in various ways to illustrate the relationship between price and quantity supplied.
+
+2.5.1 Supply Schedule
+
+- Definition: A tabular presentation of different quantities of a commodity offered for sale at different prices per time period.
+
+- Function: Shows how much product a supplier will have available to meet consumer demand at specified prices.
+
+- Table 4.2: Individual Seller's Supply Schedule for Oranges
+  ◦ Price (Birr Per kg): 10 | Quantity Supplied (kg/week): 60
+  ◦ Price (Birr Per kg): 15 | Quantity Supplied (kg/week): 70
+  ◦ Price (Birr Per kg): 20 | Quantity Supplied (kg/week): 80
+  ◦ Price (Birr Per kg): 25 | Quantity Supplied (kg/week): 90
+  ◦ Price (Birr Per kg): 30 | Quantity Supplied (kg/week): 100
+
+- Explanation: Shows that as the price of oranges increases from Birr 10 to Birr 30 per kg, the quantity an individual seller is willing to supply per week increases from 60 kg to 100 kg, demonstrating the direct relationship described by the Law of Supply.
+
+2.5.2 Supply Curve
+
+- Definition: Shows the information of a seller's supply schedule graphically rather than in a tabular form.
+
+- Graphical Representation: (Refer to Figure 4.2: Individual seller's supply curve for oranges in your textbook).
+
+- Slope: The supply curve typically slopes upwards from left to right, visually depicting the direct relationship between price and quantity supplied.
+
+2.5.3 Supply Function
+
+- Definition: A mathematical representation of the relationship between price and quantity supplied of a commodity, all other things remaining the same.
+
+- Typical Function: $Q_s = f(P)$
+
+- Variables: Where $Q_s$ is the quantity supplied and $P$ is the price of the commodity.
+
+- Implication: Indicates that quantity supplied is dependent on price.
+
+2.6 Market Supply
+
+- Definition: The total amount of an item producers are willing and able to sell at different prices, over a given period of time.
+
+- Derivation: Derived by horizontally adding the quantity supplied of the commodity by all sellers at each price, involving summing individual producer quantities at every possible price.
+
+- Market Supply Curve: Indicates the relationship between various quantities of a commodity that sellers are willing to offer for sale at different prices, representing the horizontal summation of individual supply curves at the market price.
+
+3. Market Equilibrium
+
+- Integration: Integrates demand and supply concepts to explain how market prices are determined.
+
+- Definition: Defines the general concept of equilibrium and applies it to market dynamics to explain equilibrium price and quantity.
+
+3.1 The Concept of Equilibrium
+
+- Definition: Refers to a state of balance where opposing forces are balanced, resulting in no tendency for change.
+
+- Physical Analogy: When two opposing forces acting on an object are balanced, the object is stationary and in equilibrium with no tendency to move.
+
+- Economic System Equilibrium: An economic system is in equilibrium when its important variables show no change and no forces act on them to produce a change.
+  ◦ Consumer Equilibrium: A consumer has no intention of re-allocating his or her money or income.
+  ◦ Firm Equilibrium: A firm has no tendency to change its level of output (neither increasing nor decreasing it).
+
+- Market Mechanism: The tendency for an economic system to move towards an equilibrium price.
+
+- Real-World Context: While equilibrium may never be perfectly realized in the real world, economies tend towards equilibrium when no external forces act on them.
+
+3.2 Defining Market Equilibrium
+
+- Definition: A situation in which the quantity demanded of a commodity equals the quantity supplied, representing the balance between opposite forces of demand and supply.
+
+3.3 Equilibrium Price
+
+- Definition: The price at which the quantity demanded of a commodity equals the quantity supplied.
+
+- Determination: Demand and supply forces determine price in a given market, clearing the market with no surplus or shortage.
+
+3.4 Equilibrium Quantity
+
+- Definition: Refers to the quantity of a good supplied in the marketplace when the quantity supplied by sellers exactly matches the quantity demanded by buyers.
+
+- Simplified View: The amount of a commodity bought and sold at an equilibrium price.
+
+3.5 Graphical Representation of Market Equilibrium
+
+- Intersection Point: Market equilibrium is graphically depicted by the point where the demand curve and the supply curve intersect.
+
+- Meaning of Intersection: The quantity consumers are willing to purchase exactly matches the quantity suppliers are willing to supply at that specific price.
+
+- Derivation: Both equilibrium market price and equilibrium market quantity are derived from this point.
+
+- Graphical Reference: (Refer to Figure 4.3: Market equilibrium in your textbook).
+
+- Dynamic Nature: Not fixed; likely to change over time due to shifts in demand and supply patterns like consumer preferences or production costs.
+
+Unit Summary: Key Concepts
+
+- Demand: The quantity of a commodity consumers are willing and able to purchase at various prices during a specific period.
+
+- Law of Demand: States that, ceteris paribus, quantity demanded increases when price falls and decreases when price rises (inverse relationship).
+
+- Demand Representation: Can be shown through a demand schedule (table), a demand curve (graphical), or a demand function ($Q_d = f(P)$).
+
+- Individual vs. Market Demand: Individual demand is for a single consumer; market demand is the total for all consumers.
+
+- Supply: The quantity of a commodity producers are willing and able to offer for sale at various prices during a specific period.
+
+- Law of Supply: States that, ceteris paribus, quantity supplied rises when price rises and falls when price falls (direct relationship).
+
+- Supply Representation: Can be shown through a supply schedule (table), a supply curve (graphical), or a supply function ($Q_s = f(P)$).
+
+- Individual vs. Market Supply: Individual supply is for one firm; market supply is the total for all producers.
+
+- Market Equilibrium: A state of balance where the quantity demanded equals the quantity supplied.
+
+- Equilibrium Price: The specific price at which quantity demanded equals quantity supplied.
+
+- Equilibrium Quantity: The specific amount of a commodity bought and sold at the equilibrium price.
+
+- Graphical Equilibrium: Determined at the intersection point of the demand curve and the supply curve.

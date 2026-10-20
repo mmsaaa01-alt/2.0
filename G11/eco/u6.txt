@@ -1,0 +1,37 @@
+UNIT 6: ECONOMIC DEVELOPMENT
+
+6.1 ECONOMIC GROWTH AND ECONOMIC DEVELOPMENT
+- Measuring Economic Growth: Gross Domestic Product (GDP) measures the market value of goods and services produced over a specific period minus intermediate consumption. The growth rate is determined by the percentage increase in inflation-adjusted real GDP.
+- Real GDP per Capita: Economists often use the percentage change in real GDP per capita to account for population size and isolate its effect on average living standards.
+- Economic Development vs. Growth: Unlike economic growth, which is a uni-dimensional quantitative measure of output, economic development is a multidimensional process involving improved living standards, self-esteem, dignity, respect, and enlarged freedoms.
+
+6.2 MEASURES OF PRODUCTIVITY
+- Productivity: Defined as the ratio between output volume and input volume, measuring how efficiently inputs like labor and capital are utilized.
+- Significance: It serves as a key driver of economic growth and national competitiveness.
+- Methods to Increase Productivity: Productivity can be raised by increasing output from the same inputs, reducing inputs while keeping output constant, or maximizing output increases relative to smaller input increases.
+
+6.3 HUMAN DEVELOPMENT INDEX (HDI)
+- Introduction to HDI: Conceived by Mahbub ul Haq and Amartya Sen and published by the UNDP, the HDI shifts the measurement of development from a single-income dimension to multiple dimensions of human well-being.
+- Components of HDI:
+  - Life Expectancy Indicators (LEI): Measured by life expectancy at birth.
+  - Educational Attainments Indicators (EAI): Measured by the adult literacy rate and gross enrollment ratio.
+  - Standard of Living Indicators (SLI): Measured by real GDP per capita adjusted using logarithms to reflect diminishing marginal utility.
+- Ethiopia's HDI: Ethiopia's 2019 HDI value was 0.485, placing it in the low human development category at rank 173 out of 189 countries, though it demonstrated significant progress from 2000 to 2019.
+- Criticisms of HDI: Critics point to equal trade-offs, correlation with developed economies, failure to account for income inequality, poverty, and gender disparities, and bounded index values.
+
+6.4 CAPABILITY APPROACH
+- Core Concepts: Articulated by Amartya Sen, this approach asserts that development must focus on enhancing the lives and freedoms we lead rather than viewing economic growth as an end in itself.
+- Capabilities vs. Functioning: Capabilities refer to real or substantive freedoms (what people can potentially achieve and choose to do), while functioning refers to the actual use people make of commodities at their command, mediated by personal, social, and environmental conversion factors.
+
+6.5 SUSTAINABLE DEVELOPMENT
+- Definition: Development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.
+- Three Core Pillars: Built upon economic growth, environmental stewardship, and social inclusion to ensure inclusive and environmentally sound growth.
+
+6.6 MILLENNIUM DEVELOPMENT GOALS (2000-2015)
+- Overview: A unified UN framework consisting of eight ambitious goals aimed at eradicating extreme poverty, achieving universal education, promoting gender equality, reducing child mortality, improving maternal health, combating diseases, ensuring environmental sustainability, and fostering global partnerships.
+- Achievements and Challenges: The MDGs helped lift over a billion people out of extreme poverty, but progress remained uneven, frequently bypassing women, low-income earners, and disadvantaged groups.
+
+6.7 THE SUSTAINABLE DEVELOPMENT GOALS (2015-2030)
+- 2030 Agenda: Adopted by UN member states in 2015, the 17 Sustainable Development Goals (SDGs) provide a universal, holistic blueprint integrating social, economic, and environmental dimensions.
+- Agenda 2063: Africa's 50-year strategic framework and master plan for inclusive and sustainable development, integration, and continental self-determination.
+- Ethiopia's Performance: Ethiopia successfully achieved six of the eight MDGs, formulated a Climate Resilient Green Economy (CRGE) strategy, and seamlessly mainstreamed the SDGs into national frameworks such as the Second Growth and Transformation Plan (GTP II) and the 10-year Prosperity Plan.

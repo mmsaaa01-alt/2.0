@@ -1,0 +1,542 @@
+
+Study Notes: Geography - G9
+
+UNIT 8: GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES: 8.1 Map and its basic components, 8.2 Scale, scale conversion and measurements on maps, 8.3 Position on maps, 8.4 Map sketching, 8.5 Interpreting maps and graphs, UNIT 8: Unit Summary, UNIT 8: Review Exercise
+
+UNIT EIGHT: GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES
+
+    This unit focuses on developing essential geographic inquiry skills, including understanding maps and their components, using scales for measurements, determining positions, sketching maps, and interpreting various forms of geographic data like graphs and charts.
+
+8.1 Map and Its Basic Components
+8.1.1 The Meaning of a Map
+
+A map is a simplified, diminished, plain representation of all or part of the earth's surface as viewed vertically from above.
+
+Main Features of Maps:
+
+    Representation of Earth's Surface: Maps depict either a part or the entirety of the Earth's surface.
+    Two-Dimensional (Plane) Representation: Maps are flat representations, typically printed on paper.
+    Bird's-Eye View: They show the Earth's surface as if seen from directly overhead.
+    Reduced Size: All maps are smaller than the actual area they represent.
+    Drawn to Scale: Features on a map maintain the same relative proportions as they do in reality.
+    Simplified Representations: Maps present information in a simplified manner.
+    Use of Symbols and Notations: Most maps employ generally accepted symbols to represent natural, artificial, or cultural features. They also use conventional notations for essential background information like the title, date, and scale.
+
+Activity 8.1: Discuss the meaning of "A map is a two-dimensional plane representation" and compare maps with globes.
+Historical Development of Map Making
+
+Maps are ancient tools, with people creating them even in primitive times for navigation and resource location. Map-making has evolved through various stages.
+
+Two Main Stages:
+
+    Traditional Map-Making:
+        Origins: As old as the human race.
+        Materials: Early map materials included sticks, shells, clay tablets, parchment, and paper.
+        Purpose: Primarily locational, showing water holes, hunting grounds, and paths.
+        Challenges: Collecting accurate measurements of distance, direction, area, and location was difficult, often relying on manual fieldwork, which was laborious and prone to inaccuracies.
+        Visual Style: Might include drawings of three-dimensional objects, making them somewhat pictographic or physiographic rather than strictly diagrammatic.
+
+    Modern Map-Making:
+        Origins: Roots in the 17th century, with impetus from the Renaissance.
+        Advancements: Fueled by scientific and technological progress, including better cameras and airplanes for aerial photography.
+        Information Acquisition: Modern map-makers have diverse methods for acquiring spatial information, including aerial photography and satellite imagery.
+        Computer Integration: Computers are now integral to cartography, assisting in collection, storage, analysis, presentation, and reproduction of maps.
+
+Uses of Maps
+
+Maps are crucial in geography for several purposes:
+
+    Location:
+        Shows the exact site of a place.
+        Indicates the general situation relative to other areas (e.g., Ethiopia's neighboring countries).
+        Can be identified using astronomical grid references (parallels and meridians).
+    Distance:
+        Allows for measurement of distances between places using the map's scale.
+        Example: Calculating the air distance between Hawassa and Addis Ababa using a map of Ethiopia.
+    Area:
+        Enables calculation of the size of a place, region, or continent.
+        Involves measuring length and width on the map and converting them to ground distances using the scale.
+    Direction:
+        Helps identify the direction and bearing of any place on the map.
+        Achieved by referring to other places or a directional indicator.
+
+Activity 8.2:
+
+    Name the two methods of map making.
+    Describe the major characteristics of modern map-making.
+    Briefly explain the uses of maps.
+
+8.1.2 Basic Components of a Map
+
+A map should include the following essential components:
+
+    Title:
+        Informs the reader about the "what," "where," and possibly "when" of the map.
+        Helps to easily understand the map's purpose.
+    Scale:
+        Defines the relationship between a unit of length on the map and the corresponding length on the ground.
+        Indicates the extent to which the mapped area has been reduced.
+    Direction or Orientation (North) Arrow:
+        Shows the north direction on the map.
+        By convention, North is usually placed at the top of maps.
+    Grid Reference:
+        A coordinate system (parallels of latitude and meridians of longitude) used to place the area in its proper geographical location on the globe.
+    Legend/Key:
+        Explains the symbols and conventional signs used by the cartographer.
+        Clarifies the meaning of markings on the map.
+    Date/Year of Publication:
+        Indicates when the map was published.
+        Helps judge the currency of the map's information.
+    Place of Publication and Publisher:
+        Identifies where the map was published and the organization responsible for its production.
+    Magnetic Declination (Variation):
+        The angle between True North and Magnetic North at a specific location.
+    Compass:
+        An instrument used for indicating direction, often depicted on maps.
+
+8.2 Scale, Scale Conversion and Measurements on Maps
+What is Scale?
+
+Scale is the exact degree to which a map has been reduced in size compared to the actual area it represents. It is the ratio or proportion of a distance or area shown on the map to the corresponding distance or area on the Earth's surface.
+
+Mathematically, it can be represented as:
+
+Classification of Maps Based on Scale:
+
+    Large-Scale Maps:
+        Scale: Greater than or equal to 1:50,000 (e.g., 1 cm on the map represents 50,000 cm on the ground).
+        Coverage: Depict a smaller geographic area.
+        Detail: Show greater detail.
+
+    Medium-Scale Maps:
+        Scale: Range between 1:50,000 and 1:250,000.
+        Coverage: Cover wider areas than large-scale maps but smaller areas than small-scale maps.
+        Detail: Present more detailed information than small-scale maps but less detail than large-scale ones.
+
+    Small-Scale Maps:
+        Scale: Less than or equal to 1:250,000.
+        Coverage: Show a larger geographic area.
+        Detail: Show less detail.
+
+Summary of Map Scale Types:
+
+    Large-Scale Maps:
+        Scale: ≥ 1:50,000
+        Cover small areas
+        Contain highly detailed information
+    Medium-Scale Maps:
+        Scale: Between 1:50,000 and 1:250,000
+        Cover medium-sized areas
+        Contain moderately detailed information
+    Small-Scale Maps:
+        Scale: ≤ 1:250,000
+        Cover large areas
+        Contain less-detailed information
+
+Ways of Map Scale Expression
+
+A map scale can be expressed in three ways:
+
+    Scale Statement:
+        Description: Expressed in words.
+        Example: "One centimeter to one kilometer" (1 cm represents 1 km on the ground).
+
+    Representative Fraction (RF):
+        Description: Expressed as a ratio or fraction, most commonly as a ratio.
+        Example: 1:400,000 (meaning 1 unit on the map represents 400,000 of the same units on the ground).
+
+    Graphic Scale/Linear Scale:
+        Description: A line drawn on the map, subdivided into units corresponding to the map's scale.
+        Also known as a bar scale or line scale.
+        Usually a horizontal line with primary divisions marked from zero to the right and secondary divisions to the left of zero for finer readings.
+
+    Example Graphic Scale (for RF 1:50,000):
+    |---|---|---|---|---|
+    0   500m 1km 1.5km 2km
+
+    (Where 1 cm on the map represents 500m or 0.5km on the ground, derived from 1:50,000 => 1cm = 50,000cm = 500m = 0.5km)
+
+Conversion of a Map Scale
+
+It is often necessary to convert between different forms of map scales.
+
+    Key Conversion Factor: 1 km = 100,000 cm
+
+    RF to Statement Scale:
+        Example: Given RF = 1:500,000.
+        This means 1 cm on the map represents 500,000 cm on the ground.
+        To convert 500,000 cm to kilometers, divide by 100,000:
+
+    Statement Scale: 1 cm to 5 km.
+
+Statement Scale to RF:
+
+    Example: Given 1 cm to 10 km.
+    First, convert 10 km to centimeters:
+
+        Representative Fraction (RF): 1:1,000,000.
+
+Activity 8.3:
+
+    Convert the following RFs into Statement scales:
+        a) 1:50,000
+        b) 1:250,000
+        c) 1:400,000
+    Change the following Statement scales into RFs:
+        a) 1 cm to 100 km
+        b) 4 cm to 1 km
+        c) 2.5 cm to 2.5 km
+    Draw a graphic scale for the following:
+        a) 1 cm to 2.5 km
+        b) 2 cm to 100 km
+
+Measurement on Maps
+
+Maps allow for direct measurement of distances and areas on the Earth's surface.
+Measurement of Distance
+
+    Map Distance (MD): Distances measured directly on the map using a ruler. They are usually expressed in centimeters.
+    Ground Distance: The actual distance on the Earth's surface, calculated using the map's scale.
+    Note: Map distance typically represents the straight-line air distance and does not account for the Earth's surface topography (ups and downs).
+
+Types of Distances Measured:
+
+    Distance along a Straight-Line (Air Distance):
+        Measured directly with a ruler on the map.
+        Example: If the map distance between two points (B and C) is 4 cm, and the map scale is 1:800,000.
+            1 cm on map = 800,000 cm on ground.
+            Ground Distance = 
+
+Convert to km:
+
+        (since 1 km = 100,000 cm).
+        Therefore, the straight-line ground distance between B and C is 32 km.
+
+Distance along a Curved Line (Bending Line Curve):
+
+    Used for measuring distances along roads, railways, rivers, or coastal lines.
+    Method:
+        A thread, string, or the edge of a pair of dividers is used.
+        The curved line is divided into a series of short, nearly straight portions.
+        Each portion is measured and then the measurements are added together.
+    Example: If a road measures 8.4 cm on a map with a scale of 1:50,000 (or 1 cm to 0.5 km).
+        Ground Distance = 
+
+            .
+
+Measurement of Area
+
+Areas of land on maps can be measured, with different methods for regular and irregular shapes.
+
+    Measuring Regular-Shaped Areas:
+        Applies to shapes like squares, rectangles, triangles, and circles.
+        Requires knowledge of geometric formulas (provided in Table 8.1).
+        Measurements on the map (sides, base, height, radius) are converted to ground distances using the map's scale before applying the formulas.
+
+    Table 8.1: Geometric Formulas
+    Regular Shaped Area 	Mathematical Formula
+    Square 	
+
+Rectangle 	
+Right Angle Triangle 	
+Circle 	
+(where
+)
+
+    Example: Calculating the ground area of a rectangular grazing land.
+        Map scale: 1:250,000 (1 cm to 2.5 km).
+        Map length = 3 cm. Map width = 2 cm.
+        Ground length = 
+
+.
+Ground width =
+.
+Ground Area =
+
+        .
+
+Measuring Irregular-Shaped Areas:
+
+    Applies to shapes like lakes, farmlands, and parks that do not have simple geometric forms.
+
+    Methods:
+        Planimeter: An instrument specifically designed to measure accurate areas of both regular and irregular shapes from maps.
+        Grid Square Method: A manual method that involves drawing a grid over the irregular shape.
+
+    Grid Square Method Example: Calculating the area of an irregular-shaped lake.
+        Map scale: 1 cm to 2 km.
+        Steps:
+            Copy the boundary of the lake.
+            Draw grid lines at a uniform interval (e.g., 1 cm apart) over the lake.
+            Count the number of grid squares within the lake, classifying them:
+                Full squares.
+                Three-quarters (¾) squares.
+                Half (½) squares.
+                Quarter (¼) squares.
+            Calculate the approximate number of squares:
+                Total squares = Full squares + (½ squares / 2) + (¼ squares / 4) ...
+                Alternatively, and more commonly taught: Total squares = Full squares + (Number of ¾ squares × 0.75) + (Number of ½ squares × 0.5) + (Number of ¼ squares × 0.25).
+                In the provided example, the counting method is different:
+                    Full squares = 4
+                    ¾ squares = 5 (contributing 
+
+effective squares)
+½ squares = 4 (contributing
+effective squares)
+¼ squares = 1 (contributing
+effective squares)
+Total effective squares =
+Calculate the area of one grid square on the ground:
+
+    Area of one square = 
+
+.
+Scale is 1 cm to 2 km.
+Area of one square =
+
+    .
+
+Calculate the total area of the lake:
+
+    Total Area = (Total number of effective squares) × (Area of one square).
+    Total Area = 
+
+                    .
+
+8.3 Position on Maps
+8.3.1 Grid References
+
+The position of places on the Earth's surface and on maps can be identified using:
+
+    Latitude and Longitude (International Grid References): Based on the geographic grid system.
+    National Grid References (Eastings and Northings): Based on a localized grid system.
+
+A. Position by the use of Geographic Grid
+
+This system uses a network of imaginary lines called parallels and meridians.
+
+    Meridians:
+        Imaginary lines running from the North Pole to the South Pole.
+        Join all points with the same longitude.
+        Measure angular distance east or west of the Prime Meridian.
+
+    Parallels:
+        Imaginary lines running around the globe parallel to the Equator.
+        Join all points with the same latitude.
+        Measure angular distance north or south of the Equator.
+
+    Latitude: Angular measurement north or south of the Equator, expressed in degrees (°), minutes ('), and seconds (").
+
+    Longitude: Angular measurement east or west of the Prime Meridian, expressed in degrees (°), minutes ('), and seconds (").
+
+    Equator: The 0° parallel.
+
+    Prime Meridian: The 0° meridian, passing through Greenwich, London.
+
+Locating a Place using Geographic Grid:
+
+    Identify the point's position relative to the Equator (North or South).
+    Read the latitude value (e.g., 10° N).
+    Identify the point's position relative to the Prime Meridian (East or West).
+    Read the longitude value (e.g., 75° W).
+    Combine both to get the complete geographic grid reference (e.g., 10° N 75° W).
+
+Activity 8.4: Based on provided figures, find the geographic grid of specific points.
+B. Position by the use of National Grid Reference
+
+A Grid is a system of criss-cross reference lines on a map providing a frame for locating points.
+
+    Co-ordinates: Points where vertical and horizontal grid lines cross.
+    Eastings: Vertical grid lines, numbered eastward from the grid origin.
+    Northings: Horizontal grid lines, numbered northward from the grid origin.
+    Grid Origin/National Grid Origin: The point representing (0,0) for the grid system. For Ethiopia, it's located in the SW Kenya where the 34° 30'E meridian crosses the equator.
+    Important Note: Unlike meridians, eastings (vertical grid lines) do not indicate true north.
+
+Types of National Grid References:
+
+    Four-Digit Grid Reference:
+        Use: Common on small-scale maps (e.g., 1:50,000 and smaller).
+        Method: The grid is divided into 10 km squares. Each side of a square is further divided into 10 units (representing 1 km).
+        Procedure:
+            Locate the vertical grid line (easting) to the left of the point and read its large number.
+            Estimate the position within the 10 km square, counting tenths from the grid line to the point.
+            Locate the horizontal grid line (northing) below the point and read its large number.
+            Estimate the position within the 10 km square, counting tenths from the grid line to the point.
+        Format: Easting digit (tens) + Easting digit (tenths), Northing digit (tens) + Northing digit (tenths). Example: 55 25 (meaning 55 km East and 25 km North).
+
+    Six-Digit Grid Reference:
+        Use: Appropriate for larger-scale maps (e.g., 1:20,000) for greater accuracy.
+        Accuracy: Provides position to the nearest 100 meters.
+        Method: Each 1 km square is further divided into 10 units (representing 100 meters).
+        Procedure:
+            Identify the 10 km square (e.g., by a letter code like 'CA').
+            Locate the nearest vertical grid line (easting) to the left of the point and read its large digits.
+            Measure the tenths from this grid line to the point.
+            Locate the nearest horizontal grid line (northing) below the point and read its large digits.
+            Measure the tenths from this grid line to the point.
+        Format: Easting (hundreds of km) + Easting (tens of km) + Easting (tenths of km), Northing (hundreds of km) + Northing (tens of km) + Northing (tenths of km). Example: CA 626584 (CA is the 100km square, 626 refers to eastings, 584 refers to northings).
+        Note: A grid reference always stands for a point, not an area.
+
+Activity 8.5:
+
+    Based on Figure 8.7, find the four-digit grid references for points B and N.
+    Based on Figure 8.8, find the six-digit grid references for points E, A, and B.
+
+8.3.2 Points Compass Direction
+
+    Compass: An instrument used to indicate direction.
+
+    Points of the Compass: There are thirty-two points.
+        Cardinal Points: North (N), East (E), South (S), West (W). The angle between adjacent cardinal points is 90°.
+        Subsidiary (Intermediate) Points: Midway between cardinal points (45° intervals): Northwest (NW), Northeast (NE), Southeast (SE), Southwest (SW).
+        Further Sub-divisions: At 22½° intervals, e.g., North-North-East (NNE), East-North-East (ENE), etc.
+
+    Degrees: Compasses are also marked with degrees, starting from 0° at North and increasing clockwise.
+        N = 0° or 360°
+        E = 90°
+        S = 180°
+        W = 270°
+        NE = 45°
+        SE = 135°
+        SW = 225°
+        NW = 315°
+        Expressing direction in degrees provides more precision than using direction points.
+
+Activity 8.6:
+
+    Draw a figure showing compass points and bearings.
+    Identify the four cardinal points.
+    How many points are there on a compass?
+    Which points coincide with 90°, 135°, 225°, 270°, and 315°?
+
+8.3.3 North Points
+
+In map reading, three types of North are referenced:
+
+    True North (Geographic North):
+        The northerly direction along a line of longitude (Meridian Direction).
+        The direction from any point on Earth's surface towards the North Pole.
+        The Earth spins on an axis passing through the North and South Poles.
+
+    Magnetic North:
+        The direction indicated by a compass needle.
+        The position of the north magnetic pole varies slightly over time.
+        Magnetic Declination (Variation): The angle difference between True North and Magnetic North at a specific location.
+        A direction measured from Magnetic North is called a Magnetic Bearing or Azimuth.
+
+    Grid North:
+        The direction of the north-south grid lines (Eastings) on a map.
+        Grid lines do not align with True North except along a central meridian.
+        Convenient for drawing or measuring bearings directly from the map's grid.
+
+8.4 Map Sketching
+What is a Sketch Map?
+
+A sketch map is an outline map drawn from observation, rather than from precise survey measurements, showing only the main features of an area.
+
+    Characteristics:
+        Freehand drawing.
+        Used to present geographic ideas and facts.
+        Minimizes irrelevant detail, maximizing major geographic points.
+        Represents a high degree of geographic simplification.
+        Foundation for understanding geographic relationships.
+
+How to Draw a Sketch Map
+
+    Decide the Region: Choose boundaries to avoid sketching more than necessary.
+    Determine Space: Allocate appropriate space for the map. Features of similar real-world size should have similar sizes on the map.
+    Note Orientation: Decide and indicate the map's orientation (usually North is "up").
+    Select Reference Points: Use prominent features (major streets, rivers) to help viewers orient themselves.
+    Decide Detail Level: The larger the area, the less detail can be included.
+    Begin Sketching: Start with general shapes. Use simple geometric shapes (circles, rectangles, triangles) if exact shapes are unknown.
+    Add Details: Fill in more details like names of places and major land features as they come to mind.
+    Time Limit: Avoid spending too long; aim for clarity over perfection or excessive detail.
+
+Activity 8.7:
+
+    Sketch a map of your school compound.
+    Sketch, locate, and interpret a population density map of Ethiopia.
+
+8.5 Interpreting Maps and Graphs
+8.5.1 Interpreting Features of the Physical and Human Landscapes
+
+    Conventional Signs and Symbols: Map-makers use a standardized set of symbols agreed upon worldwide to represent features.
+        Purpose: To ensure consistency and understandability across different maps and countries.
+        Requirement: Always consult the key or legend to understand the meaning of these symbols.
+
+    Requirements for Map Symbols:
+        Uniformity: Consistent throughout the map.
+        Clarity: Easy to read and understand.
+        Consistency: Space occupation, orientation, and size should be constant.
+
+    Commonly Used Symbols:
+        Cities and Towns: Indicated by dots or patches of shading.
+        Streams and Bodies of Water: Often printed in blue.
+        Political Boundaries: Shown by dotted or solid lines.
+
+8.5.2 Interpreting Graphs, Tables and Diagrams
+
+Statistical Diagrams: Pictorial representations of numerical information. Examples include charts, graphs, and diagrams.
+
+    Purpose: Make information easier to present and understand, facilitate comparisons, identify trends, and draw conclusions. Crucial for presenting large amounts of statistical data.
+
+Types of Statistical Diagrams:
+
+    Simple Line Graphs:
+        Use: Show changes over time or the relationship between two sets of information.
+        Axes: Typically, the x-axis represents the independent variable (e.g., time), and the y-axis represents the dependent variable (e.g., population size).
+        Steps to Draw:
+            X-axis for independent variable (time), Y-axis for dependent variable.
+            Base of the Y-axis should be zero; the top should slightly exceed the maximum value.
+            Use small crosses or dots to mark plotted values.
+        Example Data: Growth of Ethiopian Population (1950-2020).
+        Applications: Can show changes in temperature, employment, production, etc., over time.
+
+    Simple Bar Graphs:
+        Use: Display statistical data using horizontal or vertical bars.
+        Representation: The height or length of bars is proportional to the quantities they represent, showing differences between items or values.
+        Applications: Can illustrate how amounts or values differ from place to place or change over time (e.g., monthly rainfall distribution).
+        Steps to Draw:
+            Horizontal scale often represents the independent variable, especially when time is involved (e.g., mean monthly rainfall).
+            All bars must start at zero; graphs for comparison must use the same scale.
+            For vertical bars, the time sequence goes from left to right.
+            Bar width is a choice, but avoid extremes.
+            Leave a space or gap between bars for easier assessment.
+        Example Data: Monthly average rainfall in Kokosa town.
+
+    Pie Charts:
+        Use: Circle graphs that use segments of a circle to show the sizes of items that make up a whole.
+        Representation: The entire circle represents 100% (the total); segments represent proportions of that total. The size of each segment is proportional to the part it represents.
+        Purpose:
+            Show the sizes of parts relative to a single whole.
+            Show the sizes of parts relative to each other.
+            Emphasize significant elements in the data.
+        Steps to Draw:
+            Draw a circle of a convenient size.
+            Divide the circle into segments proportional to the value of each component (calculated as a percentage of the total).
+            Calculation: 1% of the whole circle is equivalent to 3.6° (
+
+            ). Segments are drawn using a protractor based on these calculated angles.
+        Example Data: Ethiopia's export destination by continents (%).
+
+Activity 8.8:
+
+    Draw a line graph for the provided data on Early Child Mortality Rate in Ethiopia (2000-2016).
+    Draw a bar graph to represent Ethiopia's Sectorial Percentages Shares in GDP (2017-2020).
+    Draw a pie chart for the provided data on Grain Crops Production in Ethiopia (%) (2018/19).
+
+UNIT SUMMARY
+
+    Map Reading: The skill of interpreting maps, which are simplified, diminished representations of the Earth's surface.
+    Map Making: The skill of creating maps, encompassing both traditional and modern techniques.
+    Uses of Maps: Primarily for identifying locations, distances, areas, and directions.
+    Map Scale Expression: Can be presented as a Scale Statement, Representative Fraction (RF), or Graphic Scale.
+    Scale Calculation: The scale of a map can be determined using known distances between points or parallels/latitudes.
+    Area Measurement: Both regular and irregular features can have their areas measured from maps.
+    Direction Measurement: Measured clockwise from North, expressed in compass points (N, E, S, W) or degrees (bearings).
+    Position Identification: Places can be located using geographic grid references (latitude and longitude) or national grid references (eastings and northings).
+    Geographic Grid Reference: The most accurate and international method for locating places.
+    Conventional Signs and Symbols: Standardized markings used globally on maps to represent features.
+    Statistical Diagrams: Line graphs, bar graphs, and pie charts are effective tools for representing and comparing statistical data.
+
+s

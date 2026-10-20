@@ -1,0 +1,39 @@
+UNIT 5: TRADE AND FINANCE
+
+5.1 OVERVIEW OF DOMESTIC TRADE
+- Domestic trade refers to the exchange of goods and services within an individual country's borders, also known as internal or local trade.
+- It is categorized into retail trade (selling directly to final consumers in smaller quantities) and wholesale trade (selling to other businesses or agents).
+- The primary limitation of domestic trade is the restricted selection and availability of products, as a country can only trade what it is capable of producing domestically.
+
+5.2 BASIS OF INTERNATIONAL TRADE
+- International trade involves the exchange of goods, services, and capital across national borders.
+- Trade arises primarily due to international price differences driven by uneven global resource endowments, disparities in technology and technical skills, and access to unavailable goods.
+- Advantages include efficient resource use, specialized production, increased global output, technology exchange, and the exploitation of economies of scale.
+
+5.3 BASIC THEORIES OF INTERNATIONAL TRADE
+- Mercantilism (1500-1800 G.C.): Viewed a nation's wealth in terms of precious metal holdings and advocated for a favorable balance of trade (exports exceeding imports) through government regulation, treating trade as a zero-sum game.
+- Adam Smith's Absolute Advantage: Argued that nations benefit from free trade by specializing in goods they can produce at a lower cost (absolute advantage) compared to trading partners, making trade a positive-sum game.
+- David Ricardo's Comparative Advantage: Demonstrated that mutually beneficial trade is still possible even if one country has an absolute advantage in all goods, provided each country specializes in the good where it has a lower opportunity cost.
+
+5.4 BALANCE OF PAYMENT COMPONENTS
+- Balance of Payment (BoP): A systematic double-entry record of all economic transactions between a country's residents and the rest of the world.
+- Current Account (CA): Records inflows and outflows from goods (trade balance), net services, and net unilateral transfers (gifts and remittances).
+- Capital Account (KA): Records transactions involving financial instruments, foreign direct investment, borrowing, and lending of capital.
+- Overall BoP is the sum of the Current Account and Capital Account, where surpluses increase official foreign exchange reserves and deficits deplete them.
+
+5.5 TRADE POLICIES AND STRATEGIES
+- Trade Restrictions: Actions taken to discourage trade, categorized into price-related restrictions (tariffs or import duties that raise import prices) and quantity-related restrictions (import quotas limiting maximum import volumes).
+- Import Substitution Strategy: A policy aimed at replacing foreign imports with domestic production by protecting infant industries through tariffs and quotas.
+- Export Promotion Strategy: A policy package designed to generate foreign currency earnings by providing preferential treatment and incentives to the export sector.
+
+5.6 EXCHANGE RATE DETERMINATIONS
+- Foreign Exchange Market: The marketplace where currencies are traded and exchange rates are determined by supply and demand forces.
+- Nominal vs. Real Exchange Rates: The nominal exchange rate is the relative price of two currencies, while the real exchange rate measures the relative price of goods and services between two countries.
+- Exchange Rate Systems:
+  - Fixed Exchange Rate System: The currency's value is fixed and managed by the government or central bank through market intervention and foreign reserve holdings.
+  - Floating Exchange Rate System: The currency's price is set freely by market supply and demand, though central banks may use a managed float system.
+
+5.7 REGIONAL INTEGRATION AND GLOBALIZATION PRACTICES IN THE ETHIOPIAN CONTEXT
+- Regional Integration: Cooperation among geographic neighbors to reduce trade barriers and achieve common economic and political goals, moving through stages from a Free Trade Area to a Customs Union, Common Market, and Economic Union.
+- Advantages and Disadvantages: Integration offers trade benefits and expanded markets, but carries risks of trade diversion, relocation job losses, and reduced national sovereignty.
+- Globalization in Ethiopia: Increases international interconnectedness, attracting global investments, rapid economic growth, and technological upgrading, while posing challenges such as cultural preservation and labor protection.

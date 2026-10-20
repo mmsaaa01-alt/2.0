@@ -1,0 +1,408 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 7: CONGRUENCY AND SIMILARITY: 7.1 Revision on Congruency of Triangles, 7.2 Definition of Similar Figures, 7.3 Theorems on similar plane figures, 7.4 Ratio of perimeters of similar plane figures, 7.5 Ratio of areas of similar plane figures, 7.6 Construction of similar figures, 7.7 Applications of similarity, UNIT 7: Summary, UNIT 7: Review Exercise
+
+Unit 7: Congruency and Similarity
+
+    This unit introduces the fundamental concepts of congruency and similarity in triangles and other plane figures. It covers definitions, conditions (theorems) for determining congruency and similarity, and applications such as ratios of perimeters and areas of similar figures, as well as construction of similar figures.
+
+7.1 Revision on Congruency of Triangles
+Introduction to Congruency
+
+Congruency describes the concept of equality in size and shape between geometric figures. If two figures are congruent, one can be transformed into the other using turns, flips, and/or slides, meaning they are identical in every aspect.
+
+    Key Idea: Congruent figures have exactly the same shape and size.
+
+Definition of Congruency
+
+    Definition 7.1: When two triangles have exactly the same three sides and the same three angles, they are called congruent triangles.
+
+    Corresponding Parts:
+        "Same three sides" means the corresponding sides have equal length.
+        "Same three angles" means the corresponding angles have equal measure.
+    Notation: The symbol '
+
+' denotes congruency. For example, if triangle is congruent to triangle , it is written as
+.
+Implications of
+:
+
+    Corresponding Sides are Equal:
+
+Corresponding Angles are Equal:
+
+Conditions for Congruency of Triangles (Congruency Postulates/Theorems)
+
+To determine if two triangles are congruent, we don't always need to check all three sides and all three angles. Specific conditions are sufficient.
+
+    SSS Congruency (Side-Side-Side)
+        Condition: When two triangles have equal corresponding sides, then the triangles are congruent.
+        Explanation: If all three sides of one triangle are congruent to the corresponding three sides of another triangle, the triangles are congruent.
+    SAS Congruency (Side-Angle-Side)
+        Condition: When two triangles have two pairs of congruent sides and one pair of congruent angles between the sides (the included angle), then the triangles are congruent.
+        Explanation: The angle must be included between the two sides whose congruency is established.
+    ASA Congruency (Angle-Side-Angle)
+        Condition: When two triangles have two pairs of congruent angles and one pair of congruent sides between the angles (the included side), then the triangles are congruent.
+        Explanation: The side must be included between the two angles whose congruency is established.
+    RHS Congruency (Right-angle Hypotenuse Side)
+        Condition: When two right triangles have an equal hypotenuse and one equal corresponding side (leg), then the triangles are congruent.
+        Explanation: This condition applies specifically to right-angled triangles.
+
+7.2 Definition of Similar Figures
+Introduction to Similarity
+
+Similar figures share the same shape but not necessarily the same size. One figure can be seen as a scaled version (magnified or diminished) of the other.
+Definition of Similarity
+
+    Definition 7.2: Two plane figures are similar if their corresponding angles are congruent and the ratios of their corresponding sides are proportional. This common ratio is called the scale factor.
+
+    Key Properties of Similar Figures:
+        All corresponding angles are congruent (equal in measure).
+        All corresponding sides are proportional (their ratios are equal).
+    Magnification/Diminution: When similar figures are magnified or diminished, one can be exactly placed on the other.
+    Notation: The symbol '
+
+' is used to denote similarity. For example, if triangle is similar to triangle , it is written as
+
+    .
+    Examples of Always Similar Figures:
+        Any two circles (regardless of their radii) are always similar because they have the same shape.
+        Any two squares (regardless of their side lengths) are always similar.
+        Any two regular polygons (with the same number of sides) are similar. For instance, all equilateral triangles are similar, and all regular pentagons are similar.
+
+Identifying Proportional Sides and Scale Factor
+
+If
+, then the ratios of their corresponding sides are equal:
+
+This common ratio is the scale factor.
+
+Example 1 (Common Ratio of Sides): Given
+
+with side lengths:
+
+: , , : , , The common ratio of their corresponding sides is calculated as:
+
+Thus, the common ratio (scale factor) is 2.
+
+Example 2 (Finding Unknowns in Similar Quadrilaterals): Assume quadrilateral
+
+.
+
+    Finding Unknown Angle (z):
+        Since 
+
+, corresponding angles are congruent.
+Given
+. If , then
+
+    .
+
+Finding Unknown Lengths (x and y):
+
+    Corresponding sides are proportional: 
+
+.
+Using
+:
+Using :
+7.3 Theorems on Similar Plane Figures
+
+    These theorems provide shortcuts to conclude the similarity of triangles by checking only a few pairs of corresponding sides and/or angles, rather than all six. The three main theorems are AA (Angle-Angle), SSS (Side-Side-Side), and SAS (Side-Angle-Side) similarity.
+
+7.3.1 AA Similarity Theorem (Angle-Angle)
+
+    Theorem: If two angles of one triangle are respectively congruent to two angles of another triangle, then the triangles are similar.
+
+    Explanation: This means equiangular triangles are similar. We only need two pairs of congruent angles because the third pair will automatically be congruent due to the angle sum property of triangles (the sum of angles in a triangle is 
+
+).
+Notation:
+
+    .
+
+Example (Using AA Similarity Theorem): Given two triangles,
+and
+
+:
+
+: ,
+.
+: ,
+
+    .
+
+Solution:
+
+    Find missing angles using the Angle Sum Theorem (
+
+):
+
+    In 
+
+:
+.
+In
+: . (Typo in text: , should be if and . Following the text's calculation, let's assume one of the given angles in was meant to be different to yield for or that the text is implying corresponds to and corresponds to but then is not the third angle if and . The text example says
+. Let's re-evaluate based strictly on text).
+Re-evaluation based on text example:
+
+    In 
+
+:
+.
+In
+: . If , then
+.
+Comparing angles:
+. , but . The example solution states "m() =48o & m() =30o. Hence, by AA similarity theorem." This suggests corresponding angles are:
+
+(
+)
+( vs
+- this does not match)
+( vs
+
+    - this does not match)
+
+The example calculation provided seems to have a discrepancy. If
+, then their corresponding angles must be equal. The angles in are . The angles in are . If and , then . So, the angles for are
+.
+To apply AA, we need two pairs of congruent angles. From the given
+and , we have one pair. However, the other angles ( vs , vs
+) are not congruent.
+Conclusion for this specific example based on text's statement: The textbook example's solution states "Hence,
+
+            by AA similarity theorem." This implies a set of angles that are indeed congruent, despite potentially mismatched input values or calculation. For the purpose of notes, I will state the principle that if two angles are congruent, the triangles are similar. The given calculation is confusing but the general rule is clear. I will stick to what the text says about AA similarity.
+
+7.3.2 SSS Similarity Theorem (Side-Side-Side)
+
+    Theorem: If the corresponding three sides of two triangles are proportional to each other, then the triangles are similar.
+
+    Explanation: This implies that any such pair of triangles are also equiangular (all corresponding angle pairs are congruent).
+
+Example 1 (Using SSS Similarity Theorem): Determine if
+and
+
+are similar by SSS similarity theorem.
+
+: , , : , , Solution: Check the ratios of corresponding sides:
+Since all ratios are equal (), the corresponding sides are proportional. Hence,
+
+by SSS similarity theorem.
+
+Example 2 (Using SSS Similarity Theorem with different orientations): Determine if two triangles (with sides 20, 28, 32 and 15, 21, 24) are similar by SSS similarity theorem. Solution: Match the sides (longest to longest, shortest to shortest):
+
+    Longest sides: 
+
+and . Ratio: Middle sides: and . Ratio: Shortest sides: and . Ratio: Since all three ratios are equal (
+
+    ), the corresponding sides are proportional. Therefore, the triangles are similar by SSS similarity theorem.
+
+7.3.3 SAS Similarity Theorem (Side-Angle-Side)
+
+    Theorem: If the corresponding two sides of two triangles are proportional and the included angles are congruent, then the two triangles are similar.
+
+    Important Note: The emphasis is on the word included. If the congruent angles are non-included angles, the two triangles may not be similar.
+
+Example 1 (Using SAS Similarity Theorem): Given two triangles
+and
+
+:
+
+    Sides 
+
+, for
+.
+Sides
+, for
+.
+
+    .
+
+Solution:
+
+    Check proportionality of corresponding sides:
+
+The two corresponding sides are in the same ratio.
+Check included angle:
+
+    Given 
+
+. These are the angles included between the sides and respectively. Hence,
+
+        by SAS similarity theorem.
+
+Example 2 (Finding Remaining Sides of Similar Triangles): Assume
+. Given , , . Solution: Since the triangles are similar, the ratios of corresponding sides are equal:
+We have :
+To find :
+
+.
+
+Now use the common ratio to find
+: The common ratio is . So, . We need more information to find or
+
+.
+
+    Let's re-read the example. It asks to find the length of the remaining sides. The provided solution calculates 
+
+and . For , it uses 9/6 = AC/8cm. This implies was given in the figure (not textually). Assuming from an implied figure:
+Thus, the remaining sides are and
+
+    .
+
+Example 3 (Finding Missing Angle in Similar Triangles): Given two triangles, if the three sides are proportional (e.g.,
+), then the triangles are similar by SSS similarity theorem. If by SSS, and angles in are and
+
+: Solution:
+
+    Find the third angle in 
+
+:
+.
+Corresponding angles are congruent: Since
+, their corresponding angles are congruent. Therefore,
+
+    .
+
+Example 4 (Finding Angles and Sides in Similar Isosceles Triangles): Given
+. is an isosceles triangle with , . ,
+
+. Solution:
+
+    Find angles of 
+
+: Since is isosceles and has a angle, it must be a right isosceles triangle. If and , then
+.
+Find angles of
+(using similarity): Since , corresponding angles are equal:
+
+Find side (using proportionality): From the similarity, . Given , . Assume from a figure that .
+Thus,
+
+    .
+
+7.4 Ratio of Perimeters of Similar Plane Figures
+
+    The relationship between the perimeters of similar figures is directly tied to their scale factor.
+
+Definition
+
+    Definition 7.3: If two figures are similar, then the ratio of their perimeters is equal to the ratio of their corresponding side lengths.
+
+    Formula: For two similar plane figures with perimeters 
+
+and , and corresponding side lengths and :
+
+    This means the ratio of perimeters is equal to the scale factor.
+
+Example 1 (Ratio of Perimeters of Similar Triangles): Assume
+
+.
+
+has sides
+.
+has sides
+.
+The ratio of corresponding sides is
+
+    .
+
+Solution:
+
+    Calculate Perimeters:
+        Perimeter of 
+
+.
+Perimeter of
+
+    .
+
+Find Ratio of Perimeters:
+This ratio (
+
+    ) is equal to the ratio of the corresponding sides, confirming the theorem.
+
+Example 2 (Ratio of Perimeters of Similar Rectangles): Find the ratio (purple to blue) of the perimeters of two similar rectangles if their corresponding lengths are
+(purple) and
+
+(blue).
+
+Solution: The ratio of the perimeters is equal to the ratio of their corresponding side lengths.
+7.5 Ratio of Areas of Similar Plane Figures
+
+    The relationship between the areas of similar figures is related to the square of their scale factor.
+
+Definition
+
+    Definition 7.4: If two plane figures are similar, then the ratio of their areas is equal to the square of the ratio of their corresponding side lengths.
+
+    Formula: For two similar plane figures with areas 
+
+and , and corresponding side lengths and :
+
+    This means the ratio of areas is equal to the square of the scale factor.
+
+Example 1 (Ratio of Areas of Similar Rectangles): Consider a pair of similar rectangles:
+
+    Smaller rectangle: 
+
+by
+.
+Larger rectangle:
+by . The ratio of the corresponding sides (larger to smaller) is (or
+
+    ).
+
+Solution:
+
+    Calculate Areas:
+        Area of the smaller rectangle = 
+
+.
+Area of the larger rectangle =
+
+    .
+
+Find Ratio of Areas:
+Compare to Square of Side Ratio: The ratio of side lengths is . The square of this ratio is . This confirms that
+
+    .
+
+Example 2 (Ratio of Areas of Similar Triangles): If
+and are similar, and the ratio of a pair of corresponding sides (e.g., larger to smaller) is
+
+.
+
+Solution: The ratio of their areas is the square of the ratio of their corresponding sides:
+Therefore, the ratio of the areas is
+
+.
+7.6 Construction of Similar Figures
+
+    Constructing a similar triangle involves scaling the original triangle by a given scale factor. The new triangle can be either larger or smaller than the original, depending on whether the scale factor is greater than or less than 1.
+
+    Scale Factor's Role: The scale factor determines the ratio of the sides of the constructed triangle to the corresponding sides of the given triangle.
+        If the scale factor is 
+
+, the constructed triangle will be larger.
+If the scale factor is
+, the constructed triangle will be smaller.
+If the scale factor is
+
+        , the constructed triangle will be congruent (same size and shape).
+
+Example: Construct a triangle similar to a given
+with a scale factor of
+
+.
+
+    Interpretation: Since the scale factor 
+
+, the constructed triangle will be larger than . This means each side of the new triangle will be times the length of the corresponding side of
+
+    .
+        (The detailed steps for construction would typically follow, often involving parallel lines and division of line segments based on the ratio.)
+

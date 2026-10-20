@@ -1,0 +1,371 @@
+
+Study Notes: Geography - G9
+
+UNIT 2: CLIMATE OF ETHIOPIA: 2.1 Meaning of Weather and Climate, 2.2 Elements of Weather and Climate, 2.3 Controls of Weather and Climate in Ethiopia, 2.4 Climatic Regions and Seasonal Variation in Ethiopia, 2.5 Measurements of Weather and Climate, UNIT 2: Unit Summary, UNIT 2: Review Exercise
+
+UNIT TWO: CLIMATE OF ETHIOPIA
+
+• This unit provides a comprehensive overview of weather and climate, focusing on their elements, controls, and specific manifestations in Ethiopia. It covers the distinct agro-climatic zones, seasonal variations in temperature and rainfall, and the methods used to measure key atmospheric conditions.
+
+2.1 Meaning of Weather and Climate
+
+• This section helps you understand the fundamental concepts of weather and climate, and how they differ.
+
+  • Key Terms:
+    ◦ Climate
+    ◦ Weather
+
+• The terms "weather" and "climate" are closely related but have distinct meanings:
+
+  • Weather:
+    ◦ Definition: Refers to the condition of the atmosphere in terms of temperature, rainfall, pressure, wind, moisture, cloud cover, humidity, etc., observed in a certain place over a short period of time.
+    ◦ Variability: It is a phenomenon that varies greatly from hour to hour, and even from day to day.
+
+  • Climate:
+    ◦ Definition: Is a pattern of weather conditions experienced in an area over a long period of time.
+    ◦ Considerations: It considers the trends, fluctuations, and vibrations that may occur as a departure from the average conditions in time and space.
+    ◦ Coverage: A large area can typically experience only one type of climate.
+
+2.2 Elements of Weather and Climate
+
+• This section identifies and defines the components that make up both weather and climate.
+
+  • Key Terms:
+    ◦ Air pressure
+    ◦ Cloud cover
+    ◦ Humidity
+    ◦ Precipitation
+    ◦ Temperature
+    ◦ Wind
+
+• Both weather and climate are composed of the following elements:
+
+  • Precipitation: Any liquid or frozen water that forms in the atmosphere and falls back to the Earth in forms such as rain, sleet, hail, and snow.
+  • Temperature: The degree of measurement of hotness or coldness of an object.
+  • Humidity: The concentration of water vapor present in the air.
+  • Air pressure: The force exerted on a surface by the air above it as gravity pulls it to Earth.
+  • Wind: The movement of air, caused by the uneven heating of the Earth by the sun and the Earth's own rotation.
+  • Sunshine: Direct sunlight to which a given area is exposed.
+  • Cloud: Any visible mass of water droplets or ice crystals suspended in the atmosphere.
+
+• The distribution of these elements over the surface of the Earth is uneven in terms of their magnitude and occurrence over time. This spatial (space) and temporal (time) distribution of climatic elements is governed by various climate control factors, which are discussed in the next section.
+
+2.3 Controls of Weather and Climate in Ethiopia
+
+• This section distinguishes between the elements of climate and the factors that control their distribution, specifically within Ethiopia.
+
+  • Key Terms:
+    ◦ Altitude
+    ◦ Distance from the sea
+    ◦ Latitude
+    ◦ Mountain barriers
+    ◦ Ocean currents
+
+• Ethiopia exhibits a variety of climates. The distribution of climatic elements across different locations (spatial) and over time (temporal) in Ethiopia is determined by various physical factors, collectively known as controls of weather and climate.
+
+• The most important controls are:
+
+  • Latitude
+  • Altitude
+  • Mountain Barriers
+  • Revolution of the Earth and the Inclination of the Earth's Axis
+  • Distance from the Sea
+  • Ocean Current
+
+a) Latitude
+
+  • Definition: The angular location of a place or point with reference to the direct rays of the sun.
+  • Impact in Ethiopia: The sun's rays fall vertically on the equator but are slanting in temperate and polar regions. Ethiopia's location within the tropical zone results in:
+    ◦ High temperatures during most of the year.
+    ◦ High daily (diurnal) ranges of temperature.
+    ◦ Relatively small annual ranges of temperature.
+    ◦ Little difference between summer and winter in the ratios of daylight to night.
+
+b) Altitude
+
+  • Dominant Factor: Altitude is the main factor determining the spatial distribution of temperature in Ethiopia.
+  • Effect: Different places at the same latitude (and thus receiving similar angles of sun rays) can experience unequal temperatures due to varying altitudes.
+  • Example (Table 2.1: The Role of Altitude in Modifying Temperatures):
+  • Towns       Latitude       Altitude (m.a.m.s.l.)       Average Annual Temperature
+
+  • Addis Ababa       
+2,200       16
+  • Bako (West Shewa)       
+1,800       17
+  • Awash       
+
+    916       25
+  • This table demonstrates that temperature generally decreases as altitude ascends from the lowlands towards the interior highlands.             
+
+c) Mountain Barriers
+
+  • Influence: Mountains affect the spatial distribution of rainfall.
+  • Windward Side: The side of the mountain facing the wind laden with moisture. This side typically receives significant rainfall.
+  • Leeward Side (Rain Shadow): The other side of the mountain that does not face the moisture-laden wind. Places located here receive little rain.
+
+d) Revolution of the Earth and the Inclination of the Earth's Axis
+
+  • Earth's Tilt: The Earth's axis is inclined 
+
+    to the normal of the elliptic (the plane of Earth's orbit).
+  • Seasonal Impact: As the Earth revolves around the sun, this inclination causes changes in the angle of the sun's rays and affects the length of daylight. These changes lead to the formation of different seasons, which in turn cause the temporal variation of temperature in Ethiopia throughout the year.
+
+e) Distance from the Sea
+
+  • Heat Absorption Differences: Landmasses absorb and release heat energy more quickly than water bodies.
+  • Impact in Ethiopia: Distance from the sea significantly affects the climate only in coastal areas adjacent to the Red Sea and the northwestern Indian Ocean. Towards the interior of Ethiopia, its role in climate control is insignificant.
+
+f) Ocean Current
+
+  • Effect on Coastal Regions:
+    ◦ Warm currents: Heat the air over the ocean, bringing higher temperatures over land when local winds blow inland.
+    ◦ Cold currents: Can lower air temperatures, bringing colder temperatures over land when local winds blow inland.
+  • Impact in Ethiopia: The role of ocean currents in Ethiopia's climate control is inconsequential.
+
+• Note: Among all the climate controls mentioned, the climate of Ethiopia is dominantly controlled by altitude and latitude.
+
+2.4 Climatic Regions and Seasonal Variations in Ethiopia
+
+• This section explores the distinct agro-climatic zones and seasonal patterns of temperature and rainfall across Ethiopia.
+
+  • Key Terms:
+    ◦ Agro-climatic zones
+    ◦ Alpine or Afro-Alpine
+    ◦ Bereha
+    ◦ Dega
+    ◦ Inter-Tropical Convergence Zone (ITCZ)
+    ◦ Kolla Subtropical
+    ◦ Woina Dega
+    ◦ Wurch/Kur
+
+2.4.1 Agro-climatic Zones of Ethiopia
+
+• In Ethiopia, the significant impact of altitude has led to the formation of five distinct agro-climatic zones. These zones are traditionally defined based on temperature characteristics.
+
+  • Table 2.2: Agro-climatic Zones
+  • Altitude in meters       Traditional Agro-ecological Name       Global Equivalence       Mean Annual Temperature
+
+  • 3,300 and above       Wurch/Kur       Alpine or Afro-Alpine       
+  • 2,300 - 3,300       Dega       Temperate       
+  • 1,500 - 2,300       Woina Dega       Subtropical       
+  • 500 - 1500       Kolla       Tropical       
+  • Below 500       Bereha       Desert       
+
+a) Wurch-Zone Areas
+
+  • Characteristics: These areas have the highest altitudes and, consequently, the lowest temperatures, often less than 
+
+    .
+  • Location: Found in the very high mountains of South Gondar, Wollo, Shewa, Arsi, and Bale.
+  • Examples: Mt. Ras Dashen (Semien Gondar), Mt. Guna (South Gondar), Mt. Megezez (North Shewa), Mt. Batu (Bale).
+
+b) Dega-Zone Areas
+
+  • Characteristics: These are highland areas with lower altitudes and higher temperatures compared to the Wurch-zone.
+  • Historical Significance: Historically, Dega-zone areas were preferred for human settlement due to:
+    ◦ Secure locations for defense against threats.
+    ◦ Reliable rainfall.
+    ◦ Absence of tropical diseases like malaria.
+  • Environmental Impact: Due to high human population concentration, the Dega zone has experienced intensive cultivation, leading to high rates of soil erosion, overgrazing, and deforestation.
+  • Agriculture: Humid parts of this zone can support two growing periods per year under rain-fed agriculture.
+  • Examples: Dinsho (Bale), Chillallo (Arsi), Hulla (Sidama), Debresina (North Shewa).
+
+c) Woina-Dega-Zone Areas
+
+  • Agricultural Importance: These areas contain most of Ethiopia's agricultural land and are the country's main producers of:
+    ◦ Surplus grain.
+    ◦ Inset and its derivatives.
+  • Agriculture: Like the Dega zone, Woina-Dega can also have two growing seasons when rainfall reliability is high.
+
+d) Kolla Zone Areas
+
+  • Climate Type: This zone experiences a warm-to-hot semi-arid climate.
+  • Altitude Range: 500 to 1500 meters above sea level (m a.s.l.).
+  • Temperature: Average annual temperatures are between 
+
+and 
+
+    .
+  • Rainfall: Mean annual rainfall ranges from 410 mm to 820 mm, but can reach as high as 1600 mm in the wet western lowlands of Gambella. Rainfall is highly variable year to year.
+  • Example: Western lowlands.
+
+e) Bereha-Zone Areas
+
+  • Climate Type: This is a hot arid climate, characteristic of desert lowlands.
+  • Altitude: Found below 500 m a.s.l.
+  • Temperature: Average annual temperature is over 
+
+    .
+  • Rainfall: Average annual rainfall is less than 400 mm.
+  • Characteristics: Usually characterized by strong winds, high temperatures, low relative humidity, and little cloud cover. Evapotranspiration always exceeds rainfall.
+  • Example: Danakil Depression in the Afar lowlands.
+
+2.4.2 Seasonal Variation in Ethiopia
+
+  • Season Definition: A season is a period of the year characterized by a particular set of weather conditions resulting from the inclination of the Earth's axis and the revolution of the Earth around the sun. The same cycle of seasons repeats annually.
+
+2.4.2.1 Seasonal Variation of Temperature in Ethiopia
+
+  • General Pattern:
+    ◦ High temperatures are recorded from March to June in most parts of Ethiopia.
+    ◦ Low temperatures are recorded from November to February.
+  • Primary Causes:
+    ◦ The tilting of the Earth at 
+
+    to the normal elliptic.
+    ◦ The distance of the overhead sun and its apparent north-south movement across the equator as the Earth revolves around the sun.
+
+Bega Season (Northern Hemisphere Winter):
+
+  • During this season, Ethiopia experiences clear skies and intense incoming solar rays.
+  • Daytime temperatures increase, but decrease abruptly at night due to the clear sky.
+  • This results in a high diurnal range of temperature (difference between daily maximum and minimum).
+  • Spatial Temperature Distribution:
+    ◦ Mean maximum temperatures are experienced over the western, northeastern, and southeastern lowlands.
+    ◦ The lowest temperatures are over the Semien and Arsi-Bale mountains.
+    ◦ The Danakil Depression is the hottest place in Ethiopia, recording temperatures over 
+
+            .
+
+2.4.2.2 Seasonal Variation of Rainfall in Ethiopia
+
+  • Characteristics: Rainfall in Ethiopia exhibits marked spatial (location-based) and temporal (time-based) variations.
+
+A. Spatial Variation of Rainfall in Ethiopia
+
+  • Cause: The spatial variation of rainfall is primarily a result of the strength and nature of prevailing weather systems, which follow the oscillation of the Inter-Tropical Convergence Zone (ITCZ).
+  • Additional Influences: Ethiopia's weather systems are also influenced by the apparent movement of the overhead sun, prevailing winds, and the presence of mountain barriers that block moisture.
+  • Inter-Tropical Convergence Zone (ITCZ):
+    ◦ Definition: A low atmospheric pressure zone formed by the convergence of northeasterly and southeasterly trade winds.
+    ◦ Movement: The ITCZ shifts north and south of the equator, following the position of the overhead sun.
+    ◦ June (ITCZ at Tropic of Cancer): During this time, Ethiopia comes under the influence of the Equatorial Westerlies and Easterlies. These winds originate from water bodies and bring moisture to the highlands, though their magnitude and length of rainy periods decrease northwards.
+    ◦ December (ITCZ at Tropic of Capricorn): The ITCZ shifts south, leaving Ethiopia under the influence of the Northeast Trade winds. These winds originate from continental landmasses and are largely non-moisture-laden. Consequently, most of Ethiopia experiences a dry season. Only lowland areas in the Afar region close to the coast receive a small amount of rain, as these winds pick up some moisture while blowing over the Red Sea.
+    ◦ March and September (ITCZ around the Equator): The Equatorial Easterlies provide rain to the Southeastern lowlands, and the Central and highlands of Ethiopia.
+
+B. Temporal Variation of Rainfall in Ethiopia
+
+  • Seasonal Character: Ethiopia's rainfall is characterized by distinct seasonal variations.
+  • Main Rainy Seasons ( 
+
+    of rainfall):
+    ◦ Kiremt (Summer): Extends from June to August.
+    ◦ Belg (Spring): Covers the period from March to May.
+  • Other Rainy Seasons:
+    ◦ Meher (Autumn) rains: Occur from September to November. Compared to Kiremt and Belg, these rains have less duration, volume, and aerial coverage.
+    ◦ Bega (Winter): Generally the dry season, from December to February. It supplies a small amount of rain only to the Afar lowlands.
+
+2.4.3 Rainfall Regions of Ethiopia
+
+• Based on the spatial and temporal distribution of rainfall, five main rainfall regions can be identified in Ethiopia:
+
+a. Year-round Rainfall Region (Wet in most months)
+
+  • Area: Includes the southwestern plateau, comprising the highlands of Wollega, Kafa, Illubabor, and Gamo and Goffa.
+  • Reason for High Rainfall: Dominance of the Equatorial Westerlies wind system, which picks up moisture from the Atlantic Ocean.
+  • Represented by Stations: Gore, Mizan, Metu, Bonga, Gambella.
+  • Rainfall: This region has more rainy days than any other part of the country, with average rainfall varying from 1400 mm to 2200 mm.
+  • Map Representation: Letter B on Figure 2.5 (implied figure).
+
+b. Summer Rainfall Region
+
+  • Area: The largest rainfall region in the country, encompassing the Northwest Highlands and Western Lowlands.
+  • Represented by Stations: Debre Markos, Fitche, Gondar, Bahir Dar.
+  • Moisture-Bearing Winds: Equatorial Westerlies and Easterlies.
+  • Map Representation: Letter A in Figure 2.5 (implied figure).
+
+c. Autumn-and-Spring Rainfall Region
+
+  • Area: Covers the southeastern highlands and associated southeastern lowlands.
+  • Represented by Stations: Gode, Moyalle, Jigjiga, Yabello.
+  • Moisture-Bearing Winds: Equatorial Easterlies, which pick up moisture from the Indian Ocean. They blow over this region when the Northeasterlies and Equatorial Westerlies are weak.
+  • Rainfall: The region's average rainfall varies from less than 500 mm to 1000 mm.
+  • Map Representation: Letter E in Figure 2.5 (implied figure).
+  • Note: In Ethiopia, highland rainfall is generally more dependable than lowland rainfall. Rainfall variability (deviation from the expected amount and time) decreases from areas of heavy rains to areas of low rainfall.
+
+d. Winter Rainfall Region
+
+  • Area: Consists of the eastern escarpment of the western highlands, the middle Rift Valley section, and the Afar subdivision.
+  • Represented by Station: Assaita (Afar Region).
+  • Moisture-Bearing Winds: For the most part, the North Easterlies. The air mass is continental (dry) and has only a short sea trajectory (over the Red Sea).
+  • Rainfall: The total annual moisture of the region is very low and of short duration.
+  • Map Representation: Letter D in Figure 2.5 (implied figure).
+
+e. Merged Spring, Summer, and Autumn Rainfall Region
+
+  • Area: The smallest rainfall region in the country. It mainly consists of the western foothills of the Southeastern Highlands, stretching as a corridor from the Sidama Highlands to the Hararge Plateau.
+  • Rainfall: The total annual rainfall of the region varies from 1000 mm to 1500 mm.
+  • Represented by Stations: Assaita, Awash (Note: Assaita is also listed under the Winter Rainfall Region in the text).
+  • Map Representation: Letter C in Figure 2.5 (implied figure).
+
+2.5 Measurements of Weather and Climate
+
+• This section describes the instruments and methods used to measure and record key elements of weather and climate.
+
+  • Key Terms:
+    ◦ Anemometer
+    ◦ Barometer
+    ◦ Rain gauges
+    ◦ Thermometer
+    ◦ Wind vane
+
+A. Measuring and Recording Air Temperature
+
+  • Instrument: The thermometer is used for measuring temperature. It is a narrow glass tube filled with mercury or alcohol.
+  • Principle: Thermometers work on the principle that mercury (or alcohol) expands when heated and contracts when cooled.
+  • Temperature Scales:
+    ◦ Fahrenheit ( 
+
+): Freezing point is , boiling point is 
+.
+    ◦ Centigrade (
+): Freezing point is , boiling point is 
+
+    . This scale is preferred for most scientific purposes.
+  • Interconversion Formulas:
+    ◦ To convert Fahrenheit to Centigrade: 
+    ◦ To convert Centigrade to Fahrenheit: 
+  • Calculations (Focus):
+    ◦ Mean daily temperature: Calculated by adding the maximum and minimum temperature of the day and dividing the sum by 2.
+    ◦ Daily (diurnal) range of temperature: The difference between the daily maximum and daily minimum temperature.
+    ◦ Mean monthly temperature: Determined by adding together the daily averages and dividing by the number of days in a month.
+    ◦ Mean annual temperature: Calculated by adding the mean monthly temperatures and dividing the sum by 12.
+    ◦ Annual range of temperature: The difference between the temperatures of the hottest and coldest months.
+
+B. Measuring and Recording Rainfall
+
+  • Instrument: Rainfall is measured using a rain gauge.
+  • Setup: The rain gauge is usually anchored in the ground with its top approximately 30 cm above the ground surface. This height prevents rain splash from affecting the results.
+  • Reading: The depth of rain in millimeters (mm) is read from the side of the container at least once a day (commonly at 9:00 a.m.). A record is kept of the rainfall amount from the preceding 24 hours.
+  • Calculations (Focus):
+    ◦ Mean monthly rainfall: Calculated by adding all the daily rainfall amounts for the month and dividing the sum by the number of days of the month.
+    ◦ Total annual rainfall: Calculated by adding the rainfall amounts of the 12 months.
+    ◦ Mean annual rainfall: Calculated by adding the annual rainfall amounts for 30-35 years and dividing the sum by the number of those years.
+
+C. Measuring and Recording Air Pressure
+
+  • Concept: Air is a mixture of gases with weight, exerting pressure on the Earth's surface that varies spatially and temporally.
+  • Instrument: The barometer is used to accurately measure this force.
+  • Units: The units commonly used for measuring pressure are millibars (mb) and millimeters (mm).
+  • Sea Level Reference: At sea level, the mercury column measures 1013.25 millibars or 760 mm.
+
+D. Measuring and Recording Wind Speed
+
+  • Instrument: Wind speed is measured using an anemometer.
+  • Operation: For accurate measurement, the anemometer should be held at arm's length, above the head, ensuring the cups can rotate without interference.
+
+E. Measuring and Recording Wind Direction
+
+  • Reporting: Wind direction is reported by the direction it is blowing from (e.g., a wind blowing from the west is called a westerly wind, not an easterly wind).
+  • Instrument: Wind direction is often observed using a wind vane.
+
+UNIT TWO: UNIT SUMMARY
+
+• This unit provided a foundational understanding of climate in Ethiopia.
+
+• Climate is defined as the average atmospheric conditions over a long period in a given area, while weather is the short-term state.
+• Key climatic elements include precipitation, temperature, humidity, air pressure, winds, and sunshine.
+• The spatial and temporal distribution of these elements in Ethiopia is governed by various climate controls, with latitude and altitude being the most important. Other controls include mountain barriers, Earth's revolution and axial inclination, distance from the sea, and ocean currents.
+• Ethiopia's unique altitude variations have resulted in five distinct agro-climatic zones (Wurch/Kur, Dega, Woina Dega, Kolla, and Bereha), each characterized by specific temperature and rainfall conditions.
+• The country experiences marked seasonal variations in temperature and rainfall. The two main rainy seasons are Kiremt (summer) and Belg (spring), contributing over 90% of the country's rainfall, influenced by the shifting Inter-Tropical Convergence Zone (ITCZ).
+• Based on rainfall distribution, Ethiopia is further divided into five rainfall regions: year-round, summer, autumn-and-spring, winter, and merged spring, summer, and autumn rainfall regions.
+• Various instruments are used to measure weather and climate elements, including thermometers for temperature, rain gauges for precipitation, barometers for air pressure, and anemometers and wind vanes for wind speed and direction.

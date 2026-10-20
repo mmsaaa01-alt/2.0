@@ -1,0 +1,44 @@
+UNIT 2: MARKET STRUCTURE AND THE DECISION OF FIRMS
+
+2.1 REVIEW OF MARKET STRUCTURES
+- Market: Where consumers and producers interact to determine prices for goods and services.
+- Spectrum of Market Competitiveness (from most to least competitive):
+  1. Perfect Competition
+  2. Monopolistic Competition
+  3. Oligopoly
+  4. Pure Monopoly
+
+2.2 PERFECT COMPETITION MARKET
+Characteristics and Firm Behavior:
+- Individual firms are insignificant compared to the market size and supply homogeneous products.
+- Prices are determined by market demand and supply forces, making individual firms price-takers and the industry the price-maker.
+- The firm's demand curve is horizontal and perfectly elastic, where P = AR = MR.
+
+Equilibrium and Profit Scenarios:
+- Short-Run Equilibrium Conditions: Marginal Revenue equals Marginal Cost (MR = MC), and the MC curve must be rising (cutting MR from below).
+- Shutdown Point: The intersection of the average variable cost (AVC) curve and the marginal cost curve; firms shut down immediately if the price falls below AVC.
+- Long-Run Equilibrium: Firms earn normal profits by adjusting their plant size to produce at the minimum point of the long-run average cost (LAC) curve.
+
+2.3 PURE MONOPOLY MARKET
+Characteristics and Curves:
+- Single firm with no rivals, no close substitutes, and prohibitively difficult entry barriers.
+- The monopolist is a price setter that determines its own price based on output decisions.
+- The demand curve is downward-sloping, and the marginal revenue (MR) curve lies beneath it, decreasing twice as fast as demand.
+
+Price Discrimination:
+- First-Degree (Primary): Charging each consumer their absolute maximum reservation price, capturing all consumer surplus.
+- Second-Degree (Nonlinear): Pricing based on the number of units bought, utilizing quantity discounts or premium pricing.
+- Third-Degree (Market Segmentation): Charging different prices to different consumer groups by dividing the market based on varying demand elasticities.
+
+2.4 MONOPOLISTIC COMPETITION MARKET
+Characteristics:
+- Features many firms selling distinctive, differentiated products, giving them some control over price.
+- Product differentiation can be real or spurious (fancied) through physical aspects, location, intangible aspects, or consumer perceptions.
+- Short-run profit maximization follows the rule where MR = MC, allowing firms to earn economic profits, break even, or incur losses.
+
+2.5 OLIGOPOLY MARKET
+Characteristics and Types:
+- Characterized by a few dominant sellers and strategic interdependence, where each firm considers its rivals' reactions when setting policies.
+- Can be pure (homogeneous products like steel and cement) or impure/differentiated (differentiated products like automobiles and beverages).
+- Collusive Oligopoly: Competing firms collude to minimize competition and maximize joint profit through formal cartels or informal price leadership.
+- Non-Collusive Oligopoly: Firms compete independently, illustrated by models like the Cournot model (competition on output) and the Bertrand model (competition on price).

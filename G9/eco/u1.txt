@@ -1,0 +1,115 @@
+
+Study Notes: Economics - G9
+
+UNIT 1: Introducing Economics: 1.1 Meaning of Economics, 1.2 Branches of Economics, 1.3 Methods and Approaches of Studying Economics, 1.4 Decision Making Units, UNIT 1: Unit Summary, UNIT 1: Review Questions[cite: 5]
+
+Unit 1: Introducing Economics[cite: 5]
+
+• Unit Overview: Covers the definition, nature, major branches, methods of study, and key decision-making units within an economy[cite: 5].
+
+1.1 Meaning of Economics
+Definition of Economics
+
+• Origin: Derived from the ancient Greek word oikonomia, meaning the management of a family or household[cite: 5].
+• Classification: A branch of the social sciences[cite: 5].
+• Growing Importance: Prominence has increased due to global economic problems like poverty, unemployment, inflation, recession, and population explosion[cite: 5].
+• Evolving Definition: Developed over time through wealth, welfare, and scarcity definitions without a single finalized version[cite: 5].
+• Core Definition: A branch of social science that studies the efficient allocation of scarce resources to attain the maximum fulfillment of human needs[cite: 5].
+• Science of Choice: Studies how people choose to use scarce productive resources (land, labour, equipment, technical knowledge) to produce various commodities[cite: 5].
+• Key Statements:
+  ◦ Economics studies about scarce resources[cite: 5].
+  ◦ It studies about the allocation of resources[cite: 5].
+  ◦ The allocation of resources should be efficient[cite: 5].
+  ◦ Human needs are unlimited[cite: 5].
+• Objective: To study how to satisfy unlimited human needs to the maximum possible degree by allocating scarce resources efficiently[cite: 5].
+
+The Nature of Economics
+
+• Economics as a Science:
+  ◦ Produces a systematic and organized body of knowledge linking causes and effects, describing "what is"[cite: 5].
+  ◦ Facts are systematically collected, classified, analyzed, and interpreted to make future predictions[cite: 5].
+• Economics as an Art:
+  ◦ Defined as a technique or a way of doing or achieving something[cite: 5].
+  ◦ Provides principles and methods to solve real-world problems like unemployment, poverty, and inflation[cite: 5].
+• Key Takeaway: Economics is both a science (systematic study of 'what is') and an art (practical techniques for problem-solving)[cite: 5].
+
+1.2 Branches of Economics
+
+Overview of Economic Branches
+
+• Specialized Branches: Includes development, environmental, industrial, international, labor, mathematical, monetary, welfare, resource, behavioural, experimental, and health economics[cite: 5].
+• Foundation: Modern economics primarily rests on two major branches: microeconomics and macroeconomics[cite: 5].
+
+Microeconomics
+
+• Definition: A branch of economics concerned with the economic behavior of individual decision-making units (households, firms, governments) and their interactions through markets and industries[cite: 5].
+• Focus: How individual households and firms make decisions and interact in specific markets[cite: 5].
+• Examples: Economic activities of a consumer, producer, firm, individual income, and price determination[cite: 5].
+• Fundamental Problem: Resource allocation and price-determination[cite: 5].
+
+Macroeconomics
+
+• Definition: A branch of economics that deals with the effects and consequences of the aggregate behavior of all decision-making units in an economy[cite: 5].
+• Focus: Examines interrelations among aggregate economic variables[cite: 5].
+• Examples: Total employment, total output, national income, total investment, and total consumption[cite: 5].
+• Fundamental Problem: Full employment of economic resources[cite: 5].
+
+Difference Between Microeconomics and Macroeconomics
+
+• Scope: Microeconomics studies individual units; macroeconomics studies the economy as a whole and its aggregates[cite: 5].
+• Variables: Microeconomics deals with individual income/prices/outputs; macroeconomics deals with national income/total output/general price level[cite: 5].
+• Central Problem: Price determination vs. determination of income and employment level[cite: 5].
+• Main Tools: Demand and supply of particular commodities vs. aggregate demand and aggregate supply[cite: 5].
+
+1.3 Methods and Approaches of Studying Economics
+1.3.1 Methods of Studying Economics
+
+• Objective: Establishment of valid generalizations called theories[cite: 5].
+• Theory: A simplified picture of reality providing the basis for economic analysis using logical reasoning[cite: 5].
+
+Deductive Method
+
+• Definition: Proceeds from general to particular[cite: 5].
+• Process: Reasoning from general principles to specific facts to arrive at a particular conclusion, verified against observed facts[cite: 5].
+• Example: Man is mortal -> Abebe is a man -> Abebe is mortal[cite: 5].
+
+Inductive Method
+
+• Definition: Reasoning from a part to the whole, or particular to general[cite: 5].
+• Approach: Bridges the gap between theory and practice based on observations and experiments[cite: 5].
+• Process: Collects comprehensive data, attempts to arrive at a hypothesis, and forms a general conclusion (e.g., grain prices falling during increased supply harvest periods)[cite: 5].
+• Complementary Nature: Deductive and inductive methods support each other[cite: 5].
+
+1.3.2 Approaches of Studying Economics
+Positive Economics
+
+• Definition: Concerned with the analysis of facts and attempts to describe the world as it is ("what is", "what was", "what will be")[cite: 5].
+• Objectivity: Focuses on factual statements without judging systems as good or bad[cite: 5].
+• Resolution: Disagreements are resolved by referring to facts and evidence[cite: 5].
+
+Normative Economics
+
+• Definition: Concerned with questions like "what the economy ought to be" or "what the economy should be"[cite: 5].
+• Subjectivity: Laden with value judgments evaluating alternative outcomes based on opinions[cite: 5].
+• Resolution: Disagreements are resolved through voting or public debate rather than factual verification[cite: 5].
+
+1.4 Decision Making Units
+
+• Basic Economic Agents: Households, business firms, and the government[cite: 5].
+
+1. Households
+
+• Role: Chief owners of factors of production (land, labour, capital, entrepreneurship)[cite: 5].
+• Activities: Sell factor services for income (rent, wages, interest, profit), purchase goods and services, save, and pay taxes[cite: 5].
+
+2. Business Firms
+
+• Role: Hire factors of production to produce and sell commodities to households, other firms, governments, or other countries[cite: 5].
+• Functions: Principal buyers of factors of production and leading producers of commodities (private and government enterprises)[cite: 5].
+
+3. Government
+
+• Definition: The general government, distinct from government-owned enterprises[cite: 5].
+• Activities: Purchases goods/services and factor services to provide free public services (police, education, medical, sanitation, judicial)[cite: 5].
+• Income Source: Primarily taxes levied on households and business firms[cite: 5].
+• Taxes: Compulsory levies to raise revenue for public expenditure, sustain investments, and ensure sustainable development[cite: 5].

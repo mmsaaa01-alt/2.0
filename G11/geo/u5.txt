@@ -1,0 +1,49 @@
+UNIT FIVE: GEOGRAPHY AND ECONOMIC DEVELOPMENT
+
+5.1 EFFECTS OF GEOGRAPHIC LOCATION ON DEVELOPMENT
+Economic Growth and Development:
+- Economic Growth: An increase in goods and services or gross domestic product (GDP) over a specific period, focusing primarily on quantitative growth of national per capita income without fully regarding the standard of living.
+- Economic Development: Encompasses both qualitative and quantitative development of a country's economy, focusing on the sustained development of society's material well-being.
+- Human Development Index (HDI): A quantitative measure used to assess human well-being and development based on three dimensions: longevity (life expectancy), access to knowledge (literacy rates and years of schooling), and standard of living (real per capita income).
+
+Geographical Determinism vs. Possibilism:
+- Geographical Determinism: Assumes that a country's socio-economic development stage is exclusively determined by its geographic environment, such as location, climate, and geomorphology.
+- Possibilism: Argues that the geographic environment is not the sole determinant; development is shaped by the interaction between geographic location and human factors, with human ingenuity modifying environmental conditions into usable opportunities.
+
+Impact on Specific Sectors:
+- Agricultural Development: Dictated by environmental resources and land use patterns, as demonstrated by von Thünen's Hypothetical Circular Land Use Model, which organizes agricultural yield into concentric zones around a central market based on transport costs and crop perishability.
+- Industrial Development: Governed by Alfred Weber's Least Cost Triangular Location Model, which emphasizes transport costs, labor costs, and agglomeration economies, classifying industries as bulk-reducing (weight-losing) or bulk-gaining (weight-gaining).
+- Settlement and Service Centers: Explained by Walter Christaller's Central Place Theory, which utilizes a hexagonal pattern based on marketing, transportation, and administrative principles to understand how urban settlements space out and exchange goods.
+
+---
+
+5.2 CLIMATE EXTREMES AND POVERTY
+Climate Extremes and Their Impacts:
+- Climate extremes refer to excess temperature and rainfall events—such as heat/cold waves, floods, droughts, and landslides—that negatively impact agricultural yields and human livelihoods.
+- Frequent climate shocks trap vulnerable households in cycles of poverty by forcing them to consume or sell productive assets, undermining their capacity to adapt to future hazards.
+
+Flooding Events and Poverty:
+- Flash floods destroy human settlements, physical infrastructure, and agricultural fields, leading to widespread food insecurity, displacement, and the breakdown of informal social support networks.
+
+Poverty Traps and Critical Thresholds:
+- Poverty traps occur when repeated extreme climate events push poor populations into sustained, long-term destitution.
+- Sub-Saharan Africa and South/Southeast Asia experience high concentrations of extreme poverty and vulnerability to climate-induced hazards.
+
+---
+
+5.3 DISADVANTAGES OF LANDLOCKED COUNTRIES
+Characteristics and Disadvantages:
+- Landlocked countries (LLDCs) do not possess any seacoast and comprise about one-fifth of the world's nations.
+- They face severe economic impediments, including high international transport costs, isolation from major global economic centers, and complete reliance on the transport infrastructure of transit neighbors.
+- Political and administrative barriers—such as border fees, transit licenses, security bonds, and regional conflicts—cause severe transit delays and reduce international trade competitiveness.
+
+---
+
+5.4 INTRAREGIONAL TRADE IN AFRICA
+Trends and Drivers:
+- Driven by population growth, rising incomes, and urbanization, intra-African agricultural trade has experienced steady growth, led heavily by Regional Economic Communities (RECs) like SADC and COMESA.
+- South Africa, Egypt, Kenya, Uganda, and Tanzania serve as major regional agricultural market players and exporters.
+
+Challenges to Integration:
+- High tariffs, non-tariff measures (NTMs), administrative bottlenecks, and poor infrastructure heavily restrict formal intra-African trade and create strong incentives for informal cross-border trade.
+- Improving regional agri-food value chains requires strategic investment in transport corridors, processing facilities, and harmonized trade policies.

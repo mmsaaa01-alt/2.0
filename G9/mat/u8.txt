@@ -1,0 +1,940 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 8: VECTORS IN TWO DIMENSIONS: 8.1 Vector and Scalar Quantities, 8.2 Representation of a Vector, 8.3 Vectors Operations, 8.4 Position Vector, 8.5 Applications of Vectors in Two Dimensions, UNIT 8: Summary, UNIT 8: Review Exercise
+
+Mathematics: Congruency, Similarity, and Introduction to Vectors
+
+    This study guide provides comprehensive notes covering review material from Unit 7 on Congruency and Similarity, followed by a detailed introduction to Unit 8: Vectors in Two Dimensions. It aims to deepen understanding of geometric principles and foundational vector concepts, operations, and representations.
+
+Unit 7: Congruency and Similarity (Review Material)
+
+This section presents examples and exercises from the previous unit, demonstrating applications of congruency and similarity principles, followed by a summary of key concepts.
+Solved Examples Illustrating Similarity and Proportionality
+Example 1: Abebe's Boat Distance
+
+    Problem: Abebe is on top of a building 35 m above Lake Tana. He stands 10 m from the edge. His eye level is 1.8 m above the top of the building. He can visually align the top of the building with the water at the back of his boat. Approximately, how far is Abebe's boat from the building?
+    Solution:
+        Let 
+
+be the distance from the boat to the building.
+Using proportionality of corresponding sides of two similar triangles (formed by Abebe's line of sight, his height, the building height, and the distance to the boat):
+Solving for
+:
+Conclusion: The boat is approximately
+
+        m from the building.
+
+Example 2: Heights of Three Buildings
+
+    Problem: Suppose 
+
+, , and are the heights of three buildings. Let , , , and as indicated in the figure. Find the height of the tallest building (
+).
+Solution:
+
+    Extend Lines: Extend lines 
+
+and so they meet at point
+.
+Identify Similar Triangles (1): Consider
+and
+. These are similar by the AA Similarity Theorem (assuming vertical buildings and horizontal ground, implying parallel lines and thus congruent corresponding angles when cut by transversals).
+Form Proportionality (1):
+Substituting known values and expressing and in terms of :
+Identify Similar Triangles (2): Consider and
+. These are also similar triangles by AA Similarity.
+Form Proportionality (2):
+Substituting known values:
+Solve for :
+Solve for : Substitute into the first proportionality equation:
+Conclusion: The height of the tallest building,
+, is
+
+        .
+
+Example 3: River Width Measurement
+
+    Problem: Two persons stand at point 
+
+and and want to indirectly measure the width of the river. Person moves 15 m to the left, and person moves 60 m to the right. Person then moves 5 m away from the river. The line connecting the places after the two people have moved passes through point
+. How long is the width of the river?
+Solution:
+
+    From the diagram in the textbook, two similar triangles are formed.
+    The proportionality of corresponding sides is:
+
+Given values: , , . We need to find
+(the width of the river).
+Using the proportionality:
+Solving for :
+Conclusion: The width of the river is
+
+        m.
+
+Exercise 7.14
+
+These problems apply the concepts of similar triangles to real-world scenarios.
+
+    Abdi's Shadow:
+        Abdi is 1.8 meters tall, and his shadow is 2.4 meters long.
+        His younger brother's shadow is 2 meters long.
+        How tall is Abdi's brother?
+    Abdisa's Boat:
+        Abdisa is standing on a building 75 m above Lake Hawasa.
+        He stands 15 m from the edge of the building. His eye level is 1.75 m above the top of the building.
+        He can visually align the top of the building with the water at the back of his boat.
+        Approximately, how far is Abdisa's boat from the building?
+
+Exercise 7.15
+
+These problems further explore applications of similarity and the Pythagorean theorem.
+
+    A giraffe is 6 m tall and casts a shadow of 4 m. Another small giraffe casts a shadow of 2 m. How long is the smaller giraffe?
+    A flagpole casts a shadow 9 m long. A person 1.8 m long, standing nearby, casts a shadow 4 m long. How tall is the flagpole?
+    A photograph measuring 4 cm wide and 5 cm long is enlarged to make a wall mural. If the mural is 120 cm wide, how long is the mural?
+    A 9 m ladder leans against a building 6 m above the ground. At what height would a 15 m ladder touch the building if both ladders form the same angle from the ground?
+    A ladder is placed against a wall such that it reaches up to a height of 4 m of the wall. If the foot of the ladder is 3 m away from the wall, find the length of the ladder.
+
+and are points on the sides and , respectively, of , right-angled at . Prove that
+
+    .
+    A 12-centimeter rod is held between a flashlight and a wall as shown. Find the length of the shadow on the wall if the rod is 24 cm from the wall and 15 cm from the light. Assume that the dotted line segments meet at a point inside the flashlight.
+
+Summary of Unit 7 Key Concepts
+
+This summary encapsulates the fundamental principles of congruency and similarity.
+
+    Similar Plane Figures: Two plane figures are similar if:
+        i. Their corresponding sides are proportional.
+        ii. Their corresponding angles are congruent.
+    Enlargement Properties: Under an enlargement transformation:
+        a. Lines and their images are parallel.
+        b. Angles remain the same (are preserved).
+        c. All lengths are increased or decreased in the same ratio.
+    Scale Factor: The ratio of corresponding sides, usually expressed numerically, calculated as:
+
+    Triangle Similarity Theorems:
+        AA (Angle-Angle) Similarity Theorem: If two angles of one triangle are congruent to the corresponding two angles of another triangle, then the two triangles are similar.
+        SSS (Side-Side-Side) Similarity Theorem: If the corresponding three sides of two triangles are proportional to each other, then the triangles are similar.
+        SAS (Side-Angle-Side) Similarity Theorem: If the corresponding two sides of two triangles are proportional and the included angles are congruent, then the two triangles are similar.
+    Perimeter Ratio of Similar Figures: If two figures are similar, the ratio of their perimeters is equal to the ratio of their corresponding side lengths.
+    Area Ratio of Similar Figures: If two figures are similar, the ratio of their areas is equal to the square of the ratio of their corresponding side lengths.
+
+Review Exercise for Unit 7
+
+These problems test understanding of geometric proofs, properties of triangles and quadrilaterals, and applications of similarity.
+
+    In the given figure, if 
+
+and , then prove that
+.
+is an altitude of an isosceles in which . Show that:
+
+    (i) 
+
+bisects
+.
+(ii)
+bisects
+
+    .
+
+In the given figure, line
+is the bisector of and is any point on . If segments and are perpendiculars from point to the arms of , show that:
+
+    (i) 
+
+.
+(ii)
+, i.e., is equidistant from the arms of
+
+    .
+
+In a triangle, a line is drawn parallel to one side and a small triangle is cut off. Prove that the triangle cut off is similar to the original triangle.
+Consider the four triangles made by joining all the midpoints of a triangle. Show these triangles are congruent and they are similar to the largest triangle.
+Prove that a parallelogram is formed by joining the midpoints of any quadrilateral.
+Assume that
+is a point on side of triangle such that . Show that
+.
+and are the mid-points of the sides and of , right-angled at . Show that
+.
+The perimeter of two similar triangles
+and are 12 cm and 18 cm. Find the ratio of the area of to that of
+.
+The altitudes
+and of two similar triangles and are of length 2.5 cm and 3.5 cm. Find the ratio of area of to that of
+.
+Two poles of heights 12 m and 17 m stand on a plane ground, and the distance between their feet is 12 m. Find the distance between their tops.
+A ladder is placed against a wall and its top reaches a point at a height of 8 m from the ground. If the distance between the wall and foot of the ladder is 6 m, find the length of the ladder.
+In an equilateral triangle, show that three times the square of a side equals four times the square of a median.
+A triangle with an area of 60 square meters has a base of 4 meters. A similar triangle has an area of 50 square meters. Find the height of the smaller triangle.
+The value of
+in the diagram below is:
+
+    A. 38
+    B. 33.375
+    C. 40.375
+    D. 39.75
+
+If
+, then which of the following is not true?
+
+    A. 
+
+B. C. D. If the ratio of sides of triangles and is , then the ratio of their perimeters is:
+
+    A. 
+
+B. C. D.
+Unit 8: Vectors in Two Dimensions
+
+    This unit introduces the fundamental concepts of vectors, distinguishing them from scalar quantities. It covers how to represent vectors, perform basic operations like addition, subtraction, and scalar multiplication, and introduces the idea of a position vector, laying the groundwork for applications in two dimensions.
+
+Unit Outcomes
+
+Upon completing this unit, students should be able to:
+
+    Conceptualize vectors in terms of direction and magnitude symbolically.
+    Perform operations on vectors.
+
+Unit Contents
+
+    8.1 Vector and Scalar Quantities
+    8.2 Representation of a Vector
+    8.3 Vector Operations
+    8.4 Position Vector
+    8.5 Applications of Vectors in Two Dimensions
+    Summary
+    Review Exercise
+
+Introduction to Vectors
+
+In daily life, we encounter measurements of various physical quantities. Some quantities, like the dimension of a classroom (
+meters), the speed of a car ( km/hr), the area of a football field (), or temperature (
+
+), are described solely by a numerical value and a unit, without involving direction.
+
+However, other physical quantities require both a numerical value (magnitude) and a specified direction to be fully described. For instance, a boy riding a bike with a velocity of
+km/hr in the north-east direction requires both magnitude (
+
+km/hr) and direction (north-east). This highlights the need to differentiate between scalar and vector quantities.
+
+This unit will cover:
+
+    Scalar and vector quantities.
+    Representation of vectors.
+    Addition and subtraction of vectors.
+    Scalar multiplication of vectors.
+    Applications of vectors in two dimensions.
+
+Activity 8.1: Initial Exploration of Physical Quantities
+
+    List at least 6 physical quantities:
+        (Student response, e.g., mass, length, time, force, velocity, acceleration, temperature, area, volume, displacement, speed).
+    What common property and difference you observed among them?
+        (Student discussion, leading to the idea that some quantities have only magnitude, while others have both magnitude and direction).
+
+Key Terms Introduced in Unit 8
+
+    Triangle law of vector addition
+    Parallelogram law of vector addition
+    Scalar quantities
+    Direction of a vector
+    Subtraction of vectors
+    Equality of vectors
+    Vector quantities
+    Parallel vectors
+    Magnitude of a vector
+    Addition of vectors
+    Position vector
+
+8.1 Vector and Scalar Quantities
+
+This section formally defines scalar and vector quantities, providing examples to illustrate the distinction.
+Definition 8.1: Scalars
+
+    Scalars: Quantities that are fully described by a magnitude (or numerical value) alone.
+
+    Example 1: Mass
+        The mass of a stone is 
+
+kg. The mass is represented by the number
+
+    and its unit kg. No direction is needed. Hence, mass is a scalar quantity.
+
+Example 2: Density
+
+    The density of pure water is 
+
+    . Density is represented by a single number. Thus, it is a scalar quantity.
+
+Example 3: Temperature
+
+    The temperature of a room is 
+
+        . Temperature is a scalar quantity.
+
+Definition 8.2: Vectors
+
+    Vectors: Quantities that are fully described by both a magnitude and a direction.
+
+    Many engineering applications rely on vectors. Force, acceleration, velocity, electric fields, and magnetic fields are all vector quantities.
+
+    The position of a projectile or a robot in computer software is also described by a vector, requiring both its distance and direction from a reference point.
+
+    Example 4: Force
+        Force causes an object to move or speed up. When a force is applied, the effect depends not only on its strength (magnitude) but also on the direction in which it acts.
+        For example, a force of 10 Newtons applied vertically upward has a different effect than the same force applied horizontally. The direction is crucial, indicating that force is a vector quantity.
+
+    Example 5: Displacement vs. Distance
+        Distance is a scalar quantity, only referring to "how much ground an object has covered."
+        Displacement is a vector quantity, representing "directed distance" - the shortest distance from the initial to the final position, along with a specified direction.
+        If 
+
+meters, the distance moved is 20 meters. However, the displacement is
+
+    meters in the direction from A to B.
+
+Example 6: Explaining Vectors in Figures
+
+    Figure 8.3(a): Shows an object pulled by a force of 
+
+N horizontally. This is represented by a vector with magnitude
+N to the left.
+Figure 8.3(b): Shows an object pulled by a force of
+N at an angle of with the horizontal. This vector has both magnitude ( N) and direction (
+
+        from horizontal).
+
+Exercise 8.1
+
+These questions test the understanding of scalar and vector definitions.
+
+    Which statement describes a vector?
+        A. It has direction but no magnitude
+        B. It has constant magnitude but no direction
+        C. It has magnitude but no direction
+        D. It has both magnitude and direction
+    Scalar quantities are completely described by their ___________.
+        A. area
+        B. unit
+        C. magnitude
+        D. direction
+    Consider the following quantities and identify whether each is a scalar quantity or a vector quantity.
+        i) Amount of rainfall in mm
+        ii) Temperature in a room
+        iii) Acceleration of a car
+        iv) Area of a rectangle
+        v) The speed of a car
+        vi) Velocity of the boat
+        vii) The height of a building
+        viii) The weight of the body
+
+8.2 Representation of a Vector
+
+This section focuses on how vectors are represented geometrically and algebraically, and introduces concepts of vector equality, opposition, and parallelism.
+
+    In this sub-unit, we consider vectors represented by a directed line segment on a plane, referred to as a vector on a plane.
+
+How do we represent a vector?
+
+A vector can be represented in two ways:
+
+    Algebraically: Using components (discussed later).
+
+    Geometrically: By a directed line segment (a line segment with an arrow indicating direction).
+
+    In Figure 8.4, a vector is represented by a directed line segment denoted as 
+
+.
+
+    Point 
+
+is the initial point (tail).
+Point
+
+    is the terminal point (head).
+
+Vectors can also be represented by letters with an arrow bar over them (e.g.,
+, , ) or by bold small letters (e.g., , , ). So, can also be represented as
+
+    .
+
+Equality of Vectors
+
+    Equality of Vectors: Two vectors are said to be equal if and only if they have the same magnitude (length) and the same direction.
+
+    In Figure 8.5, two vectors are shown with the same length and direction. Therefore, they are equal vectors.
+    This can be written as 
+
+, or
+
+    .
+
+Opposite of a Vector
+
+    Opposite Vector: A vector which has the same magnitude as a given vector 
+
+, but acts in the opposite direction. It is denoted by
+
+    .
+
+    From Figure 8.6, one vector is the negative of the other.
+    It is true that 
+
+.
+Also,
+
+    indicates they have the same magnitude but opposite directions.
+
+Parallel Vectors
+
+    Parallel Vectors: Vectors that have the same or opposite direction are called parallel vectors.
+
+    Example: Identifying Parallel, Equal, and Opposite Vectors (Figure 8.7)
+        Part a:
+
+and
+are in the same direction.
+is in the opposite direction to and
+.
+Therefore,
+, , and
+
+    are parallel to each other.
+    The figure does not show any equal or opposite vectors among these specifically.
+
+Part b:
+
+and
+are in opposite directions but lie on the same line, so they are parallel.
+Vectors
+and
+are also parallel since they are in the same direction.
+
+            because they have the same direction and equal length (checked with a ruler).
+            The figure does not show a vector that is the opposite of another vector.
+
+Exercise 8.2
+
+These questions focus on identifying different types of vectors from a given diagram.
+
+    In Figure 8.8, identify the following with reference to 
+
+:
+
+    a. Equal vector to 
+
+b. Opposite to
+c. Parallel to
+
+    Write true if the statement is correct and false otherwise.
+        a. Two parallel vectors may have a common point.
+        b. Parallel vectors have the same magnitude.
+        c. The magnitude of a vector does not depend on its direction.
+        d. A vector is parallel to itself.
+
+Column Vector in Two Dimensions
+
+    Any vector 
+
+can be represented by a column vector , where is the horizontal component and is the vertical component of
+
+    .
+
+    For example, in Figure 8.9, the illustrated vector is 
+
+. We write
+
+    .
+
+Magnitude of a Vector
+
+    Magnitude of a Vector: The length of the line segment from its initial point to its terminal point. It is denoted by 
+
+or
+
+    .
+
+    Note:
+        If a vector is represented on a plane sheet of paper, its magnitude (length) can be determined by measuring its length with a ruler.
+        For any vector 
+
+, its magnitude is given by the formula:
+
+    .
+
+Example 1: Finding Magnitude of
+Find the magnitude of the vector
+.
+Solution: Using the Pythagorean theorem (as shown in Figure 8.10):
+Therefore,
+.
+Conclusion: The magnitude of the vector
+
+    is 5 units.
+
+Example 2: Finding Magnitude on a Coordinate System
+
+    Find the magnitude of each of the vectors 
+
+, ,
+in Figure 8.11 on the coordinate system.
+Solution: We use the distance formula:
+Where and are points on the coordinate system.
+
+    For 
+
+(points (2,2) and (3,7)):
+For (points (10,1) and (5,5)):
+For (points (2,5) and (2,10)):
+Exercise 8.3
+
+These questions practice calculating the magnitude of vectors.
+
+    Answer each of the following questions about vectors 
+
+, and
+in Figure 8.12. (Hint: count square grids)
+
+    a. Express each vector in column vector form.
+    b. Find the magnitude of each vector.
+
+Find the magnitude of
+, and
+
+    in Figure 8.13.
+
+Direction of Vectors
+
+    Direction of a Vector: On a plane, the direction of a vector is given by the angle that the vector makes with a reference direction, often an angle with the horizontal or with the vertical.
+
+    Expressing vector direction usually starts from North/South, then the angle measure, and finally East/West.
+
+    Example: Direction of 
+
+(Figure 8.14)
+
+    The vector 
+
+makes an angle of
+with the horizontal axis.
+If the
+-axis represents North and the -axis represents East, the complement angle of is
+.
+Conclusion: The direction of
+from can be described as N
+
+        E.
+
+Exercise 8.4
+
+These questions involve locating vectors and determining their direction.
+
+    Locate the vector on the coordinate system whose initial point is 
+
+and its terminal point is .
+
+    a. Find the magnitude of 
+
+.
+b. Using a protractor, check that the angle between
+and the horizontal line passing through is
+.
+c. What is the direction of
+
+    ?
+
+Locate each of the following on the coordinate system:
+
+    a. 
+
+where point , has length 3 cm in the direction N
+E.
+b.
+where
+is the origin and it is 5 cm to the North.
+c.
+whose initial is at the origin and has a length 4 cm in the direction S
+
+        E.
+
+8.3 Vector Operations
+
+This section explains how to perform arithmetic operations on vectors, specifically addition, subtraction, and scalar multiplication, using both graphical and component methods.
+
+    In previous sections, you studied the definition of a vector, different types of vectors, and their representation. In this section, you will learn about operations on vectors.
+
+Activity 8.2: Introducing Vector Operations
+
+    Consider the following vectors (referencing Figure from Activity 8.2).
+        a. Is it possible to add vectors like 
+
+and
+?
+b. Can you subtract
+from
+
+        ?
+    Suppose a student starts walking from her home to school, which is located at a distance of 800 m to the East. Then she went to the market 400 m far from the school to the North. Finally, she returned to her home.
+        a. Discuss the student's journey using vector representation.
+        b. What is the total distance covered by the student?
+
+    Your discussion in Activity 8.2 leads you to the importance of addition and subtraction of vectors. There are two main laws of addition of vectors:
+
+8.3.1 Addition of Vectors
+i) Triangle Law of Addition of Vectors
+
+    Definition 8.3: Triangle Law of Vector Addition Consider two vectors 
+
+and in a coordinate system. The sum of is a directed line segment connecting to , say , such that or . Such a vector
+
+    is called a resultant vector.
+
+    Process:
+        Translate vector 
+
+, keeping its direction and length unchanged, until its initial point coincides with the terminal point of
+.
+The sum
+is then defined by the vector represented by the third side of the completed triangle, which is
+
+    (as shown in Figure 8.16).
+
+Concept: Going along vector
+and then along vector is equivalent to going directly along vector
+
+.
+
+Note: Addition of vectors can be done graphically (as described above) or using components (presented after Section 8.4).
+
+Example: Using Figure 8.17 to Determine Vector Sums
+
+    a. 
+
+Solution: By the triangle law,
+
+    .
+
+b. Compare
+and .
+
+    Solution:
+
+The two resultant vectors, and
+
+            , are parallel and opposite (one is the negative of the other).
+
+Exercise 8.5
+
+    Draw the vectors 
+
+    using the triangle law.
+
+ii) Parallelogram Law of Vector Addition
+
+    The triangle law works for free vectors where the terminal point of the first vector becomes the initial point of the second. However, for co-initial vectors (vectors starting from the same point), the parallelogram law is more direct.
+
+Activity 8.3: Constructing a Parallelogram
+
+    What is a parallelogram?
+    What are the properties of corresponding sides of a parallelogram?
+        (Student discussion about opposite sides being parallel and equal in length).
+
+    Process (for two vectors 
+
+and with the same initial point A, forming a non-zero angle):
+
+    Construct a line through 
+
+parallel to vector
+.
+Construct a line through
+(terminal point of ) parallel to vector
+.
+These two lines intersect at a point, say
+, forming a parallelogram
+
+    (as shown in Figure 8.19).
+
+Properties: In this parallelogram,
+and are equal vectors, and and
+are equal vectors.
+Resultant Vector: By the triangle law, applying it to
+:
+Since , and , we have:
+Alternatively, applying the triangle law to :
+Since , and , we have:
+Conclusion: The diagonal of the parallelogram starting from the common initial point ( to
+
+    ) represents the sum of the two vectors. This method is called the parallelogram law of vector addition.
+
+Subtraction of Vectors
+
+    Subtraction of Vectors: Subtraction of vectors can be treated as the addition of a vector and a negative vector (its opposite).
+
+    Consider two vectors 
+
+and that are to be subtracted (e.g., ). This is equivalent to
+
+.
+
+Procedure (Graphical Method):
+
+    Draw the first vector (
+
+) with its proper scale and in its given direction.
+From the terminal point of the first vector (
+), draw a vector with the same scale and in the opposite direction of the second vector (), i.e.,
+.
+The vector joining the initial point of the first vector (
+) and the terminal point of the negative second vector () represents the resultant vector (difference
+
+        ), showing both its direction and magnitude.
+
+    Note: If two vectors have different initial points, you need to translate one or both vectors so their initial points are at a common origin before applying the parallelogram method for subtraction.
+
+Exercise 8.6
+
+    Draw the vectors 
+
+and
+
+    using the parallelogram law or the triangle law of vector addition.
+
+Addition and Subtraction of Column Vectors
+
+For two vectors in component form,
+and
+
+:
+
+    Addition:
+
+Subtraction:
+
+Example 1: Column Vector Operations
+
+    Consider column vectors 
+
+and
+.
+Find: a)
+b) Solution:
+
+    a. 
+
+:
+This can be observed graphically from Figure 8.21.
+b.
+:
+
+        This is shown graphically in Figure 8.22.
+
+Example 2: Vector Operations in a Quadrilateral
+
+    Consider the quadrilateral as shown in Figure 8.23. Given that 
+
+, , and
+.
+Find the following in terms of
+, and :
+
+    i) 
+
+ii) iii) Solution:
+
+    i. From the figure, using the triangle law (
+
+). We need . Since form a triangle, . We are given and , so . Thus, . Then . Then . (The provided solution seems to assume is a parallelogram, which is not explicitly stated, or that which contradicts . Following the explicit vector definitions provided by the problem statement and applying triangle law: . We need . , . So . Therefore, . Let's stick to the textbook's solution as it is provided directly from the text, indicating a simplified interpretation might be intended or implied from the visual layout in the source. Given the solution implies , this suggests might be assumed to be a parallelogram or specific path. I will present the provided solution directly.)
+
+    i. 
+
+    (Based on textbook's direct solution)
+
+ii.
+(Given directly in the problem, though solution provided says which appears contradictory. I will write the given .)
+
+    (Re-evaluating based on the textbook's solution 
+
+: This implies interpreting as something derived. However, the problem explicitly states
+. This part of the example seems inconsistent with its own setup or is a typo. I will state the given value and then note the solution's potential inconsistency, but present the textbook's provided derivation for completeness within the notes context.)
+ii.
+(Given). The solution provided in the text is inconsistent with the problem statement if is already . Perhaps refers to in this context or it's a specific path. Sticking to the text's original formulation of the solution points for now:
+
+    ii. 
+
+        (Textbook's solution, implying a path or typo in problem setup)
+
+iii.
+
+            (Based on textbook's direct solution)
+
+Exercise 8.7
+
+    For the vectors 
+
+, , and , find:
+
+    a) 
+
+b) c) d) e) is a rhombus, , , and are equilateral triangles. Suppose , , and . Find each in terms of , and :
+
+    i) 
+
+ii) iii) iv) Using Figure 8.25:
+
+    a. Write 
+
+as a sum of two vectors.
+b. Describe
+as a difference of two vectors.
+c. What is the sum of
+
+    ?
+
+Given
+is a parallelogram:
+
+    a. By construction, show that 
+
+        .
+        b. Construct the diagonals of the parallelogram and show that these vectors are the sum and difference of the adjacent side vectors of the parallelogram.
+
+8.3.2 Multiplication of a Vector by a Scalar
+
+This section explains how to multiply a vector by a real number (scalar), which changes its magnitude and potentially its direction.
+Activity 8.4: Exploring Scalar Multiplication
+
+    Using Figure 8.27, express vectors 
+
+, and in terms of vector .
+
+    (Student observation that 
+
+is 3 times in the same direction, is times in the same direction, is 2 times in the opposite direction, is times
+
+        in the opposite direction).
+
+    Conclusion from Activity: All the given vectors are parallel, and their lengths can be expressed in terms of the length of 
+
+. For example, is in the same direction as , and its magnitude is 3 times that of . Hence,
+
+    .
+
+Definition 8.4: Scalar Multiple Vector
+
+    Let 
+
+be any given vector and be any real number (scalar). The scalar multiple vector is the vector whose magnitude (length) is times the magnitude of
+
+and:
+
+    i. The direction of 
+
+is the same as the direction of , if
+.
+ii. The direction of
+is the opposite of , if
+
+        .
+
+    Example 1: Drawing Scalar Multiples
+        Given a vector 
+
+as shown in Figure 8.28. Draw vectors , , , and
+.
+Solution: Using Definition 8.4, the required vectors are drawn as follows (Figure 8.29):
+
+: Same direction, twice the length.
+: Same direction, half the length.
+: Opposite direction, twice the length.
+: Opposite direction,
+
+        times the length.
+
+Note:
+
+    Parallel Vectors Condition: Two vectors are said to be parallel if one can be written as a scalar multiple of the other. If 
+
+is parallel to , then it can be expressed as for some scalar
+
+        .
+
+Exercise 8.8
+
+    Given 
+
+as shown in Figure 8.30, draw vector:
+
+    a. 
+
+b. c.
+Scalar Multiplication of Column Vectors
+
+    For a vector in component form 
+
+, the scalar multiplication by is:
+Where
+
+is a scalar.
+
+Example 2: Scalar Multiplication of Column Vectors
+
+    Consider column vector 
+
+. Then find , , and
+.
+Solution:
+
+This is illustrated in Figure 8.31. From the figure, it can be observed that , , , and
+
+        are all parallel to each other.
+
+Exercise 8.9
+
+    Given vectors 
+
+and . Then find:
+
+    a. 
+
+b. c. d. Write true if the statement is correct and false otherwise.
+
+    a. A vector is a scalar multiple of its opposite vector.
+    b. For a given vector 
+
+and scalar , has a larger magnitude than for
+
+    .
+    c. If the magnitude of two vectors is the same, then they have the same direction.
+    d. A vector is parallel to itself.
+
+From Figure 8.32, describe vectors
+, , , and , each as a scalar multiple of
+
+    .
+
+8.4 Position Vector
+
+    This section discusses representing a vector with a fixed initial point, often the origin, and using its components to determine its magnitude and position.
+
+Activity 8.5: Exploring Position Vectors
+
+    On the coordinate system, there are different vectors as shown in Figure 8.33.
+        a. What can you say about the two vectors 
+
+and
+?
+b. What can you say about vectors
+and
+?
+c. Is it possible to bring (move) the initial point of
+to the initial point of
+?
+d. What makes vectors
+and
+
+        differ from other vectors?
+

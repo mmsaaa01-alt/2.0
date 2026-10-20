@@ -1,0 +1,696 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 4: SOLVING INEQUALITIES: 4.1 Revision on Linear Inequalities in one Variable, 4.2 Systems of Linear Inequalities in Two variables, 4.3 Inequalities Involving Absolute Value, 4.4 Quadratic Inequalities, 4.5 Some Applications of Inequalities, UNIT 4: Summary, UNIT 4: Review Exercise
+
+Unit 4: Solving Inequalities
+
+    Overview: This unit covers linear inequalities in one variable, systems of linear inequalities in two variables, absolute value inequalities, quadratic inequalities, and real-world applications of inequalities.
+
+Key Terms & Concepts
+
+    Linear Equation: An algebraic equation of degree 1.
+    Linear Inequality: An algebraic inequality where the variable(s) are of degree 1.
+    Absolute Value: The non-negative distance of a number from zero on the number line, denoted by 
+
+.
+Open Interval: An interval that does not include its endpoints, denoted by
+.
+Closed Interval: An interval that includes both of its endpoints, denoted by
+.
+Half-Open Interval: An interval that includes only one of its endpoints, denoted by
+or
+.
+Quadratic Inequality: An inequality that can be written in the form
+(or ), where
+.
+Product Property: Properties used to solve inequalities by analyzing the signs of factors.
+Sign Chart: A table used to track the positive and negative values of linear factors across different intervals.
+Solution Set: The set of all values that make an inequality true.
+Discriminant: The expression
+
+    used to determine the nature of the roots of a quadratic equation.
+
+4.1 Revision on Linear Inequalities in One Variable
+
+An algebraic inequality is a mathematical sentence connecting an expression to a value, variable, or another expression using an inequality sign (
+, , , or
+
+).
+Basic Properties of Inequalities
+
+Let
+, , and
+
+be real numbers:
+
+    Additive Property (Addition and Subtraction):
+        If 
+
+, then If , then
+
+    Note: Adding or subtracting the same number from both sides of an inequality preserves the inequality sign.
+
+Multiplicative Property (Positive Multiplier/Divisor):
+
+    If 
+
+and , then and
+
+Multiplicative Property (Negative Multiplier/Divisor):
+
+    If 
+
+and , then and
+
+        Note: Multiplying or dividing both sides of an inequality by a negative number reverses the direction of the inequality sign.
+
+Worked Examples: Basic Linear Inequalities
+Example 1: Solve the following one-variable linear inequalities:
+
+Solution:
+
+Solution:
+
+Solution:
+
+Solution: Divide by
+and reverse the inequality sign:
+
+Solution:
+Interval Notation and Graphing on a Number Line
+
+    Definition of Intervals:
+
+        Closed Interval 
+
+: The set of all real numbers such that . Includes endpoints and
+. Represented on a number line using solid (filled-in) dots.
+Open Interval
+: The set of all real numbers such that . Excludes endpoints and
+. Represented on a number line using open dots.
+Half-Open Intervals
+and :
+
+shows (includes , excludes
+).
+shows (excludes , includes
+
+            ).
+
+Worked Examples: Interval Notation & Graphing
+Example 2: Solve
+and express the solution on a number line and in interval notation.
+
+    Step-by-step Solution:
+        Isolate 
+
+:
+Interval Notation: Set Notation: Number Line: Place an open dot at and draw an arrow pointing to the right toward
+
+        .
+
+Example 3: Solve
+and express on a number line.
+
+    Step-by-step Solution:
+        Expand and simplify:
+
+Interval Notation: Number Line: Place a solid (filled-in) dot at
+
+        and draw an arrow pointing to the right.
+
+Example 4: Solve
+and express on a number line.
+
+    Step-by-step Solution:
+        Collect variables on one side:
+
+Interval Notation: Number Line: Place an open dot at and draw an arrow pointing to the left toward
+
+        .
+
+Example 5: Solve
+, graph the solution set, and express in interval notation.
+
+    Step-by-step Solution:
+        Multiply both sides by the Least Common Multiple (LCM), which is 
+
+:
+Isolate the term with :
+Divide by and reverse the inequality sign:
+Interval Notation:
+Practice Exercises (Section 4.1)
+Exercise 4.1.1
+
+Solve the following inequalities:
+
+Exercise 4.2
+
+Solve the following linear inequalities:
+
+4.2 Systems of Linear Inequalities in Two Variables
+
+    Definition 4.1: Linear inequalities in two variables represent the unequal relationship between two algebraic expressions involving two distinct variables (typically 
+
+and ). General forms include:
+Graphical Method Procedures
+
+To solve an inequality in two variables graphically:
+
+    Sketch the Boundary Line: Graph the corresponding equation 
+
+on the -plane.
+
+    Use a solid line if the inequality uses 
+
+or
+(points on the line are solutions).
+Use a dashed line if the inequality uses
+or
+
+    (points on the line are not solutions).
+
+Select a Test Point: Choose a point
+not lying on the boundary line (the origin
+is ideal if the line does not pass through it).
+Substitute and Test: Plug
+
+    into the original inequality.
+        If the resulting statement is true, shade the region containing the test point.
+        If the statement is false, shade the opposite region on the other side of the boundary line.
+
+Systems of Linear Inequalities
+
+A system of linear inequalities consists of two or more linear inequalities. The solution set of the system is the region of intersection (overlap) of the shaded regions for each individual inequality.
+Worked Examples: Graphing Systems of Inequalities
+Example 1: Solve the system of inequalities graphically:
+
+    Step-by-step Solution:
+        Graph 
+
+:
+
+    Boundary equation: 
+
+. Draw as a dashed line.
+Test point
+:
+(True).
+Shade the region below the line containing
+
+    .
+
+Graph
+:
+
+    Boundary equation: 
+
+. Draw as a dashed line.
+Test point
+:
+(True).
+Shade the region above the line
+
+            .
+        Identify Overlap: The region containing points that satisfy both inequalities (where shaded regions overlap) is the solution set.
+
+Example 2: Solve the system of inequalities graphically:
+
+    Step-by-step Solution:
+        Graph 
+
+:
+
+    Boundary line 
+
+is solid.
+Test point
+:
+(False).
+Shade the region below/to the right of the solid line (opposite to
+
+    ).
+
+Graph
+:
+
+    Boundary line 
+
+is dashed.
+Test point
+:
+
+    (False).
+    Shade the region above/to the right of the dashed line.
+
+Solution Region: The intersection region formed by the area below
+and above
+
+        .
+
+Example 3: Solve the system of three linear inequalities graphically:
+
+    Step-by-step Solution:
+        First Inequality (
+
+):
+
+    Convert to slope-intercept form: 
+
+.
+Boundary line
+is solid.
+Test point
+:
+
+    (False). Shade above the solid line.
+
+Second Inequality (
+):
+
+    Convert: 
+
+.
+Boundary line
+is dashed.
+Test point
+:
+
+    (False). Shade below the dashed line.
+
+Third Inequality (
+):
+
+    Boundary line 
+
+is a dashed vertical line.
+Shade the region to the left of
+
+            .
+        Solution Region: The triangular region where all three shaded areas overlap.
+
+Practice Exercises (Section 4.5)
+
+Solve the following systems of linear inequalities graphically:
+
+4.3 Inequalities Involving Absolute Value
+General Rules for Absolute Value Inequalities
+
+Let
+be an algebraic expression and be a positive real number (
+
+):
+
+    Less Than Rule:
+
+Interpretation: The solution set lies between and
+
+    .
+
+Greater Than Rule:
+
+Interpretation: The solution set lies outside the interval
+
+        .
+
+Special Cases with Zero or Negative Numbers
+
+or (where ):
+
+    No solution (empty set 
+
+), since absolute value is always non-negative (
+
+    ).
+
+:
+
+    One solution: Solve the equation 
+
+    .
+
+:
+
+    All real numbers (
+
+or
+
+    ).
+
+:
+
+    All real numbers except where 
+
+(i.e.,
+
+    ).
+
+(where ):
+
+    All real numbers (
+
+        ), because any non-negative number is greater than a negative number.
+
+Worked Examples: Absolute Value Inequalities
+Example 1: Solve
+.
+
+    Step-by-step Solution:
+        Apply rule: 
+
+Subtract from all parts:
+Interval Notation: Number Line: Open dots at and
+
+        with a line connecting them.
+
+Example 2: Solve
+.
+
+    Step-by-step Solution:
+        Apply rule: 
+
+Solve Case 1:
+Solve Case 2:
+Interval Notation:
+Example 3: Solve
+.
+
+    Solution: Since the absolute value of any number is 
+
+, it can never be less than .
+
+    Result: No solution (
+
+        ).
+
+Example 4: Solve
+.
+
+    Solution: Absolute value cannot be strictly negative, so this requires 
+
+:
+Result: Single point solution
+
+        .
+
+Example 5: Solve
+.
+
+    Solution: Absolute value is always non-negative (
+
+), which is strictly greater than any negative number (like ).
+
+    Result: All real numbers 
+
+or
+
+        .
+
+Practice Exercises (Section 4.7)
+
+Solve the following absolute value inequalities:
+
+4.4 Quadratic Inequalities
+
+    Definition 4.2: A quadratic inequality is an inequality that can be written in one of the following general forms:
+
+where and
+
+    .
+
+4.4.1 Solving Quadratic Inequalities Using Product Properties
+Product Properties Rules:
+
+    Product Greater Than Zero (
+
+):
+
+    Both factors must have the same sign:
+
+Product Less Than Zero ():
+
+    Factors must have opposite signs:
+
+Worked Examples: Product Property Method
+Example 1: Solve
+.
+
+    Step-by-step Solution:
+        Case 1: 
+
+AND AND
+(Impossible, no overlap).
+Case 2:
+AND AND
+.
+Solution Set:
+or
+
+        .
+
+Example 2: Solve
+.
+
+    Step-by-step Solution:
+        Case 1: 
+
+AND AND
+.
+Case 2:
+AND AND
+.
+Solution Set:
+or , written in interval notation as
+
+        .
+
+Example 3: Solve
+.
+
+    Step-by-step Solution:
+        Rearrange: 
+
+.
+Factorize:
+.
+Apply product property for
+:
+
+    Case 1: 
+
+AND AND
+.
+Case 2:
+AND AND
+
+    .
+
+Solution Set:
+or , written as
+
+        .
+
+4.4.2 Solving Quadratic Inequalities Using a Sign Chart
+
+A sign chart displays the algebraic sign (
+or
+
+) of each linear factor across intervals defined by the critical points (roots) of the factored expressions.
+Steps for Using a Sign Chart:
+
+    Rewrite the quadratic inequality so that zero is on the right-hand side.
+    Factor the quadratic expression on the left-hand side into linear factors 
+
+.
+Find the roots/zeros of each factor to determine the key boundary points.
+Set up a table with columns representing intervals created by these key points.
+Determine the sign (
+or
+) of each factor and their product within each interval.
+Select the interval(s) satisfying the inequality sign (
+for , for
+
+    ).
+
+Worked Examples: Sign Chart Method
+Example 1: Solve
+using a sign chart.
+
+    Step-by-step Solution:
+        Roots of factors: 
+
+;
+.
+Key points:
+and
+
+        .
+        Sign Chart:
+
+Factors 	
+Conclusion: The product is negative (
+) in the interval
+.
+Solution Set:
+
+    .
+
+Example 2: Solve
+using a sign chart.
+
+    Step-by-step Solution:
+        Roots of factors: 
+
+and
+
+        .
+        Sign Chart:
+
+Factors 	
+Conclusion: The product is positive or zero (
+) when or
+.
+Solution Set:
+
+    .
+
+4.5 Applications of Inequalities
+
+Translating real-world phrases into mathematical inequalities:
+
+    "Is greater than" 
+
+"Is less than" "At least" or "Minimum" "At most" or "Maximum" "Between and inclusive"
+Worked Real-World Examples
+Example 1: Savings Goal
+
+Kebede saved Birr 6,000 up to last month and plans to add Birr 1,000 each month until he saves more than Birr 80,000. How many months does he need to save?
+
+    Solution:
+        Let 
+
+be the number of months.
+Formulate inequality:
+Solve for :
+
+        Interpretation: Kebede needs to save for more than 74 months (at least 75 months, or more than 6 years and 2 months).
+
+Example 2: Text Messaging Limit
+
+Chaltu pays Birr 0.20 per text message. Her account starts with Birr 50.00, and her maximum total budget allowed is Birr 80.00. How many text messages can she send at most?
+
+    Solution:
+        Let 
+
+be the number of text messages.
+Formulate inequality:
+Solve for :
+
+        Interpretation: Chaltu can send a maximum of 150 text messages.
+
+Example 3: Human Pregnancy Duration
+
+The length of a normal human pregnancy is from 37 to 41 weeks, inclusive.
+
+    Normal Pregnancy Inequality: 
+
+Abnormal Pregnancy Inequality:
+Example 4: Dual Job Income Model
+
+Dendir works two part-time jobs to earn at least Birr 240 a week. Food service pays Birr 10/hour (
+) and campus tutoring pays Birr 15/hour (
+
+).
+
+    Solution:
+        Inequality:
+
+Slope-Intercept Form:
+Sample Solutions :
+
+(Works 15 hrs food service, 10 hrs tutoring; earns Birr 300).
+(Works 0 hrs food service, 16 hrs tutoring; earns Birr 240).
+
+            (Works 24 hrs food service, 0 hrs tutoring; earns Birr 240).
+
+Chapter Summary
+
+    Open Interval 
+
+: Closed Interval : Half-Open Intervals: and Absolute Value Rules ():
+
+Linear Inequalities in Two Variables: Represented graphically by region shading bounded by solid () or dashed (
+) lines.
+Quadratic Inequalities: Forms
+(or
+), solved via product properties, sign charts, or graphing.
+Product Rules:
+
+Review Exercise Solutions & Guide
+Selected Conceptual & Computational Exercises
+
+    Effect of Multiplication on 
+
+:
+
+    Multiply by positive number: Sign stays the same (
+
+).
+Multiply by negative number: Sign reverses (
+).
+Multiply by zero: Becomes equality (
+
+    ).
+
+Solution Set for
+where (Natural Numbers):
+Since
+must be a natural number (
+):
+Solution:
+
+    (Choice A).
+
+Algebraic Translation:
+
+    (a) Sum of 7 and three times a number is 
+
+:
+.
+(b) Three subtracted from twice a number is
+:
+
+    .
+
+Absolute Value Problem (Question 9): Solve
+:
+Correct Choice: D (
+
+    ).
+
+Quadratic Inequality Solution (Question 12): Solve
+
+:
+
+    Solution: 
+
+or
+
+    (Choice B).
+
+Electric Current Tolerance (Question 13): A measured current of
+with an error of expressed as an absolute value inequality:
+
+Store Profit Model (Question 14):
+, where is rent and
+
+is profit.
+
+    To find where profit is positive (
+
+):
+Since rent , the allowable rent range for positive profit is
+
+        (in hundred birr per square meter).
+

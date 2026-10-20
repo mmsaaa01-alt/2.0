@@ -1,0 +1,256 @@
+StudySmart Education
+Study Notes: Economics - G9
+
+UNIT 3: Economic Resources and Markets: 3.1 Types of Resources and Factor Payments, 3.2 Renewable and Non-renewable Resources, 3.3 Types of Markets, 3.4 Circular Flow of Economic Activities, 3.5 Land as an Economic Resource in Ethiopia, UNIT 3: Unit Summary, UNIT 3: Review Questions
+Official Telegram Bot: @StudySmartEt_bot
+Channel: @grade9to12ethiopia
+studysmart.et
+Unit 3: Economic Resources and Markets
+
+    This unit explores fundamental economic concepts including various types of resources, how they are categorized and compensated, the distinction between renewable and non-renewable resources, the different types of markets that facilitate economic activity, and the macroeconomic model of the circular flow of economic activities. Finally, it delves into the specific role and historical context of land as an economic resource in Ethiopia.
+
+3.1 Types of Resources and Factor Payments
+
+    This section defines what resources are in economics, distinguishes between free and economic resources, and then elaborates on the four main categories of economic resources, also known as factors of production, along with their respective payments.
+
+3.1.1 Definition and Types of Resources
+
+    Resources: Inputs used in the process of production in order to make goods and services available to society.
+    There are two main types of resources:
+        • Free Resources: A resource is said to be free if the amount available to a society is greater than the amount people desire to have at zero price.
+            Characteristics:
+                • Free gifts of nature.
+                • Unlimited in supply.
+                • Have no prices (zero price).
+            Examples: Air, sunshine, solar energy, a mountain stream.
+        • Economic (Scarce) Resources: A resource is said to be economic or scarce when the amount available to a society is less than what people want to have at zero price.
+            Characteristics:
+                • Scarce or not available in plenty.
+                • Have non-zero prices.
+            Price as a Test: Price is the test of whether a resource is an economic or a free good.
+            Examples:
+                • All types of human resources: manual, intellectual, skilled, and specialized labor.
+                • Most natural resources: land (especially fertile land), minerals, clean water, forests, and wild animals.
+                • All types of capital resources: machines, intermediate goods, and infrastructure.
+                • All types of entrepreneurial resources.
+
+3.1.2 Four Categories of Economic Resources (Factors of Production)
+
+Generally, economic resources are divided into four broad categories, each with a specific reward for its service:
+
+    • Labour:
+        Definition: Refers to the physical as well as mental efforts of human beings in the production and distribution of goods and services.
+        Reward: Wage
+    • Land:
+        Definition: Refers to the natural resources, or all the free gifts of nature, used in the production of goods and services.
+        Reward: Rent
+    • Capital:
+        Definition: Refers to all the manufactured inputs that can be used to produce other goods and services.
+        Examples: Equipment, machinery, transport and communication facilities, etc.
+        Reward: Interest
+    • Entrepreneurship:
+        Definition: Refers to a special type of human talent that helps to organize and manage other factors of production to produce goods and services and takes the risk of making losses.
+        Reward: Profit
+
+    Key Takeaway: Resources are inputs for production. Free resources are unlimited and have no price, while economic resources are scarce and have a price. The four main economic resources are land, labor, capital, and entrepreneurship, each earning rent, wages, interest, and profit, respectively.
+
+3.2 Renewable and Non-renewable Resources
+
+    This section defines and differentiates between renewable and non-renewable resources, emphasizing the critical importance of conserving all natural resources to ensure their continued availability.
+
+3.2.1 Definitions and Differences
+
+    • Renewable Resources: Resources that have the potential to be replaced over time through natural processes.
+        Renewal Process: Can be relatively quick (e.g., sunshine daily) or very slow (e.g., formation of soil over hundreds of years).
+        Examples: Solar energy, wind energy, soil, trees, grass, geothermal pressure, and groundwater.
+    • Non-renewable Resources: Resources whose stock or reserve is limited or fixed, and which are found in the ground.
+        Supply: The available supply may be replenished through recycling, but the overall supply remains relatively constant because the natural formation process is extremely slow or non-existent in human timescales.
+        Examples: Natural gas, coal, steel, aluminum, and oil.
+
+3.2.2 Conservation of Natural Resources
+
+    Conserve: Means not misusing, spoiling, or wasting things.
+
+    Importance of Conservation:
+        • Crucial for non-renewable resources because their supply is limited.
+        • Important even for renewable resources, as they can be depleted (run out) if overused or killed (e.g., forests, fisheries).
+        • Protection from pollution is also a key aspect of conservation.
+
+    Pollution: Occurs when people put harmful chemicals and other things into nature.
+        Examples of Pollution: Oil spilled into water, toxic chemicals in the air, garbage dumped on the side of the road.
+
+    Methods to Conserve Natural Resources (The 3 Rs):
+        • Reduce: Decreasing the amount of resources used.
+            Examples:
+                • Turn off lights when not in a room to reduce the use of fossil fuels for electricity.
+                • Ride bicycles and walk more to reduce gasoline consumption for transport.
+        • Reuse: Using items multiple times instead of discarding them after single use.
+            Examples: Plastic jugs, jars, paper, and bags can be reused. Each reuse conserves resources that would have been used to make new items.
+        • Recycle: Reusing a natural resource or product to make something new. It also means collecting and sending these things for reuse.
+            Easily Recycled Items: Glass, some plastics, paper, cardboard, aluminum, and steel.
+            Hard-to-Recycle Items: Some plastics and metals are difficult because they are made from mixtures of materials that are hard to separate.
+            Recommendation: Try to buy and use things that can be easily recycled.
+
+    Key Takeaway: Renewable resources can naturally replenish over time, while non-renewable resources have a fixed, limited stock. Conservation, through reducing, reusing, and recycling, is essential for preserving both types of resources and protecting them from pollution.
+
+3.3 Types of Markets
+
+    This section defines what a market is and describes three important types of markets: the goods and services market, the labor market, and the financial market.
+
+3.3.1 Definition of a Market
+
+    Market: An institution where two parties can meet to facilitate the exchange of goods and services.
+    Parties Involved: Usually buyers and sellers.
+    Forms of Markets:
+        • Physical: Like a retail outlet, where people meet face-to-face.
+        • Digital: Like an online market, where there is no direct physical contact between buyers and sellers.
+
+3.3.2 Specific Types of Markets
+
+    • Goods and Services Market:
+        Definition: Where households purchase consumable goods and services and businesses sell their goods and services.
+        Participants: Households (buyers), Businesses (sellers).
+        Scope: Includes stores, the Internet, and any other place where consumer goods and services are exchanged.
+        Transactions: End products are traded. Consumers pay money to businesses to acquire something. Money continuously flows from the consumer to the business firms.
+        Examples: Going to a store, shopping online, trading with a friend.
+
+    • Labour Market:
+        Definition: A market in which employees provide the labour services and employers provide the employment opportunities for labour.
+        Participants: Employees (providers of labor services), Employers (providers of employment opportunities).
+        Levels of View: Can be viewed at both macroeconomic (economy-wide) and microeconomic (specific industry/job) levels.
+        Examples of Labour Services: Daily laborers, domestic workers, skilled workers, professionals.
+
+    • Financial Market:
+        Definition: Any place where securities, currencies, bonds, and other financial assets are traded between two parties.
+        Importance: It is the basis of capitalist societies, providing capital formation (raising money for investment) and liquidity (ease of converting assets to cash) for businesses.
+        Forms: Can be physical or digital.
+        Examples: Bond markets, stock markets, share markets.
+
+    Key Takeaway: A market is where buyers and sellers exchange goods and services. Key market types include the goods and services market (for consumer products), the labour market (for employment), and the financial market (for trading financial assets).
+
+3.4 Circular Flow of Economic Activities
+
+    This section introduces the concept of the circular flow of economic activities as a model of how different sectors in an economy interact through the exchange of goods, services, resources, and money. It details the types of flows involved and explains both the two-sector and three-sector models of this flow.
+
+3.4.1 Overview and Definition
+
+    Circular Flow of Economic Activities: A simplified macroeconomic model of the basic economic relationships in a market economy.
+    Purpose: Gives an overview of how households, businesses, and the government interact in different markets by exchanging goods and services, productive resources (inputs or the factors of production), and money.
+    Core Economic Activities: Production, exchange, and consumption.
+    Transactions: As these activities occur, transactions among different sectors generate a circular movement of income and expenditure.
+    Economic Agents (Decision-Making Units): The sectors into which an economy is divided for this purpose (e.g., households, firms, government).
+    Circular Flow of Income (or Circular Flow Diagram): A visual model of an economy that shows how a currency, such as the Birr, flows through markets among decision-making units.
+        • Also refers to the continuous flow of payments and receipts for goods and services and factor services among different sectors of the economy.
+        • Describes the process whereby the income and expenditure of an economy flow in a circular manner continuously through time.
+
+3.4.2 Types of Flows
+
+Economic transactions generate two types of flows:
+
+    • Real Flows: Consist of the flows of:
+        • Factor services from the owners of factor services (households) to the producers (firms).
+        • Goods and services from the producers (firms) to the buyers (households).
+    • Money (Financial) Flows: Consist of the flows of:
+        • Money incomes from factor services such as rent, wages, interest, and profit.
+        • Money expenditures incurred for the purchase of goods and services.
+
+    Relationship: Real flows and money flows are two sides of the same coin. A real flow of goods and services is matched by an equal but opposite money flow.
+
+3.4.3 Models of Circular Flow (for Closed Economies)
+3.4.3.1 Two-Sector Circular Flow Model
+
+    Description: Represents a private, closed economy with only two sectors.
+    Sectors:
+        • Household Sector
+        • Business Sector (Firms)
+    Underlying Assumptions:
+        • Only two sectors: household sector and business firms.
+        • Household sectors are owners of factors of production and supply factor services to firms.
+        • Firms produce goods and services and sell their entire output to households.
+        • Households receive income for their factor services and spend the entire amount on consumption.
+        • There is no saving in the economy.
+        • There is no government sector.
+        • It is a closed economy, meaning there are no exports or imports.
+    Flows Illustration (Figure 3.2 based description):
+        • Real Flow (Inner Circle):
+            • Continuous flow of factor services (land, labor, capital, entrepreneurship) from households to firms.
+            • Firms use these factors to produce goods and services and supply them to households for consumption.
+        • Money Flow (Outer Circle):
+            • When firms receive factor services from households, they make monetary payments (wages, rent, interest, profit) to households.
+            • Households then spend this entire income on purchasing goods and services from firms for consumption.
+            • Since households spend all their income, the total money receipts of firms are equal to the total income of households.
+            • Money flows from firms to households (as factor payments) and back from households to firms (as payments for goods and services).
+
+3.4.3.2 Three-Sector Circular Flow Model
+
+    Description: The economy has three sectors.
+    Sectors:
+        • Households
+        • Firms
+        • Government
+    Government Economic Activities:
+        • Government revenue (e.g., taxes).
+        • Government expenditure (e.g., purchases of goods and services, subsidies, transfer payments).
+    Flows Illustration (Figure 3.3 based description):
+        • Households and Firms: Firms pay households for factor services, and households pay firms for goods and services (similar to the two-sector model).
+        • Capital Market: Households save a portion of their income, which is deposited in the capital market. The capital market then provides these savings to firms for investment.
+        • Government Revenue: The government collects revenue by imposing taxes on both households and firms.
+        • Government Expenditure:
+            • The government uses this revenue to purchase goods and services from firms and households.
+            • The government also provides subsidies to firms (e.g., to support production).
+            • The government makes transfer payments to households (e.g., social welfare benefits).
+        • Overall Flow: National income flows in a circular form among these three sectors (households, firms, and government), influencing and being influenced by each other's activities.
+
+    Key Takeaway: The circular flow model illustrates how money, goods, services, and resources move between economic agents. Real flows involve physical goods and services, while money flows involve payments. The two-sector model includes households and firms, while the three-sector model adds the government, incorporating taxes, savings, investments, and government spending.
+
+3.5 Land as an Economic Resource in Ethiopia
+
+    This section examines the significant role of land in Ethiopia's economy, particularly in agriculture, identifies the main soil types in its highlands, and discusses the historical and current context of land ownership rights in the country.
+
+3.5.1 Importance of Land in Ethiopia's Economy
+
+    Backbone of the Economy: For a country like Ethiopia, where agriculture is the backbone of the economy, land is a very important economic resource.
+    Agricultural Context: In agriculture, land refers not only to its areal extent but also to its productivity for food crops and other crops.
+    Agricultural Potential:
+        • Ethiopia has a total area of 1,106,000 square kilometers.
+        • Approximately 35% (as per CSA, 2007) of this area is considered suitable for agriculture.
+        • This suitability is a direct or indirect result of good soil and a suitable climate.
+
+3.5.2 Main Soil Types in Ethiopian Highlands
+
+Most of the Ethiopian highlands have two main soil types believed to be suitable for agriculture:
+
+    • Red-to-reddish brown soils:
+        • Well-endowed with minerals required for crops.
+        • Found in areas with relatively good drainage.
+        • Friable: Easy to plough.
+    • Brownish-to-grey and black soils with high clay content:
+        • With proper drainage and conditioning, these soils have excellent agricultural potentials.
+
+3.5.3 Climatic Aspect and Resource Potential
+
+    • Agro-ecological Zones: The formation of different agro-ecological zones due to altitude has multiplied the resource potential of Ethiopia's land.
+    • Crop Diversity: The presence of various agro-climate zones allows for the growth of different types of crops, increasing Ethiopia's potential for producing exportable items and earning foreign currency.
+
+3.5.4 Land Ownership Rights in Ethiopia
+
+    • Pre-1975 (Feudal System): Ethiopian people struggled for centuries with inequitable land holdings under a feudal system.
+    • 1975-1991 (Socialist System):
+        • The feudal system was effectively removed in 1975.
+        • Under the slogan "Land to The Tiller," the socialist system paradoxically overturned the slogan and resulted in state ownership of land rather than giving it to the people.
+    • 1991-Present (Current Government):
+        • The current government, which came to power in 1991, maintained state ownership of land, controlling all urban and rural land along with natural resources.
+        • Rural Peasants and Pastoralists: Guaranteed a lifetime "holding" right, which grants all rights except sale and mortgage.
+        • Urban Residents: Provided with the right to get land for residence on a 99-year lease-based agreement (though not explicitly mentioned in the constitution).
+        • Limitations of State Ownership:
+            • The current state ownership is considered "far from ideal" as it restricts various land rights such as use, rent, lease, endowment, and inheritance for different reasons.
+            • Redistribution of land is highly restricted, leading to almost non-existent access to rural land.
+        • Expropriation and Compensation:
+            • The constitution protects land holdings against arbitrary state eviction by inserting a provision for "commensurate" compensation during expropriation.
+            • However, successive implementation of proclamations has violated this protection by denying market value (fair compensation) for loss of property, making the compensation insufficient.
+    Recommendations for Improvement: The current government could provide more secure land rights by:
+        • Creating more access to rural land.
+        • Liberating land holding rights.
+        • Compensating fairly for the loss of properties during expropriation.
+
+    Key Takeaway: Land is a vital economic resource for Ethiopia, especially due to its agricultural importance, diverse soil types, and climate. Historically, land ownership has transitioned from feudalism to state control. While current policy grants holding rights, it faces criticism for restricting full land rights and offering insufficient compensation during expropriation, highlighting areas for potential reform.

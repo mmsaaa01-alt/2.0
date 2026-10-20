@@ -1,0 +1,786 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 3: SOLVING EQUATIONS: 3.1 Revision on Linear Equation in One Variable, 3.2 Systems of Linear Equations in Two Variables, 3.3 Solving Non-linear Equations, 3.4 Applications of Equations, UNIT 3: Summary, UNIT 3: Review Exercise
+
+Unit 3: Solving Equations
+
+    Overview: Equations function like a balanced weighing scale, where the expression on one side of the equal sign must equal the value on the other side. This unit covers linear equations in one variable, systems of linear equations in two variables, non-linear equations (absolute value, exponents, and radicals), quadratic equations, and their practical real-life applications.
+
+3.1 Revision on Linear Equation in One Variable
+Key Concepts & Definitions
+
+    Definition 3.1: When an equation in one variable has an exponent equal to 
+
+, it is said to be a linear equation in one variable. It is written in the standard form:
+
+where is the variable, and are real coefficients, and
+
+    . A linear equation in one variable has exactly one solution.
+
+Steps for Solving Linear Equations in One Variable
+
+To find the value of the variable that satisfies a linear equation, follow these sequential steps:
+
+    Clear Fractions: Use the Least Common Multiple (LCM) of the denominators to eliminate fractions if present.
+    Simplify Both Sides: Expand brackets, remove parentheses, and combine like terms on each side of the equation.
+    Isolate the Variable: Use addition or subtraction properties to collect terms containing the variable on one side and constant terms on the other, then use multiplication or division to solve for the variable.
+    Verify the Answer: Substitute the calculated value back into the original equation to ensure the Left-Hand Side (LHS) equals the Right-Hand Side (RHS).
+
+Worked Examples
+Example 1: Basic Linear Equations
+
+Solve for
+
+:
+
+Solution:
+
+    Subtract 
+
+from both sides to isolate :
+
+Subtract
+from both sides, then divide by :
+Example 2: Equation Involving Fractions
+
+Solve for
+
+:
+
+Solution:
+
+    Step 1 (Clear fractions): The denominators are 
+
+and . The LCM is . Multiply every term by :
+
+Step 2 & 3 (Simplify and Isolate):
+
+Step 4 (Verify):
+Since , the solution
+
+    is verified.
+
+Example 3: Geometry Word Problem
+
+The length of a leg of an isosceles triangle is
+more than its base length. If the perimeter of the triangle is
+
+, find the lengths of all three sides.
+
+Solution:
+
+    Let 
+
+be the length of the base in cm.
+Each equal leg measures
+.
+The perimeter of a triangle is the sum of its three sides:
+Set up and solve the equation:
+Find leg length :
+Conclusion: The base measures , and the two legs measure
+
+each.
+3.2 Systems of Linear Equations in Two Variables
+
+    Definition 3.2: An equation of the type 
+
+, where and are arbitrary constants and
+
+    , is called a linear equation in two variables.
+
+A system of linear equations consists of two or more linear equations containing two or more variables that are evaluated simultaneously. To have a unique numerical solution, a system must have at least as many independent equations as variables.
+
+There are four methods to solve a system of linear equations in two variables:
+
+    Solving using Tables
+    Solving by Substitution Method
+    Solving by Addition (Elimination) Method
+    Solving by Graphical Method
+
+3.2.1 Solving Systems of Linear Equations in Two Variables Using Tables
+
+This method involves isolating
+in both equations, calculating -values for corresponding -values in tabular form, and identifying the matching ordered pair
+
+present in both tables.
+Example 1
+
+Find the solution to the system:
+
+Solution:
+
+    Express 
+
+in terms of
+
+for both equations:
+
+    Equation 1: 
+
+Equation 2:
+
+Construct tables of values:
+
+    Table for 
+
+:
+
+Table for
+
+:
+
+Identify the common ordered pair: The pair
+
+    satisfies both equations.
+
+Example 2: Verifying an Ordered Pair
+
+Check whether the ordered pair
+
+is a solution to the system:
+
+Solution:
+
+    First Equation: 
+
+(True)
+Second Equation:
+
+    (True)
+
+Since
+
+satisfies both equations, it is a valid solution.
+3.2.2 Solving Systems of Linear Equations in Two Variables by Substitution
+Sequential Steps:
+
+    Solve for one variable: Rearrange one equation to express one variable in terms of the other.
+    Substitute: Plug this expression into the second equation to get an equation in a single variable.
+    Solve: Find the value of the single variable.
+    Back-substitute: Insert this value into either original equation to find the second variable. Express the final answer as an ordered pair 
+
+    .
+    Verify: Check the values in both original equations.
+
+Worked Examples
+Example 1
+
+Solve the system by substitution:
+
+Solution:
+
+    Solve the first equation for 
+
+:
+Substitute into the second equation:
+Substitute back into :
+The solution is
+
+    .
+
+Example 2
+
+Solve the system by substitution:
+
+Solution:
+
+    Solve the first equation for 
+
+:
+Substitute into the second equation:
+Find :
+The solution is
+
+    .
+
+3.2.3 Solving Systems of Linear Equations in Two Variables by Addition (Elimination) Method
+
+The elimination method involves multiplying one or both equations by suitable non-zero real numbers so that the coefficients of one variable become opposite values. Adding the two equations then eliminates that variable.
+Sequential Steps:
+
+    Write both equations in standard form: 
+
+    .
+    Multiply one or both equations by constants so that the coefficients of one variable are additive inverses (opposite signs).
+    Add the equations to eliminate one variable.
+    Solve the resulting single-variable equation.
+    Substitute the known value into an original equation to solve for the remaining variable.
+    Verify the ordered pair solution.
+
+Worked Examples (Standard & Multiplied Elimination)
+Example 1: Direct Addition
+
+Solve by elimination:
+
+Solution:
+
+    Since 
+
+and have opposite coefficients, add the equations directly:
+Substitute into the first equation:
+The solution is
+
+    .
+
+Example 2: Multiplying One Equation
+
+Solve by elimination:
+
+Solution:
+
+    Multiply the second equation by 
+
+to eliminate :
+Add to the first equation:
+Substitute into :
+The solution is
+
+    .
+
+Example 3: Multiplying Both Equations
+
+Solve by elimination:
+
+Solution:
+
+    To eliminate 
+
+, multiply the first equation by and the second equation by :
+Add the equations:
+Substitute into :
+The solution is
+
+    .
+
+Word Problems Involving Systems in Two Variables
+Example
+
+Three pens and two books cost
+, and one pen and two books cost
+
+. Find the cost of one pen and one book separately.
+
+Solution:
+
+    Let 
+
+be the price of one pen and
+be the price of one book.
+Set up the system:
+Subtract the second equation from the first:
+Substitute into :
+Conclusion: One pen costs and one book costs
+
+.
+3.2.4 Graphical Method of Solving System of Linear Equations in Two Variables
+
+To solve a system graphically, plot both linear equations on the same Cartesian coordinate plane and identify their relationship.
+System of 2 Linear Equations
+Intersecting Lines
+Parallel Lines
+Coincident / Same Line
+Exactly ONE Unique Solution
+Independent System
+NO Solution
+Inconsistent System
+INFINITELY MANY Solutions
+Dependent System
+Analytical Summary of Graphical Types:
+
+Given a general system:
+
+    Independent System (Unique Solution):
+        Ratio Condition: 
+
+Slopes are different (). Lines intersect at one point
+
+    .
+
+Inconsistent System (No Solution):
+
+    Ratio Condition: 
+
+Slopes are equal (), but -intercepts are different (
+
+    ). Lines are parallel.
+
+Dependent System (Infinitely Many Solutions):
+
+    Ratio Condition: 
+
+Slopes and
+
+        -intercepts are identical. Lines coincide completely.
+
+Worked Examples
+Example 1: Intersecting Lines (Unique Solution)
+
+Solve graphically:
+
+Solution:
+
+    Convert to slope-intercept form (
+
+):
+
+    Line 1: 
+
+(Slope , -intercept
+)
+Line 2:
+(Slope , -intercept
+
+    )
+
+Plot both lines on the
+-coordinate plane.
+The lines intersect at the point
+.
+Verification:
+
+    Line 1: 
+
+(True)
+Line 2:
+
+    (True)
+
+Solution:
+
+    .
+
+Example 2: Parallel Lines (No Solution)
+
+Solve graphically:
+
+Solution:
+
+    Express both in 
+
+form:
+
+    Line 1: 
+
+Line 2: Analysis: Both lines have a slope of , but different -intercepts ( and
+
+    ).
+    Graphical Representation: The lines are parallel and will never intersect.
+    Conclusion: No solution (Inconsistent System).
+
+3.3 Solving Non-Linear Equations
+3.3.1 Equations Involving Absolute Value
+
+    Definition: The absolute value of a real number 
+
+, denoted by , represents the distance between and on a real number line. Distance is always non-negative (
+
+    ).
+
+Key Properties of Absolute Value:
+
+    For any real number 
+
+: For any real number : For any non-negative real number :
+Negative Value Exception: If , the equation
+
+    has no real solution (an absolute value can never yield a negative quantity).
+
+Worked Examples
+Example 1: Simple Absolute Value
+
+Solve
+
+Solution: Set up two independent linear equations using Property 3:
+
+Solutions: and
+
+.
+Example 2: Isolating the Absolute Value Expression
+
+Solve
+
+Solution:
+
+    Isolate the absolute value term:
+
+Split into two cases:
+
+    Case 1: 
+
+Case 2: Solutions: and
+
+.
+3.3.2 Quadratic Equations
+
+    Definition 3.3: An equation of the form:
+
+where and
+
+, is a quadratic equation.
+
+is the leading coefficient
+is the coefficient of the middle term
+
+        is the constant term
+
+Method 1: Factorization
+Procedures:
+
+    Rewrite the equation in standard form: 
+
+.
+Factor the quadratic expression into two linear factors using the zero-product property (
+).
+Set each factor equal to zero and solve for
+
+    .
+
+Examples:
+
+    Example A (
+
+): Solve
+Solutions:
+
+.
+
+Example B (
+): Solve Find two numbers with sum and product . The numbers are and .
+Solutions:
+
+.
+
+Example C (
+): Solve Rewrite as :
+Solution:
+
+    (a repeated root).
+
+Method 2: Completing the Square
+
+Any quadratic equation
+(
+
+) can be transformed into a perfect square trinomial structure:
+
+Steps for
+:
+
+    Isolate the constant term on the right side.
+    Add the square of half the middle term coefficient, 
+
+, to both sides.
+Express the left side as a perfect square
+.
+Take the square root of both sides and solve for
+
+    .
+
+Example:
+
+Solve
+
+by completing the square.
+
+Solution:
+
+Add to both sides:
+Take the square root of both sides:
+Solutions: and
+
+    .
+
+Method 3: The Quadratic Formula
+
+Derived directly from completing the square, the roots of any quadratic equation
+(
+
+) are given by:
+
+Example:
+
+Solve
+
+using the quadratic formula.
+
+Solution: Here,
+.
+Solutions: and
+
+.
+Discriminant Analysis
+
+The term under the radical sign in the quadratic formula,
+
+, is called the discriminant. It determines the nature and number of roots of the quadratic equation:
+Discriminant: D = b² - 4ac
+D > 0
+D = 0
+D < 0
+Two Real and Distinct Roots
+Exactly One Real Root / Coincident
+No Real Roots
+
+    Case 1 (
+
+): The equation has two distinct real roots:
+.
+Case 2 (
+): The equation has exactly one real root:
+.
+Case 3 (
+
+    ): The equation has no real roots.
+
+Examples of Discriminant Analysis:
+
+No real roots.
+One real root (
+).
+Two distinct real roots (
+
+    ).
+
+Relationships Between Roots and Coefficients
+
+Let
+and be the two roots of
+
+:
+
+Sum of the Roots:
+
+Product of the Roots:
+Worked Examples
+Example 1
+
+Find
+and for if the sum of the roots is and the product is
+
+.
+
+Solution:
+
+    Sum: 
+
+Product: The quadratic equation is
+
+    .
+
+Example 2
+
+If the difference between the roots of
+is , find
+
+.
+
+Solution:
+
+    From coefficients: 
+
+Given difference: Solve the system for and :
+Use product relationship:
+
+    .
+
+3.3.3 Equations Involving Exponents and Radicals
+Equations Involving Exponents
+Fundamental Exponential Rules (
+):
+
+Base Equality Rule: For
+and :
+Worked Examples
+Example 1: Equalizing Bases
+
+Solve
+Solution: Write both sides with base :
+Example 2: Radical/Fractional Exponents
+
+Solve
+
+Solution:
+
+    Raise both sides to the 
+
+power:
+Factor:
+.
+Check solutions:
+
+    For 
+
+:
+(Valid)
+For
+:
+
+        (Valid)
+
+Example 3: Rational Exponent Equations
+
+Solve
+
+Solution:
+
+    Isolate the exponent expression:
+
+Cube both sides:
+Take square roots:
+Equations Involving Radicals
+
+    Definition 3.4: Radical equations are equations that contain variables inside the radicand (the expression under a radical symbol).
+
+Steps for Solving Radical Equations:
+
+    Specify Domain Restrictions: Real radicals with even roots require non-negative radicands (
+
+    ).
+    Isolate the Radical: Move the radical expression to one side of the equation.
+    Square/Raise Both Sides: Eliminate the radical by raising both sides to the power matching the index.
+    Solve the Resulting Equation.
+    Check for Extranous Solutions: Substitute all solutions back into the original equation to filter out invalid values introduced by squaring.
+
+Worked Examples
+Example 1
+
+Solve
+
+Solution:
+
+    Domain restrictions:
+        Radicand non-negative: 
+
+Principal square root non-negative: Combined Domain: Square both sides:
+Factor:
+.
+Verify:
+falls outside the domain .
+
+    Check 
+
+:
+
+    (Valid)
+
+Solution:
+
+    only.
+
+Example 2: Two Radicals
+
+Solve
+
+Solution:
+
+    Domain:
+
+Domain requirement: Isolate one radical:
+Square both sides:
+Square both sides again:
+Check solutions:
+
+    Test 
+
+: , but radical must be positive. Thus
+is extraneous.
+Test
+:
+
+    (Valid).
+
+Solution:
+
+    .
+
+3.4 Applications of Equations
+Application 1: Systems of Linear Equations
+Circus Ticket Problem
+
+A circus charges
+for children and for adults. On a given day, total attendance is people and total revenue is
+
+. How many children and adults attended?
+
+Solution:
+
+    Let 
+
+,
+.
+System of equations:
+Solve by substitution (
+):
+Calculate :
+Conclusion: children and
+
+adults bought tickets.
+Application 2: Quadratic Equations
+Projectile Motion & Free-Fall
+Falling Object Problem
+
+An object dropped from a height of
+has a height (in meters) after seconds modeled by . Find the time taken to reach a height of
+
+.
+
+Solution:
+
+    Express 
+
+in terms of ():
+Substitute :
+Conclusion: It takes to reach a height of
+
+.
+Rocket Launch Problem
+
+A rocket projectile launched with initial velocity
+has its height modeled by . How long is the projectile in the air before hitting the ground (
+
+)?
+
+Solution:
+
+    Set 
+
+and :
+Divide by :
+Factor:
+Since time must be non-negative (), discard
+
+    .
+
+Conclusion: The projectile hits the ground after
+
+.
+3.5 Unit Summary & Key Formulas Reference
+Unit 3 Equations
+Linear
+Systems 2D
+Non-Linear
+1 Variable: ax + b = 0
+Substitution / Elimination / Graphs
+Absolute Value: |x| = p
+Quadratic: ax² + bx + c = 0
+Exponents & Radicals
+Summary Table of Rules & Formulas
+Equation Type 	Standard Form / Structure 	Key Solution Rule / Formula
+Linear (1 Variable) 	
+Linear System 	
+	* One Sol:
+
+* No Sol:
+* Sol:
+Absolute Value 	
+Quadratic 	
+Discriminant 	
+* : 2 real roots
+* : 1 real root
+*
+: No real roots
+Roots Relationships 	
+Exponential 	
+Radical 	
+Square both sides, check domain & extranous roots

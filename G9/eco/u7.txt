@@ -1,0 +1,188 @@
+
+Study Notes: Economics - G9
+
+UNIT 7: Introduction to Macroeconomics: 7.1 Definition of Macroeconomic Variables, 7.2 Macroeconomic Goals, 7.3 Macroeconomic Problems, UNIT 7: Unit Summary, UNIT 7: Review Questions
+
+
+Unit 7: Introduction to Macroeconomics
+• This unit introduces the fundamental concepts of macroeconomics, exploring key variables used to measure a country's economic performance, the goals that macroeconomic policies aim to achieve, and common macroeconomic problems such as inflation, unemployment, and trade imbalances.
+
+7.1 Definition of Macroeconomic Variables
+• This section defines macroeconomics and explains several core variables used to measure and understand the overall health and performance of an economy, including Gross Domestic Product (GDP), Gross National Product (GNP), and Per Capita Income.
+
+What is Macroeconomics?
+• Definition: Macroeconomics is the study of economic behavior and policies that influence consumption and investment, trade balance, and other determinants of various macroeconomic variables.
+• Focus: It examines the economy as a whole, rather than individual markets or consumers.
+• Examples of Macroeconomic Factors:
+  ◦ Economic output
+  ◦ Unemployment rates
+  ◦ Inflation
+• Significance: These indicators are closely monitored by governments, businesses, and consumers to understand economic performance. This section will explore macroeconomic problems like inflation and unemployment and their effects.
+
+Gross Domestic Product (GDP)
+• Definition: Gross Domestic Product (GDP): The total value of currently produced final goods and services that are produced within a country's boundary during a given period of time, usually one year.
+• Key Points for Understanding GDP:
+  ◦ Measures Current Production Only: GDP accounts for goods and services produced in the current period, not past periods.
+  ◦ Includes Final Goods and Services Only: Only the end products of various production processes are counted. Intermediate products (goods completely used up in producing other products in the same period) are not included to avoid double-counting.
+  ◦ Within a Country's Boundary: GDP measures the value of goods and services produced within the geographical territory of a country, regardless of who owns the factors of production (e.g., whether it's a local or foreign company).
+  ◦ Market Values: In measuring GDP, the market values of goods and services are used.
+  ◦ Formula for GDP:
+    $GDP = \sum P_i Q_i$
+    Where:
+    $P_i$ denotes the prices of outputs produced in various sectors of an economy over a given time period.
+    $Q_i$ denotes the quantity of various final goods and services produced in an economy.
+
+Gross National Product (GNP)
+• Definition: Gross National Product (GNP): The total value of goods and services produced by domestically owned factors of production in a given time period (usually one year), regardless of their geographical location.
+• Relationship between GDP and GNP: GNP is derived from GDP by accounting for net factor income from foreign sources.
+  ◦ Formula:
+    $GNP = GDP + NFI$
+    Where NFI denotes Net Factor Income from Foreign Sources.
+  ◦ Calculation of NFI:
+    $NFI = \text{Factor income received from abroad} - \text{Factor income paid abroad}$
+• Impact of NFI on GNP relative to GDP:
+  ◦ If NFI > 0 (more income received from abroad than paid out), then GNP > GDP.
+  ◦ If NFI < 0 (less income received from abroad than paid out), then GNP < GDP.
+  ◦ If NFI = 0 (income received equals income paid), then GNP = GDP.
+  ◦ This condition (GNP = GDP) also occurs if the economy is closed, meaning a country has no economic interaction with the rest of the world.
+
+Per Capita Income
+• Definition: Per Capita Income: The ratio of the GDP of a country to its total population.
+• Purpose: It determines the average income of individual citizens, which is used to evaluate the living standard of the population.
+
+7.2 Macroeconomic Goals
+• This section identifies the main objectives that countries typically pursue through their macroeconomic policies to ensure overall economic well-being and stability.
+
+Overview of Macroeconomic Policy Goals
+• Macroeconomic analysis focuses on the behavior of the economy as a whole, considering variables like output, income, employment, and the general price level.
+• Nations (both developed and developing) adopt various macroeconomic policies to bring about desirable changes in these variables.
+• These policies differ across economies and depend on prevailing economic conditions.
+
+General Objectives of a Macroeconomic Policy
+• The main goals are to achieve:
+  ◦ Economic Growth: Economic Growth: A consistent increase in national income. This indicates an expansion in the economy's productive capacity over time.
+  ◦ Full Employment: Full Employment: The maximum possible utilization of factors of production in the production process. This means minimizing unemployment of labor and other resources.
+  ◦ Stable Balance of Payment: Stable Balance of Payment: The statistical record of all economic transactions between domestic residents and the rest of the world that attains equilibrium. This implies a sustainable flow of money into and out of the country.
+  ◦ Price Stability: Price Stability: A stable level of prices in the economy that avoids long periods of inflation or deflation and sustains the value of money over time. This is crucial for savers and economic planning.
+  ◦ Fair Distribution of Income and Wealth: This goal aims to reduce significant disparities in income and wealth among the population.
+
+7.3 Macroeconomic Problems
+• This section explores common challenges and instabilities within an economy, focusing on inflation, unemployment, trade balance deficits, and balance of payments deficits.
+
+Economic Fluctuations and Recession
+• The economy does not always run smoothly; there are often fluctuations in the level of economic activity.
+• Recession: A period when levels of national income, output, and employment are far below their full potential levels.
+  ◦ During a recession, there is a lot of idle or unutilized productive capacity, meaning available factors of production are not working to their full capacity.
+• Macroeconomics addresses questions such as: What causes inflation? What causes unemployment?
+
+1. Inflation
+• Inflation is a significant macroeconomic problem characterized by a sustained increase in the general price level, which affects purchasing power and economic stability.
+• Definition: Inflation: A situation characterized by a sustained increase in the general price level.
+• Key Characteristics of Inflation:
+  ◦ It is a persistent and appreciable rise in prices, not a small or irregular price rise.
+  ◦ During inflation, not all costs and prices rise together and in the same proportion.
+  ◦ It is measured by a price index, which is an average of consumer or producer prices.
+• Inflation vs. Deflation:
+  ◦ Inflation occurs when the prices of goods and services rise.
+  ◦ Deflation occurs when those prices decrease.
+  ◦ The balance between these two opposite conditions is delicate, and an economy can quickly shift between them.
+
+Causes of Inflation
+• Inflation can be caused by various factors, including:
+  ◦ Increase in the money supply
+  ◦ An increase in the input costs
+  ◦ Imported inflation (rising prices of imported goods)
+  ◦ Weaker exchange rate (making imports more expensive)
+  ◦ Decline in productivity (less output for the same input)
+
+Types of Inflation
+• Depending on their specific causes, two main types of inflation are distinguished:
+  ◦ Demand-Pull Inflation:
+    ▪ Cause: Results from an increase in aggregate demand when the economy is producing at or near full capacity.
+    ▪ Mechanism: Demand for goods and services grows faster than the economy's productive capacity at full employment.
+    ▪ Common Phrase: "Too much money chases too few goods."
+    ▪ Primary Factor: An increase in overall demand for output, whether from government, entrepreneurs, or households, which cannot be met by the currently available supply.
+  ◦ Cost-Push Inflation (Supply-Side Inflation):
+    ▪ Cause: Occurs as a result of a continuous decline in aggregate supply.
+    ▪ Mechanism: Setbacks in production (agricultural and industrial) due to various reasons lead to decreased supply relative to demand, which then pushes prices up.
+    ▪ Examples of Causes:
+      - Bad weather conditions (affecting agriculture)
+      - Increase in wages (a significant input cost)
+      - Increase in prices of other inputs (raw materials, energy)
+      - Shortages of raw materials
+      - Power breakdowns
+      - Strikes and lockouts
+
+2. Unemployment
+• Unemployment represents a significant challenge to an economy's goal of full employment, indicating that available human resources are not being fully utilized.
+• Definition: Unemployment: A term referring to individuals who are employable and actively seeking a job but are unable to find a job.
+  ◦ This group also includes those who are working but do not have an appropriate job for their skills or qualifications.
+• Related Categories:
+  ◦ Marginally Attached to the Labor Force: People who have not looked for a job in the past four weeks but have been actively seeking one in the last 12 months.
+  ◦ Discouraged Workers: A sub-category within the "marginally attached" group, referring to people who have given up looking for a job.
+
+The Labor Force
+• Definition: Labor Force: Consists of all those who are fit for work and are willing and available to work.
+  ◦ It excludes children, old people, and individuals unable to work.
+  ◦ It further deducts those who are not willing or not available to work.
+• Components: The labor force includes people within a specified age bracket (typically 15-64) who are:
+  ◦ Actually employed.
+  ◦ Without a job but are actively searching for one.
+• Simply put: The labor force is made up of both employed and unemployed people.
+
+Categorizing as Unemployed
+• For a person to be categorized as unemployed, two conditions must be fulfilled:
+  ◦ The person is without a job and able to work.
+  ◦ The person wants to have a job and is willing to work at the current market wage.
+
+Unemployment Rate
+• Measurement: Usually measured by dividing the number of unemployed people by the total number of people in the workforce.
+• Indicator: Unemployment serves as one of the indicators of a country's economic status.
+
+Types of Unemployment
+• Frictional Unemployment:
+  ◦ Definition: A brief, temporary period of unemployment experienced by people moving between jobs or entering the workforce.
+  ◦ Causes/Examples:
+    - Seasonality of work (e.g., construction workers during off-season).
+    - Voluntary switching of jobs in search of better opportunities.
+    - Entrance to the labor force (e.g., a student immediately after graduation).
+    - Re-entering the labor force after a period away.
+• Structural Unemployment:
+  ◦ Definition: Results from a mismatch between the skills or locations of job seekers and the requirements or locations of available vacancies.
+  ◦ Mechanism: Workers become jobless due to a loss of demand in particular regions or industries, or changes in the structure of production in the economy.
+  ◦ Example: If an agricultural graduate is looking for a job at a construction site, their skills do not match the job requirements.
+  ◦ Significance: Signifies a mismatch between the supply and demand for labor.
+• Cyclical Unemployment:
+  ◦ Definition: Generated due to the absence of vacancies, usually caused by a deficiency in aggregate demand for commodities.
+  ◦ Mechanism: Arises due to inadequate overall demand, often associated with the downswing, recession, or depression period of a trade cycle.
+
+Disguised Unemployment
+• Definition: Disguised unemployment (or hidden unemployment): Unemployment that does not affect aggregate economic output and occurs when productivity is low, and too many workers are filling too few jobs.
+  ◦ It refers to a portion of the labor force involved in redundant work that creates minimal to no productivity.
+  ◦ It can refer to any part of the population that is not employed at full capacity.
+• Prevalence: Very common in third world countries which are still developing and have large populations. This situation is also known as a labor surplus.
+• Example: A farm that only needs two workers to be efficient but employs five family members, where the extra three workers add little to no additional output.
+
+3. Trade Balance Deficit
+• The trade balance is a crucial measure of a country's international trade in goods, indicating whether it is a net exporter or importer of physical products.
+• Definition: Trade Balance: Sometimes referred to as the visible balance because it represents the difference between receipts for exports of goods and expenditure on imports of goods which can be visibly seen crossing frontiers.
+• Formula:
+  $\text{Trade Balance} = \text{Exports} - \text{Imports}$
+• Conditions:
+  ◦ Trade Surplus: Occurs when a country has earned more from its exports of goods than it has spent on imports of goods.
+  ◦ Trade Deficit: Occurs when the total receipts from exports are exceeded by total payments for imports.
+• Example: The Ethiopian economy has experienced a deficit balance of trade, as the nation's export receipts fall short of import expenditures.
+
+4. Balance of Payments Deficit
+• The balance of payments is a comprehensive record of all economic transactions between a country's residents and the rest of the world, providing a broader view of international financial flows than the trade balance alone.
+• Definition: Balance of Payments: A statistical record of all the economic transactions between residents of the reporting country and residents of the rest of the world during a given time period (usually a year).
+  ◦ Some statistics within it may be published monthly or quarterly.
+  ◦ It is one of the most important statistical statements for any country.
+• What it Reveals:
+  ◦ How many goods and services the country has been exporting and importing.
+  ◦ Whether the country has been borrowing money from or lending money to the rest of the world.
+  ◦ Whether the central monetary authority (usually the central bank) has added to or reduced its reserves of foreign currency.
+• Disequilibrium:
+  ◦ While the credit and debit accounts are designed to balance, imbalances often occur, where either debit exceeds credit or credit exceeds debit.
+  ◦ Such an imbalance is called disequilibrium, which can take the form of either a deficit or a surplus.
+  ◦ Example: A deficit in the balance of trade often reflects a deficit in the balance of payments of the country.

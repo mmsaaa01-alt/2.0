@@ -1,0 +1,354 @@
+
+Study Notes: History - G9
+
+UNIT 1: THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION: 1.1 Meaning of Prehistory and History, 1.2 The Discipline of History, 1.3 The Evolution of Human Beings, 1.4 The Stone Age, 1.5 The Emergence of States, UNIT 1: Unit Summary, UNIT 1: Unit Review Questions
+
+Unit 1: The Discipline of History and Human Evolution
+
+    This unit introduces the fundamental concepts of history and prehistory, explores the evolution of human beings, examines the Stone Age, and discusses the emergence of early states. It aims to provide a structured understanding of humanity's past and the methods used to study it.
+
+1. Meaning of Prehistory and History
+
+    This section defines history and prehistory, highlights their key differences, and elaborates on the nature of historical knowledge, emphasizing the distinction between fact and opinion.
+
+    History:
+        Etymology: Derived from the Greek word "Istoria," meaning "inquiry" or "an account of one's inquiries."
+        Definition: The study of humans in the past, including their actions and what happened to them.
+        Historians: Individuals who study and write about the human past.
+        Beginning of History: Generally considered to have started approximately 5,500 years ago when people first developed the art of writing.
+        Core Concerns: Focuses on human interaction, the growth of civilizations, the invention of new technology, and humanity's relationship with the environment in the past.
+
+    Prehistory:
+        Definition: The study of the distant past. It refers to the time before people developed the art of writing.
+        Researchers: Archaeologists and Anthropologists work to uncover clues about early human life during this period.
+
+    Key Difference between Prehistory and History:
+        Prehistory: Concerns the human past before the development of writing.
+        History: Deals with the human past from the time writing and recording began.
+
+    History as a Body of Knowledge:
+        An account of the past based on historical facts and evidence.
+        Historical fact: Information or a statement about the past that is known or proven to be true.
+        Involves providing an interpretation of what happened, why it happened, and how it happened, all based on available sources.
+        Therefore, history encompasses both the facts of the past and the inquiry made into those facts. It is not mere opinion or novel writing.
+
+    Distinguishing Historical Fact from Opinion:
+        Importance: A crucial skill learned from studying history is the ability to identify historical facts from opinions, requiring critical thinking.
+        Fact: A statement that can be proved with supporting information.
+        Opinion: What a writer believes based on their viewpoint; it cannot be proved, even if mixed with facts.
+
+2. The Discipline of History
+
+    This section delves into history as an academic discipline, exploring its importance, how knowledge of the past is acquired and interpreted, and the types of sources historians use.
+
+    Definition of History as a Discipline:
+        A branch of social science that studies what human beings did in the past.
+        Examines changes in the political, economic, social, and cultural development of past societies.
+
+2.1 The Importance of Learning History
+
+History serves multiple crucial roles:
+
+    Understanding Past, Present, and Future: Helps us know about the past, understand current events, and anticipate future developments.
+    Global Awareness: Allows us to comprehend national and international issues, including democratic principles and nationalism.
+    Skill Development: Aids in developing essential skills for collecting and analyzing information to reach conclusions.
+    Conscious Citizenship: Helps individuals live as conscious citizens actively participating in shaping the future.
+    Research Skills: Studying history fosters important research skills.
+    Sense of Identity: Provides a deeper understanding of the present and contributes to a sense of identity.
+
+2.2 Historiography and Historical Interpretations
+A. Historiography
+
+    Definition: The study of how knowledge of the past is attained and transmitted.
+    Origins of Written History:
+        China: The world's oldest written history, with records discovered from before 1000 BC.
+        Ancient Greece: Historians like Herodotus and Thucydides introduced the organized study and narration of the past.
+            Herodotus (c. 484-425 BC): Often called the "father of history" for his pioneering work.
+            Thucydides: Known for writing critically and accurately.
+    Emergence as an Academic Discipline:
+        Developed in the second half of the 19th century, first in Europe and then globally.
+        Leopold Von Ranke (1795-1886): A German historian considered the "father of modern historiography" for his efforts to establish history as an independent and scientific discipline.
+    Ethiopian Historiography:
+        Possessed an indigenous tradition of history writing, evolving from chronicle tradition in the early 20th century.
+        Emerged as an academic discipline in the 1960s, a vital decade for its growth.
+
+B. Historical Interpretation
+
+    Nature of the Past: The vastness of past events means historians must select specific topics or problems for study.
+    Systematic Study: History is a systematic field because historical studies adhere to established rules, procedures, and standards. Historians employ specific basic methods in their writing.
+    Objective Pursuit of Truth: Ideally, historians strive for an objective pursuit of truth, although achieving complete bias-free interpretation can be challenging in practice.
+    Definition of Historical Interpretation: The process by which historians describe, analyze, evaluate, and create an explanation of past events.
+    Basis of Interpretation: Interpretations are based on either primary or secondary sources, or a combination of both.
+
+2.3 Sources of History
+
+    Sources are fundamental to the study and writing of history; without them, history cannot be written.
+
+    Definition of Sources: Evidence used to support the study of the past.
+    Broad Groups of Sources: Historians commonly categorize sources into two main types:
+        Primary Sources
+        Secondary Sources
+
+A. Primary Sources
+
+    Definition: Original materials that are contemporary with the events under study and have a direct relation to the events they describe.
+    Examples:
+        Monuments: Ancient structures, statues.
+        Tools: Early human implements.
+        Ornaments: Decorative items.
+        Artifacts: Coins, fossils, inscriptions, weapons, utensils, ruins of buildings.
+        Written Materials: Manuscripts (handwritten), chronicles, diaries, letters, minutes, codes of laws, court records, administrative files, travel documents.
+        Visual/Audiovisual Materials: Photographs, maps, video, and audio recordings.
+        (As illustrated by Figure 1.1: Silver Coins of Enudybis, Archives)
+
+B. Secondary Sources
+
+    Definition: Sources that contain information derived from primary sources, providing second-hand or indirect information.
+    Examples:
+        Articles
+        Books
+        Textbooks
+        Biographies
+        Oral traditions
+        Published stories or movies about historical events
+
+C. Oral Traditions
+
+    Definition: Historical sources transmitted by word of mouth from one generation to the next.
+        (Often categorized under secondary sources, but also seen as a distinct type due to its transmission method.)
+
+D. Source Evaluation
+
+    Necessity: All sources, regardless of type, must undergo critical evaluation before being used as evidence.
+    Primary Source Verification: Must be verified for originality and authenticity to prevent forgery.
+    Secondary Source Examination: Must be examined for the reliability of their reconstructions.
+    Oral Data Cross-checking: Should be cross-checked with other sources (e.g., written documents) to determine truthfulness, as it may lose authenticity due to distortion over time.
+
+2.4 Dating in History
+
+    Dating involves determining the precise timing of past events, providing a structured framework for understanding chronology and historical periods.
+
+    Definition of Dating: Figures or numerical statements that express the time of historical events or processes. Historians use dating to pinpoint when events occurred.
+    Purpose: To organize past events according to their sequence of occurrence using calendars, a process known as chronology.
+    Examples of Specific Dates:
+        The Battle of Adwa: March 1, 1896
+        Ethiopian Renaissance Dam initiated: April 2, 2011
+
+A. Units of Time
+
+Historians use specific subdivisions of time to describe the duration of events:
+
+    Decade: A period of ten years.
+        Example: The years from 1900 to 1909 represent the first decade of the twentieth century.
+    Century: A period of one hundred years.
+        Example: The years from 1900 to 1999 are the twentieth century.
+    Millennium: A period of a thousand years.
+        Example: The years from 1000 to 1999 are the second millennium.
+
+B. Calendars
+
+The two most widely used calendars globally are:
+
+    Gregorian Calendar:
+        Counts time forward and backward from the birth of Jesus Christ.
+        BC: Before Christ (time before Christ's birth).
+        AD: Anno Domini (Latin for "The Year of the Lord", time after Christ's birth).
+    Ethiopian Calendar:
+        Ethiopia uses its own calendar and periodization system.
+        It is typically seven to eight years behind the Gregorian calendar.
+    Islamic Calendar:
+        Follows the event called the Hijra to count time.
+        Hijra: The flight of Prophet Mohammed and his early followers from Mecca to Medina in 622 AD.
+        BH: Before Hijra (years before the Hijra).
+        AH: After Hijra (years after the Hijra).
+
+C. Timeline and Periodization
+
+    Timeline:
+        Definition: A graphic representation of events or periods of history in chronological order.
+        Can be a horizontal or vertical lineup of historical events.
+        Enables quick visualization and provides a clear idea of the passage of time.
+    Periodization:
+        Definition: The process by which historians organize the human past into separate periods, identifying significant developments and assigning a label to each period.
+        Conventional Divisions: History is traditionally divided into ancient, medieval, and modern history.
+
+3. The Evolution of Human Beings
+
+    This section explores the theories and stages of human evolution, focusing on key hominid characteristics and discoveries, particularly Africa's central role.
+
+    Evolutionist Theory Basis:
+        All living human beings belong to the species Homo sapiens.
+        Homo sapiens descended from a common ancestor, a genus known as Homo.
+        Humans belong to the Hominid family.
+
+    Hominids:
+        An extinct family, whose representatives lived in the past, known through fossil discoveries.
+        Characteristic: All hominids are characterized by bipedalism (walking on two feet with an upright position).
+
+    Early Hominid Discoveries in Ethiopia:
+        Earliest Hominid: Discovered at Aramis in the Middle Awash of the Afar Regional State.
+            Dated to around 4.4 million years ago.
+            Described by a team of Paleontologists led by Tim White.
+        Australopithecus afarensis (Lucy/Dinkinesh):
+            Discovered in 1974 by Donald Johanson in Ethiopia.
+            The oldest complete human skeleton found in Ethiopia, named 'Lucy' after a Beatles' song.
+
+3.1 Three Species of the Genus Homo
+
+    Homo habilis:
+        Known as the "handy human being."
+        Considered the oldest human being.
+        Fossils found in the Omo valley in Ethiopia.
+    Homo erectus:
+        Known as the "upright human being."
+        Emerged around 2 million years ago.
+        Achievements: Made use of larger and more varied tools.
+        Migration: Were the first hominids to leave Africa and move into Europe and Asia, enabled by their learning to use fire for warmth in colder areas.
+        Fossil Sites in Ethiopia: Found in the Omo Basin, Melka-Kunture, Konso-Gardula, and Middle Awash.
+    Homo sapiens:
+        Known as the "wise human beings."
+        Very similar to modern human beings.
+        Fossil Sites in Ethiopia: Found in the Awash and Omo valleys and areas near Dire Dawa. Ethiopia is a key land for these discoveries.
+        Modern Human Beings (Homo sapiens sapiens):
+            Appeared around 100,000 years ago.
+            Characteristics: Large brains, bipedal, walk upright, think and execute complicated ideas, use language, develop culture, invent and use tools effectively, transmit knowledge across generations.
+
+    Ethiopia and the Horn: This region is noteworthy for illustrating all three sub-species of the Homo family (Homo habilis, Homo erectus, and Homo sapiens) appearing in succession, showing progressive tool refinement and the mastery of fire technology by Homo erectus.
+
+3.2 Theories of Human Evolution
+
+There are two major opposing theories regarding the origin of human beings:
+
+    Creationist Theory:
+        Advocacy: Proposes that man, along with all other living things, was created by God or a supernatural being.
+    Evolutionist (Scientific) Theory:
+        Explanation: Explains that all living things, including humans, are the result of a gradual process of succession and variation from earlier forms.
+        Evolution: This slow and natural process of change.
+        Formulator: Developed by the English scientist Charles Darwin (1809-1882).
+        Acceptance: Eventually widely accepted by the scientific community.
+        Current View: While this theory dominates scientific thinking, a significant portion of the global population still adheres to the creationist view.
+
+3.3 Africa and Human Evolution
+
+    Central Role of Africa: The East African Rift Valley, in particular, is considered the home of human evolution due to its rich archaeological evidence.
+    Key Discoveries across Africa:
+        Sahelian chadensis: The oldest Australopithecine, discovered in northern Chad in 2001, estimated between 7 and 6 million years old.
+        Australopithecus ramidus: Fossils found in the Afar region in Ethiopia in 1994, aged 4.4 million years.
+        Australopithecus afarensis (Lucy/Dinkinesh): Fossil remains found at Hadar in the Afar region, Ethiopia, in 1974.
+            Estimated to be 3.18 million years old.
+            First described by American scientist Donald Johanson and colleagues.
+            Lucy's fossils are among the most complete found to date.
+            Australopithecus afarensis was bipedal and believed to be an ancestor of human beings among the Australopithecines.
+        Australopithecus africanus: Remains discovered in 1924 at Taung, South Africa, aged 2.5 million years.
+        Homo habilis: Fossils found at Olduvai Gorge in Tanzania and Lake Turkana in Kenya.
+
+4. The Stone Age
+
+    This section examines the Stone Age, a defining period in human history marked by tool-making, and its three main divisions, culminating in the transformative Neolithic Revolution.
+
+    Defining Feature: The ability to make tools is a basic distinguishing characteristic of the human species. The earliest tools were made of stone.
+    Transition to Civilization: Human beings passed through several developmental stages during the transition from hunting and gathering to civilization.
+    Stone Age Periods: This long period, characterized by the use of stone tools, is divided into three main stages:
+        Paleolithic Age
+        Mesolithic Age
+        Neolithic Age
+
+4.1 Paleolithic Age (Old Stone Age)
+
+    Etymology: Greek for "old stone."
+    Duration: The longest of the Stone Ages, lasting until approximately 11,000 years ago (around 9,000 BC).
+    Achievements:
+        Early human beings made the first crude stone tools, known as hand-axes.
+        Lived in caves.
+        Discovered fire.
+        Began to use language.
+
+4.2 Mesolithic Age (Middle Stone Age)
+
+    Nature: A transitional period between the Paleolithic and Neolithic Ages.
+    Duration: Lasted from approximately 9000 BC to 8000 BC.
+    Achievements: Stone tools were slightly improved and became more adaptable for various uses.
+
+4.3 Neolithic Age (New Stone Age)
+
+    Duration: Started around 8,000 BC and lasted until approximately 4,000 BC.
+    Major Transformation: Marked by a "great revolution" known as the Neolithic Revolution or Agricultural Revolution.
+        Neolithic Revolution: The real change was the shift from hunting animals and gathering food to systematically keeping animals and growing crops (systematic agriculture).
+
+A. Consequences of the Neolithic Revolution
+
+The agricultural revolution had profound and far-reaching effects, laying the prerequisites for civilization:
+
+    Introduction of agriculture transformed people's lives.
+    Humans began to produce their own food.
+    Led to a sedentary way of life.
+    Resulted in a more complex social organization.
+    Construction of stone houses, religious places, and granaries.
+    Appearance of new and better tools: the hoe, the yoke, and the wheel.
+    Use of animals in farming significantly increased food production.
+    Humans transitioned from food gatherers/hunters to food producers and community dwellers.
+
+B. Geographical Sites of the Neolithic Revolution
+
+    Earliest Evidence: Comes from the Middle East about 11,000 years ago.
+    Major Archaeological Sites:
+        Palestine
+        Mesopotamia
+        The Nile Valley in Egypt
+        Tropical Africa
+        The Yangtze Kiang Valley in China
+        The Indus Valley in India
+        Parts of the Americas
+
+C. Neolithic Age in Ethiopia
+
+    Timing: Believed to have occurred in parts of Ethiopia approximately 7000 years ago.
+    Developments:
+        Agriculture began.
+        Domesticated Plants: Teff, dagussa, nug, and enset.
+        People started making and using pottery.
+    Archaeological Sites: Several sites representing the Neolithic Age are found in Ethiopia, including:
+        Aksum
+        Lalibela
+        Near Chercher in Hararghe
+        Metehara
+
+5. The Emergence of States
+
+    This section examines how early human communities evolved into organized states, defining the characteristics of a state and exploring various theories on its origins.
+
+    Context: The Neolithic Age led to sedentary human communities. These communities grew in size and complexity, eventually leading to the emergence of states from simpler forms of social organization.
+
+5.1 Definition of a State
+
+    State: A politically organized body of people occupying a defined territory, with an organized legitimate government, and free from all forms of external control to exercise its sovereignty within its area of rule.
+    Distinction: A state differs from a kingdom and an empire.
+
+5.2 Features of a State
+
+For a state to exist, it must possess the following five essential features:
+
+    Population: A group of people.
+    Territory: A defined geographical area.
+    Government: An organized system of rule.
+    Sovereignty: The supreme power or authority within its territory, free from external control.
+    Recognition: (Implicitly suggested by "free from all forms of external control to exercise its sovereignty within its area of rule" and in common political science definitions, though not explicitly listed as a separate point, it's a consequence of sovereignty.) The text itself lists "recognition" as the fifth explicit feature in the context of the question "For a state to exist, it must have the following features: population, territory, government, sovereignty and recognition."
+
+5.3 Theories on the Origin of the State
+
+Scholars have proposed different theories to explain how states emerged:
+
+    Religion Theory (Theocratic States):
+        As religion developed in early societies, priests began to play central roles in administrative spheres.
+        Such states, ruled by priests, were known as theocratic states.
+    Agriculture and Economic Class Division Theory:
+        Based on agriculture, early society became economically divided into higher and lower classes.
+        Those who produced a surplus of food became elites (rich people who attained higher status due to wealth).
+        These elites gained control over others, leading to the emergence of the state.
+    Control Over Trade and Trade Routes Theory:
+        Control over trade and trade routes was a principal reason for state formation.
+        With the emergence of markets, village chiefs who controlled trade gradually replaced priests.
+        These chiefs had the power to collect tributes and maintain security for villages and their surrounding areas, marking the appearance of states.
+    War or Conflict Theory:
+        War or conflict might have played a role when smaller villages combined to establish states by force under powerful local chiefs.
+

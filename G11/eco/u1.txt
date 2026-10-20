@@ -1,0 +1,31 @@
+UNIT 1: THEORY OF CONSUMER BEHAVIOR AND DEMAND
+
+1.1 CARDINAL UTILITY APPROACH
+- Utility: Refers to the level of satisfaction or happiness that consumers get from the consumption of goods and services.
+- Cardinal Utility Theory: Assumes that utility is measurable in absolute or numerical numbers called "utils".
+- Law of Diminishing Marginal Utility: States that as the amount of a good consumed increases, the marginal utility of that good decreases.
+- Consumer Optimum Condition: The marginal utility per unit of money spent is equal for all commodities, and total expenditure equals total income.
+
+1.2 ORDINAL UTILITY THEORY AND PREFERENCES
+- Ordinal Utility Approach: Assumes utility cannot be measured absolutely; instead, consumers can rank different consumption bundles according to their preferences.
+- Indifference Curve (IC): A locus of points showing alternative combinations of two goods that yield the same level of utility or satisfaction to the consumer.
+- Properties of Standard Indifference Curves:
+  - Downward sloping to the right (negative slope).
+  - Do not intersect each other.
+  - Higher indifference curves represent higher levels of utility.
+  - Convex to the origin due to a diminishing Marginal Rate of Substitution (MRS).
+- Special Types of Indifference Curves:
+  - Perfect Substitutes: Straight, downward-sloping lines representing a constant rate of exchange.
+  - Perfect Complements: Right-angled (L-shaped) lines representing goods consumed jointly in fixed proportions.
+
+1.3 THE BUDGET LINE
+- Budget Line: A graph indicating the different combinations of two goods that a consumer can purchase with a given income at given market prices.
+- Budget Equation: P_X X + P_Y Y = M, where P_X and P_Y are prices, X and Y are quantities, and M is income.
+- Slope of the Budget Line: Equal to the negative of the price ratio of the two goods (-P_X / P_Y).
+- Shifts and Rotations: Income changes cause parallel shifts in the budget line, while price changes cause the budget line to rotate along the respective axis.
+
+1.4 OPTIMUM OF THE CONSUMER
+- Consumer Optimum: The point where the consumer maximizes utility by attaining the highest possible indifference curve given their budget constraint.
+- Optimality Conditions: The budget equation is fully spent and the slope of the indifference curve (MRS) equals the slope of the budget line (P_X / P_Y).
+- Price Consumption Curve (PCC): The locus of utility-maximizing combinations resulting from variations in the price of one commodity, used to derive the individual demand curve.
+- Income Consumption Curve (ICC): The locus of optimal combinations purchased when the consumer's income changes, helping categorize normal and inferior goods.

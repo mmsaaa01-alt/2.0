@@ -1,0 +1,1252 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 2: THE NUMBER SYSTEM: 2.1 Revision on Natural Numbers and Integers, 2.2 Rational Numbers, 2.3 Irrational Numbers, 2.4 Real Numbers, 2.5 Applications, UNIT 2: Summary, UNIT 2: Review Exercise
+
+Unit 2: The Number System
+
+    This unit revisits natural numbers, integers, and rational numbers, including their properties and operations. It then expands into irrational numbers and real numbers, their representations, properties, and operations.
+
+2.1 Revision on Natural Numbers and Integers
+
+    This section begins by defining sets and reviewing the fundamental definitions and relationships between natural numbers and integers. It then introduces Euclid's Division Lemma and explores prime and composite numbers, divisibility tests, and prime factorization. The section concludes with a detailed discussion of Greatest Common Factors (GCF) and Least Common Multiples (LCM).
+
+Definition of a Set
+
+    A set is a collection of well-defined distinct objects.
+        Well-defined: Refers to a specific property that makes it easy to identify whether an object belongs to the set.
+        Distinct: Means all objects in a set must be different.
+
+Natural Numbers and Integers
+
+    Natural Numbers (ℕ): The set of counting numbers.
+        Expressed as: 
+
+Integers (ℤ): The set of whole numbers and their opposites (negative whole numbers).
+
+    Expressed as: 
+
+Example: Categorize the following as natural numbers and integers:
+
+.
+
+Solution:
+
+    All the given numbers (
+
+) are integers.
+The natural numbers from the list are
+
+    .
+
+Relationship between Natural Numbers and Integers
+
+    Natural numbers are integers: Every natural number is also an integer. (Always true)
+    Integers are natural numbers: Not all integers are natural numbers (e.g., 
+
+are integers but not natural numbers). (Sometimes true)
+The set of natural numbers (
+) is a subset of the set of integers (
+
+    ).
+
+Note:
+
+    1 is neither a prime nor a composite number.
+    2 is the only even prime number.
+    Factors of a number are always less than or equal to the number.
+
+2.1.1 Euclid's Division Lemma
+
+    Theorem 2.1 (Euclid's Division Lemma): Given a non-negative integer 
+
+and a positive integer , there exist unique non-negative integers and satisfying the equation:
+Terminology:
+
+: The dividend (the number being divided).
+: The quotient (the result of the division).
+: The divisor (the number by which another number is divided).
+
+        : The remainder (the amount left over after division).
+
+Note:
+
+    For two positive integers 
+
+and , we say is divisible by if the remainder
+
+    is zero.
+
+Example 1: Find the unique quotient and remainder when
+is divided by . Solution: Here, and . When we divide by , we get a quotient and a remainder . Thus, we can write:
+
+.
+
+Example 2: Find the unique quotient and remainder when
+is divided by . Solution: Here, and . Since is less than the divisor , the quotient is and the remainder is . Thus,
+
+.
+
+Example 3: Find the unique quotient and remainder when
+is divided by . Solution: Here, and . When we divide by , we obtain as a quotient and the remainder is . Thus,
+
+. (Note: Since the remainder is 0, 12 is divisible by 3.)
+
+Example 4: Find the unique quotient and remainder when
+is divided by . Solution: Using long division, gives a quotient and a remainder . Thus,
+
+.
+2.1.2 Prime Numbers and Composite Numbers
+
+    Observations on Multiples and Factors:
+        Given two natural numbers 
+
+and , is called a multiple of if there is a natural number such that
+.
+In this relationship:
+
+is called a factor or a divisor of
+.
+is divisible by
+.
+is also a factor or divisor of
+.
+is divisible by
+
+            .
+
+    Definition 2.1 (Prime and Composite Numbers):
+        A natural number that has exactly two distinct factors, namely 1 (one) and itself, is called a prime number.
+        A natural number that has more than two factors is called a composite number.
+
+Example 1: Identifying a Composite Number Is
+a prime number or a composite number? Why? Solution: Observe that , , or . This indicates that , and are factors of . Since has more than two factors,
+
+is a composite number.
+
+Example 2: Finding a Prime Number Find a prime number(s) greater than
+and less than . Solution: The natural numbers greater than and less than are
+
+.
+
+, so and are factors of . (
+is composite)
+, so and are factors of . (
+is composite)
+, so and are factors of . (
+is composite)
+But
+. Hence, and are the only factors of . Therefore,
+
+    is a prime number.
+
+2.1.3 Divisibility Test
+
+    Divisibility Test: An easy way to check whether a given number is divisible by 
+
+or without actually performing the division process. (Divisibility by
+
+    is not covered at this level.)
+
+Rules for Divisibility
+
+A number is divisible by:
+
+    2: If its unit digit is divisible by 
+
+.
+3: If the sum of its digits is divisible by
+.
+4: If the number formed by its last two digits is divisible by
+.
+5: If its unit digit is either
+or
+.
+6: If it is divisible by both
+and
+.
+8: If the number formed by its last three digits is divisible by
+.
+9: If the sum of its digits is divisible by
+.
+10: If its unit digit is
+
+    .
+
+Example: Using divisibility test, check whether
+is divisible by and
+
+. Solution:
+
+    Divisible by 2? Yes, because its unit digit 
+
+is divisible by
+.
+Divisible by 3? Yes, because the sum of its digits
+is divisible by
+.
+Divisible by 4? No, because its last two digits,
+, are not divisible by
+.
+Divisible by 5? No, because its unit digit is neither
+nor
+.
+Divisible by 6? Yes, because it is divisible by both
+and
+.
+Divisible by 8? No, because its last three digits,
+, are not divisible by
+.
+Divisible by 9? No, because the sum of its digits
+is not divisible by
+
+    .
+    Divisible by 10? No, because its unit digit is not zero.
+
+Prime Factorization
+
+    Definition 2.2 (Prime Factorization): The expression of a composite number as a product of prime numbers is called prime factorization.
+
+    Process of Prime Factorization:
+        Start by finding a prime factor of the composite number.
+        Divide the number by that prime factor.
+        If the quotient is also a composite number, repeat the process with the quotient.
+        Continue until all factors are prime numbers.
+        Express the original number as a product of all these prime factors.
+
+    Theorem 2.2 (Fundamental Theorem of Arithmetic): Every composite number can be expressed (factored) as a product of primes, and this factorization is unique, apart from the order in which the prime factors occur.
+
+Example 1: Prime Factorization of Small Numbers Express each of the following numbers as prime factorization form: a.
+b. c. Solution: a. . Both and are prime, so we stop. b. . Since is composite, we factor it further: . So, . (Visualized using a factor tree if desired) c. For : * * * * So, . (Other initial factorizations of 72, like or
+
+, also lead to the same unique prime factorization.)
+
+Example 2: Prime Factorization using Division Method Express
+
+as prime factorization form. Solution: We repeatedly divide by the smallest prime factor:
+
+(We stop here as is a prime number.) Hence,
+
+    .
+
+2.1.4 Greatest Common Factor and Least Common Multiple
+Greatest Common Factor (GCF)
+
+    Definition 2.3:
+        i) Given two or more natural numbers, a number which is a factor of these natural numbers is called a common factor.
+        ii) The Greatest Common Factor (GCF) or Highest Common Factor (HCF) of two or more natural numbers is the greatest natural number among their common factors. Notation: GCF(
+
+        ).
+
+Method 1: Listing Factors (Intersection Method) Example 1: Find the greatest common factors of
+and
+
+. Solution:
+
+    Factors of 
+
+: Factors of : Common factors of and :
+.
+The greatest among these common factors is
+. Hence, GCF() =
+
+    .
+
+Method 2: Prime Factorization Method
+
+    The GCF of two or more natural numbers is the product of their common prime factors, each raised to the smallest power it appears in the prime factorization of the given numbers.
+
+Example 2: Use prime factorization to find GCF(
+
+). Solution:
+
+    Write the prime factorization for each number:
+
+Identify common prime factors: and
+.
+Take the lowest power for each common prime factor:
+
+    Lowest power of 
+
+is
+.
+Lowest power of
+is
+
+    .
+
+Multiply these lowest powers:
+. Hence, GCF() =
+
+    .
+
+Least Common Multiple (LCM)
+
+    Definition 2.4: For any two natural numbers 
+
+and , the Least Common Multiple (LCM) of and , denoted by LCM(), is the smallest multiple of both and
+
+    .
+
+Method 1: Listing Multiples (Intersection Method) Example 1: Find Least Common Multiple of
+and , that is, LCM(
+
+). Solution:
+
+    Multiples of 
+
+: Multiples of : Common multiples of and : The least number from the common multiples is . Therefore, LCM() is
+
+    .
+
+Example 2: Find Least Common Multiple of
+and , that is, LCM(
+
+). Solution:
+
+    Multiples of 
+
+: Multiples of : Common multiples of and : The least number from the common multiples is . Therefore, LCM() is
+
+    .
+
+Method 2: Prime Factorization Method
+
+    The LCM of two or more natural numbers is the product of all prime factors that appear in their factorizations, each raised to the highest power it appears in any of the numbers' prime factorizations.
+
+Example 3: Find the Least Common Multiple of
+and , that is, LCM(
+
+) using factorization method. Solution:
+
+    Since 
+
+and are all prime numbers, their LCM is simply their product. LCM() =
+
+    .
+
+Example 4: Find the Least Common Multiple of
+and , that is, LCM(
+
+) using factorization method. Solution:
+
+    Write the prime factorization for each number:
+
+Identify all prime factors that appear: and
+.
+Take the highest power for each prime factor:
+
+    Highest power of 
+
+is
+.
+Highest power of
+is
+.
+Highest power of
+is
+
+    .
+
+Multiply these highest powers:
+. Hence, LCM() =
+
+    .
+
+Relationship between GCF and LCM
+
+    For any two natural numbers 
+
+and :
+Example 5: Find GCF() LCM(). Solution: Using the property, GCF() LCM() =
+
+.
+2.2 Rational Numbers
+
+    This section extends the number system to include rational numbers, defining them and demonstrating their representation as decimals. It also covers how to locate rational numbers on a number line and how to convert repeating decimals back into fractional form.
+
+    Definition 2.5 (Rational Numbers): Any number that can be written in the form 
+
+, where and are integers and
+, is called a rational number.
+The set of rational numbers is denoted by
+and is described as:
+Example 1: Identifying Rational Numbers The numbers
+
+are rational numbers.
+
+can be written as
+.
+can be written as
+
+    .
+    This shows that every natural number and every integer is a rational number.
+
+Note: Suppose
+, where is a fraction with numerator and denominator
+
+:
+
+    i) If 
+
+, then
+is called a proper fraction.
+ii) If
+, then
+is called an improper fraction.
+iii) If
+, where and is a proper fraction, then
+is called a mixed fraction (or mixed number).
+iv)
+is said to be in simplest (lowest) form if and are relatively prime (i.e., GCF(
+
+    ) = 1).
+
+Example 2: Categorizing Fractions Categorize each of the following as proper, improper, or mixed fraction:
+and
+
+. Solution:
+
+    Proper fractions: 
+
+(numerator is less than denominator)
+Improper fractions:
+(since
+, numerator is greater than or equal to denominator)
+Mixed fraction:
+Example 3: Expressing Mixed Fraction as Improper Fraction Express as an improper fraction. Solution: For three integers where : . So,
+
+.
+2.2.1 Representation of Rational Numbers by Decimals
+
+    Any rational number 
+
+can be written in decimal form by dividing the numerator by the denominator
+.
+When a rational number
+
+    is changed into decimal form, one of two cases will occur:
+        Terminating Decimal: The division process ends when a remainder of zero is obtained.
+        Repeating Decimal: The division process does not terminate, but the remainder never becomes zero, leading to a repeating pattern of digits.
+
+Notation for Repeating Decimals
+
+    To represent the repetition of a digit or digits, we put a bar notation (
+
+    ) above the repeating digit(s).
+
+Example 1: Using Bar Notation Write the following fractions using the notation of repeating decimals: a.
+b. Solution: a. b.
+Converting Terminating Decimals to Fractions
+
+    Every terminating decimal can be written as a fraction with a denominator that is a power of 
+
+(e.g.,
+
+    ), depending on the number of digits after the decimal point.
+
+Example 2: Converting Terminating Decimals to Fractions Convert each of the following decimals to fraction form: a.
+b. Solution: a. The smallest place value of the digits in is in the tenths column (one digit after decimal). So, . b. The smallest place value of the digits in is in the hundredths column (two digits after decimal). So, . After simplification, this becomes
+
+.
+
+Note:
+
+    To approximate a number to 1 decimal place means to approximate to the nearest tenth.
+    To approximate a number to 2 decimal places means to approximate to the nearest hundredth.
+
+Representing Rational Numbers on the Number Line
+
+    To locate a fraction on a number line, it's often helpful to first convert it into its decimal form.
+
+Example 1: Locate the rational numbers
+and
+
+on the number line. Solution:
+
+    Integers 
+
+and
+are easily located.
+Convert fractions to decimals:
+
+Now locate these decimal values by bold marks on the number line:
+2.2.2 Conversion of Repeating Decimals into Fractions
+
+    Repeating decimals can be converted to fractions using an algebraic method involving multiplication and subtraction.
+
+Example 2: Converting a Simple Repeating Decimal Represent
+
+as a simplest fraction form (ratio of two integers). Solution:
+
+    Let 
+
+.
+Multiply both sides by
+(since one digit repeats):
+.
+Subtract the original equation (
+) from the new one:
+Solve for : . Hence, the fraction form of is
+
+    .
+
+Example 3: Converting a Multi-Digit Repeating Decimal Represent
+
+as a simplest fraction form. Solution:
+
+    Let 
+
+.
+Multiply both sides by
+(since two digits repeat):
+.
+Subtract the original equation (
+) from the new one:
+Solve for : . After simplification, . Hence, the fraction form of is
+
+    .
+
+Example 4: Converting a Mixed Repeating Decimal Represent
+
+as a simplest fraction form. Solution:
+
+    Let 
+
+.
+Multiply by
+to move the non-repeating part past the decimal:
+.
+Multiply by
+to move one full repeating cycle past the decimal:
+.
+Subtract the equation from step 2 (
+) from the equation from step 3 ():
+Solve for : . Hence, the fraction form of is
+
+    .
+
+2.3 Irrational Numbers
+
+    This section introduces irrational numbers, which are decimals that are neither terminating nor repeating. It explores their nature, how to identify them, and how to locate them on the number line. Finally, it covers basic arithmetic operations involving irrational numbers.
+
+2.3.1 Neither Repeating Nor Terminating Numbers
+
+    Perfect Square: A number that can be expressed as a product of two equal integers (e.g., 
+
+).
+Square Root: A square root of a number
+is a number such that (e.g., and are square roots of because
+).
+Radical Sign: The symbol
+
+    is called a radical sign.
+
+Example: The side length of a square with area
+If a square has an area of , its side length, , must satisfy . This means
+
+. By approximation:
+
+and , so
+.
+and , so
+.
+and , so . This process continues indefinitely, showing that
+
+    , a decimal that neither terminates nor repeats.
+
+Example 1: Numbers without Radical Signs Find the number without a radical sign: a.
+b. c. d. Solution: a. since . b. . c. . d.
+
+.
+Comparing Square Roots
+
+    When 
+
+, if , then
+
+    .
+
+Example 2: Comparing Square Roots Compare
+and . Solution: Since , it follows that
+
+.
+Irrational Numbers Defined
+
+    Using a calculator, 
+
+, which is not a terminating or repeating decimal. Thus,
+
+    is not a rational number.
+    Definition 2.6 (Irrational Numbers): A decimal number that is neither terminating nor repeating is an irrational number.
+
+Remark:
+
+    In general, if 
+
+is a natural number that is not a perfect square, then
+
+    is an irrational number.
+
+Example: Rational or Irrational? Determine whether each of the following numbers is rational or irrational: a.
+b. c. d. e. f. Solution: a. , which can be written as , so it is rational. b. , which can be written as , so it is rational. c. is neither terminating nor repeating (the pattern of digits does not repeat in a fixed cycle), so it is irrational. d. is also neither repeating nor terminating, so it is irrational. e. is in form, so it is rational. f.
+
+is neither terminating nor repeating, so it is irrational.
+Locating Irrational Numbers on the Number Line
+
+    Given an irrational number of the form 
+
+where
+
+    is not a perfect square, it can be located on the number line using geometric constructions.
+
+Example: Locate
+on the number line. Solution: We know . To locate
+
+precisely:
+
+    Draw a number line. Label point 
+
+and point
+.
+Construct a perpendicular line segment of
+unit long at the point
+.
+Draw a line segment from point
+to the top of the -unit segment. Label its length as
+.
+Using the Pythagorean Theorem on the right triangle formed:
+.
+Open a compass to the length of
+(which is ). With the tip of the compass at , draw an arc that intersects the number line at point . The distance from to is
+
+    units.
+
+2.3.2 Operations on Irrational Numbers
+Multiplication of Irrational Numbers
+
+    When 
+
+, then
+
+    .
+
+Example: Calculate each of the following: a.
+b. c. d. Solutions: a. b. c. Using the distributive property: d. Using :
+Division of Irrational Numbers
+
+    When 
+
+, then
+
+    .
+
+Example 1: Calculate: a.
+b. Solutions: a. b.
+Converting
+to
+Form
+
+    When 
+
+, then and
+
+    . This is useful for simplifying radicals.
+
+Example 2: Convert each of the following in
+form: a. b. Solutions: a. b.
+Addition and Subtraction of Irrational Numbers (Radicals)
+
+    Definition 2.13 (Like Radicals): Radicals that have the same index (e.g., square root, cube root) and the same radicand (the number under the radical sign) are said to be like radicals.
+        Example: 
+
+and
+are like radicals.
+Example:
+and
+are not like radicals (different radicands).
+Example:
+and
+
+        are not like radicals (different indices).
+    Like radicals can be added or subtracted in the same way as similar terms in algebra (by combining their coefficients).
+    Sometimes, radicals need to be simplified first to become like radicals.
+
+Example 2: Simplify each of the following: a.
+b. Solutions: a. b. Example 3: Simplifying to find Like Radicals Simplify each of the following: a. b. c. d. Solutions: First, convert into form where possible. a. b. c. d.
+2.4 Real Numbers
+
+    This section synthesizes rational and irrational numbers into the comprehensive set of real numbers. It covers comparing real numbers, intervals, absolute values, exponents, radicals, and the fundamental properties of real numbers. Finally, it delves into practical aspects of numbers such as limits of accuracy and scientific notation.
+
+    Definition 2.7 (Real Numbers): A number is called a real number if and only if it is either a rational number or an irrational number.
+
+    The set of real numbers is denoted by 
+
+, and is described as the union of the sets of rational and irrational numbers.
+
+    Visual Representation:
+
+    +-----------------------------------------------------+
+    |                   Real Numbers (ℝ)                  |
+    |  +--------------------------+  +------------------+  |
+    |  |    Rational Numbers (ℚ)  |  | Irrational Numbers |  |
+    |  |                          |  | (non-terminating  |  |
+    |  |  +------------------+    |  |  non-repeating   |  |
+    |  |  |  Integers (ℤ)    |    |  |    decimals)     |  |
+    |  |  |                  |    |  |   (e.g., √2, π)  |  |
+    |  |  |  +------------+  |    |  +------------------+  |
+    |  |  |  | Natural    |  |    |                          |
+    |  |  |  | Numbers (ℕ)|  |    |                          |
+    |  |  |  +------------+  |    |                          |
+    |  |  +------------------+    |                          |
+    |  +--------------------------+                          |
+    +-----------------------------------------------------+
+
+    Every decimal number (rational or irrational) corresponds to a point on the number line. There is a one-to-one correspondence between a point on the number line and a real number.
+
+Comparing Real Numbers
+
+    Trichotomy Property: For any two real numbers 
+
+and , exactly one of the following is true: or or
+.
+Transitive Property of Order: For any three real numbers
+and , if and , then
+.
+Property of Squares: For any two non-negative real numbers
+and , if , then
+
+    .
+
+Example: Compare each pair of real numbers: a.
+b. c. d. Solution: a. On the number line, is to the left of . So, . b. Convert to decimal: . Comparing and , we have . So, . c. Using a calculator, . Comparing and , we have . So, . d. Compare their squares (since both are positive): Since and for , and , it follows that
+
+.
+Determining Real Numbers Between Two Numbers
+
+    There are infinitely many real numbers between any two distinct real numbers. One way to find a real number between two given numbers is to take their average.
+
+Example: Find a real number between
+and . Solution: Take the average: . So,
+
+. We can repeat this process to find more numbers:
+
+    Average of 
+
+and :
+.
+Average of
+and : . Thus, and are also between and
+
+    .
+
+2.4.1 Intervals
+
+    Real Interval: A set that contains all real numbers between two numbers.
+    Notation:
+        The symbol '
+
+' (infinity) means endlessness or absence of an end to the right.
+The symbol '
+' (negative infinity) means endlessness or absence of an end to the left.
+A filled circle (
+) on a number line means the endpoint is included in the interval.
+An empty circle (
+
+        ) on a number line means the endpoint is not included in the interval.
+        Square brackets ([]) indicate that endpoints are included.
+        Parentheses (()) indicate that endpoints are not included.
+
+Case I: Representing Real Numbers Between Two Points
+Inequality 	Interval Notation 	Description 	Graph on Number Line
+Closed Interval: is between and , including and
+. 	
+Open Interval: is between and , excluding and
+. 	
+Half-open Interval: is between and , including but excluding
+. 	
+Half-open Interval: is between and , excluding but including
+. 	
+Case II: Representing Real Numbers with One End Point
+Inequality 	Interval Notation 	Description 	Graph on Number Line
+is greater than or equal to
+. 	
+is greater than
+. 	
+is less than or equal to
+. 	
+is less than
+. 	
+Example: Representing Intervals Represent each of the following using interval notation: a. Real numbers between and including both points. b. Real numbers between and including and excluding . c. Real numbers to the left of excluding . d. Real numbers to the right of including
+
+.
+
+Solution: a. The interval is
+. This includes all numbers from to , with and themselves included.
+b. An interval represents all numbers between and , including but excluding . ()
+c. The real numbers to the left of excluding is denoted by .
+d. The real numbers to the right of including is denoted by .
+2.4.2 Absolute Values
+
+    Definition 2.8: The absolute value of a real number 
+
+, denoted by , is defined as:
+
+    The absolute value represents the distance of a number from zero on the number line, so it is always non-negative.
+
+Example: Find the absolute value of each of the following real numbers: a.
+b. c. d. e. f. Solution: a. , since is a positive number. b. , since is less than zero. Its distance from zero is units. c. , since is a positive number. d. , its distance from zero is . e. , its distance from zero is . f. For : We know . Since , then . So, . Since is a negative number, its absolute value is
+
+.
+2.4.3 Exponents and Radicals
+Exponential Notation
+
+    Definition 2.9: If 
+
+is a real number and is a positive integer, then:
+This is an exponential expression, where is the base and
+
+        is the exponent or power.
+
+Examples: a.
+means . b. means . c. means
+
+.
+
+Note:
+
+    Zero exponent: If 
+
+, then
+.
+Negative exponent: If
+and is a positive integer, then
+
+    .
+
+Radicals and
+Roots
+
+    Definition 2.10:
+        If 
+
+, then is a square root of
+.
+If
+, then is a cube root of
+.
+If
+is a positive integer and , then is called the root of
+
+    .
+
+Definition 2.11 (Principal
+Root): If is any real number and is a positive integer greater than , then the principal root of is denoted by and is defined as:
+
+    Notation: 
+
+is called a radical expression. is the radical sign, is the index, and
+is the radicand.
+When the index is not written (e.g.,
+), it indicates the principal square root (
+
+    ).
+
+Definition 2.12 (The
+
+Power):
+
+    i) If 
+
+and is an odd positive integer greater than , then
+.
+ii) If
+and is an even positive integer greater than , then . (Note: If and is even, the
+
+        root is not a real number).
+
+Example 1: Finding
+Roots Find: a. b. c. d. Solution: a. (since ) b. (since ) c. (since ) d. (since
+
+)
+
+Example 2: Expressing in Exponential Form Express each of the following in exponential form: a.
+b. c. Solution: a. b. c.
+Laws of Exponents
+
+For any
+(where expressions are defined) and
+
+, the following rules hold:
+
+    Product Rule: 
+
+Quotient Rule: , where Power of a Power Rule: Power of a Product Rule: Power of a Quotient Rule: , for Note: These rules also apply for power and rational powers of the form
+
+.
+
+Example 1: Simplifying using Laws of Exponents Use the above rules and simplify each of the following: a.
+b. c. d. e. Solution: a. Using : . b. Using : . c. Using : . d. Using : . e. Using :
+
+.
+
+Example 2: Further Simplification Examples Simplify each of the following: a.
+b. c. d. Solution: a. . b. . c. . d.
+
+.
+Operations on Real Numbers
+
+    Rational Numbers:
+        Satisfy the commutative, associative, and distributive laws for addition and multiplication.
+        Are closed with respect to addition, subtraction, multiplication, and division (except by zero). This means performing these operations on two rational numbers always results in a rational number.
+    Irrational Numbers:
+        Satisfy the commutative, associative, and distributive laws for addition and multiplication.
+        Are not always closed with respect to addition, subtraction, multiplication, and division. The sum, difference, quotients, and products of irrational numbers are not always irrational (e.g., 
+
+(rational);
+
+        (rational)).
+
+Key Conclusions from Operations with Rational and Irrational Numbers:
+
+    The sum and difference of a rational number and an irrational number is always irrational.
+    The product or quotient of a non-zero rational number and an irrational number is always irrational.
+
+Example 1: Addition and Subtraction of Real Numbers (Radicals) If
+and , then find: a. The sum of and . b. The difference between and
+
+.
+
+Solution: a.
+(rearranging terms) (taking out common factors) b. (rearranging terms) Example 2: Product of Real Numbers (Radicals) Find the product of: a. and b. and Solution: a. b. Example 3: Division of Real Numbers (Radicals) Divide: a. by b. by Solution: a. b. . To rationalize, multiply by :
+Basic Properties of Real Numbers
+
+Since the set of real numbers (
+
+) is the union of rational and irrational numbers, it inherits several fundamental algebraic properties:
+
+    Closure Property: The set of real numbers 
+
+is closed under addition and multiplication.
+
+    For all 
+
+, and
+
+    .
+
+Commutative Property: Addition and multiplication are commutative in
+.
+
+    For all 
+
+:
+
+    i) 
+
+ii) Associative Property: Addition and multiplication are associative in .
+
+    For all 
+
+:
+
+    i) 
+
+ii) Existence of Additive and Multiplicative Identities:
+
+    There exist real numbers 
+
+(additive identity) and (multiplicative identity) such that:
+
+    i) 
+
+for all
+.
+ii)
+for all
+
+        .
+
+Existence of Additive and Multiplicative Inverses:
+
+    i) For each 
+
+, there exists an additive inverse, , such that
+.
+ii) For each non-zero
+, there exists a multiplicative inverse (or reciprocal), , such that
+
+    .
+
+Distributive Property: Multiplication is distributive over addition.
+
+    If 
+
+:
+
+    i) 
+
+ii) Example: Find the additive and multiplicative inverse for each of the following: a. b. c. Solution: a. Additive inverse of is . Multiplicative inverse of is . b. Additive inverse of is . Multiplicative inverse of is . c. Additive inverse of is . Multiplicative inverse of is (since
+
+).
+2.4.4 Limit of Accuracy
+
+    This subsection covers how numbers are approximated in measurements and calculations, focusing on rounding, significant figures, decimal places, and the concepts of upper and lower bounds.
+
+    In measurements, exact values may not be obtained, leading to the use of approximate values.
+    Accuracy: Refers to how close a measurement is to the true value.
+
+Rounding
+
+    Rounding Off: A type of estimation used to simplify numbers to a certain level of precision.
+    Rule for Rounding Whole Numbers:
+        Determine the rounding digit (the place value you are rounding to).
+        Look at the digit immediately to the right of the rounding digit.
+        If this digit is 
+
+or
+: Do not change the rounding digit. All digits to its right become zero.
+If this digit is
+or
+
+        : Round the rounding digit up by one. All digits to its right become zero.
+
+Example 1: Rounding Whole Numbers
+people live in a town. Round this number to various levels of accuracy: a. Nearest b. Nearest c. Nearest Solution: a. Nearest : The rounding digit is (hundreds place). The digit to its right is . Since , the remains unchanged, and digits to the right become . So, rounded to the nearest is . b. Nearest : The rounding digit is (thousands place). The digit to its right is . Since , the rounds up to , and digits to the right become . So, rounded to the nearest is . c. Nearest : The rounding digit is (ten thousands place). The digit to its right is . Since , the rounds up to , and digits to the right become . So, rounded to the nearest is
+
+.
+Decimal Place (d.p.)
+
+    Decimal Place: Refers to the number of figures written after a decimal point.
+    Note: Rounding to 
+
+d.p. means rounding to the nearest tenth. Rounding to
+
+    d.p. means rounding to the nearest hundredth.
+
+Example 2: Rounding to Decimal Places a. Write
+to d.p. b. Write to
+
+d.p.
+
+Solution: a. To
+d.p., we look at the second digit after the decimal (). Since , the first digit () is rounded up. So, rounded to d.p. is . b. To d.p., we look at the third digit after the decimal (). Since , the second digit () remains unchanged. So, rounded to d.p. is
+
+.
+Significant Figures (s.f.)
+
+    Significant Figures: Indicate the accuracy of an approximation. We count the number of digits in the number from left to right, beginning at the first non-zero digit.
+        Rules for Counting Significant Figures:
+            Non-zero digits are always significant.
+            Zeros between non-zero digits are significant.
+            Leading zeros (zeros before non-zero digits) are not significant.
+            Trailing zeros (zeros at the end of the number) are significant only if the number contains a decimal point.
+
+Example 3: Rounding to Significant Figures a. Write
+to s.f. b. Write to s.f. c. Write to
+
+s.f.
+
+Solution: a. The first two significant digits are
+and . The third digit is . Since , the second significant digit () rounds up to . So, written to s.f. is . b. The first non-zero digit is . So, is the first significant figure. The next digit is . Since , the remains unchanged. So, written to s.f. is . (The leading zeros are not significant). c. The first two significant digits are and . The third digit is . Since , the second significant digit () remains unchanged. So, written to s.f. is
+
+.
+Accuracy (Upper and Lower Bounds)
+
+    Definition 2.14 (Lower and Upper Bound): The upper and lower bounds are the maximum and minimum values that a number could have been before it was rounded.
+
+Steps to Find Lower and Upper Bounds of a Rounded Number:
+
+    Identify the place value of the degree of accuracy stated (e.g., nearest unit, 
+
+d.p. (tenths),
+s.f.).
+Divide this place value by
+
+    .
+    Lower Bound: Subtract this amount from the given rounded value.
+    Upper Bound: Add this amount to the given rounded value. The upper bound itself is usually excluded in the inequality (i.e., less than).
+
+Example 1: The weight of a tree is
+kilograms to the nearest kilogram. a. Find the upper and lower bounds where the weight of the tree lies. b. If the tree's weight is
+
+kilograms, describe this range as an inequality.
+
+Solution: a. The number
+kg is rounded to the nearest kilogram. 1. Place value of degree of accuracy = kg. 2. Divide by : kg. 3. Lower bound: kg. 4. Upper bound: kg. b. The range for the tree's weight () is
+
+.
+
+Example 2: A number was given as
+to
+
+d.p. Find the lower and upper bounds. Solution:
+
+    Place value of degree of accuracy = 
+
+(tenths).
+Divide by
+:
+.
+Lower bound:
+.
+Upper bound:
+
+    .
+
+Effect of Operations on Accuracy (Bounds)
+
+    When approximate numbers are added, subtracted, or multiplied, their sum, difference, or product will also fall within a range defined by the individual numbers' bounds.
+
+Example: Given that a rectangular farmland has length
+meters and width
+
+meters (assumed to be rounded to the nearest integer). a. Find the upper and lower bounds of the sum of length and width. b. Find the range of the area of the farmland (upper and lower bounds of the area).
+
+Solution:
+
+    For length 
+
+m (nearest integer):
+.
+For width
+m (nearest integer):
+
+    .
+
+a. Sum of length and width: * Minimum Sum (Lower Bound): Lower bound of
++ Lower bound of m. * Maximum Sum (Upper Bound): Upper bound of + Upper bound of m. * So, the sum of length and width lies between m and
+
+m.
+
+b. Area of farmland (
+): * Minimum Product (Lower Bound of Area): Lower bound of Lower bound of . * Maximum Product (Upper Bound of Area): Upper bound of Upper bound of . * So, the area of the farmland ranges between and
+
+.
+2.4.5 Standard Notation (Scientific Notation)
+
+    Scientific notation provides a concise way to write very large or very small numbers.
+
+    Very large numbers (e.g., distance to moon) and very small numbers (e.g., mass of a hydrogen atom) are often difficult to write and work with.
+    Definition 2.15: A number is said to be in scientific notation (or standard notation) if it is written as a product of the form 
+
+, where and
+
+    is an integer.
+
+Steps to Convert Numbers into Scientific Notation:
+
+    Locate 'a': Move the decimal point until there is only one non-zero digit to the left of the decimal point. This gives you the value for 
+
+(
+).
+Determine 'n' (Exponent): The exponent
+of the power of is determined by the number of places you moved the decimal point.
+
+    For large numbers: If the original number was large (greater than 
+
+), you moved the decimal point to the left. The exponent
+is a positive integer equal to the number of places moved.
+For small numbers: If the original number was small (between
+and ), you moved the decimal point to the right. The exponent
+
+    is a negative integer equal to the number of places moved.
+
+Write in Form: Combine
+and as
+
+    .
+
+Example 1: Converting to Scientific Notation Express each of the following numbers into scientific notation: a.
+b. Solution: a. For : 1. The number between and is . 2. The decimal point was moved places to the left (from after the last to after the ). So, . 3. Scientific notation: . b. For : 1. The number between and is . 2. The decimal point was moved places to the right (from before the first to after the ). So, . 3. Scientific notation:
+
+.
+
+Example 2: Converting from Scientific Notation to Decimal Notation Express each of the following in decimal notation: a.
+b. Solution: a. For : The exponent is positive , so move the decimal point places to the right. . b. For : The exponent is negative , so move the decimal point places to the left.
+
+.
+2.4.6 Rationalization
+
+    Rationalization is the process of eliminating irrational numbers from the denominator of a fraction, making the denominator a rational number.
+
+    When a ratio has an irrational denominator (e.g., 
+
+), it can be difficult to work with. Rationalization converts it to an equivalent number with a rational denominator.
+Rationalizing Factor: The number that is used as a multiplier to rationalize the denominator. This factor is equivalent to
+(e.g., ).
+
+    For an irrational number 
+
+, the rationalizing factor to make rational is
+
+        .
+
+Example: Rationalizing Denominators with Single Terms Rationalize the denominator for each of the following: a.
+b. c. (to change its denominator to
+
+)
+
+Solution: a. The rationalizing factor is
+. . b. The rationalizing factor is . . c. To get in the denominator, we need . So the rationalizing factor is .
+
+.
+More on Rationalizations of Denominators (Conjugates)
+
+    When the denominator is a binomial involving square roots (e.g., 
+
+or ), we use its conjugate as the rationalizing factor. The product of a binomial and its conjugate results in a rational number (difference of squares identity:
+
+    ).
+
+Given Number 	Rationalizing Factor 	Product with Factor
+Example: Rationalizing Denominators with Binomials Rationalize the denominator of: a. b. c. Solution: a. The rationalizing factor for is its conjugate, . . b. The rationalizing factor for is its conjugate, . . c. For , group terms in the denominator, for example . Its conjugate would be . . The denominator is still irrational. Now, rationalize using its conjugate :
+
+.
+2.5 Applications
+
+    This section provides practical applications of the number system concepts discussed in the unit, demonstrating how to use them to solve real-world problems.
+
+Example 1: Applying Euclid's Division Lemma (Distribution Problem) A small town has
+flower pots. The gardener wants to arrange them in rows such that each row contains
+
+flower pots. Find the number of completed rows and how many flower pots are left over.
+
+Solution: This is a division problem where we need to find the quotient and remainder. Using Euclid's Division Lemma with
+(total pots) and (pots per row): , where . Dividing by
+
+:
+
+with a remainder of . So, . The gardener can arrange the flower pots in completed rows, and
+
+    flower pots will be left over.
+
+Example 2: Applying GCF (Tiling Problem) A teacher wants to paste square pieces of equal size colored papers on a white board measuring
+cm by
+
+cm. If only squares of length with natural numbers are considered, and the board is to be completely covered, find the largest possible length of the side of each square piece.
+
+Solution: To completely cover a
+board with equal-sized square pieces, the side length of the square piece must be a common factor of both and . To find the largest possible length, we need to find the Greatest Common Factor (GCF) of and
+
+.
+
+Using prime factorization:
+
+The common prime factors are and
+
+.
+
+    Lowest power of 
+
+is
+.
+Lowest power of
+is
+
+    .
+
+GCF(
+) = . Hence, the largest possible length of the side of each square piece is
+
+cm.

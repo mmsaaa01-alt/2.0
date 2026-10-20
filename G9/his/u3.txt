@@ -1,0 +1,306 @@
+
+Study Notes: History - G9
+
+UNIT 3: PEOPLES AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.: 3.1 Languages, Religions and Peoples of Ethiopia and the Horn, 3.2 Pre-Aksumite States and their Geographical Setting, 3.3 Aksumite Kingdom, 3.4 Zagwe Dynasty, 3.5 The Sultanate of Shewa, UNIT 3: Unit Summary, UNIT 3: Unit Review Questions
+
+Unit 3: Peoples and States in Ethiopia and the Horn to the end of the 13th Century
+
+    This unit explores the linguistic and religious diversity of Ethiopia and the Horn, the emergence of early states, and the development of major kingdoms like Aksum and the Zagwe dynasty, as well as the rise of Muslim sultanates.
+
+I. Linguistic and Religious Diversity
+A. Language Families of Ethiopia
+
+Ethiopia is home to people speaking languages from two major superfamilies: Afro-Asiatic and Nilo-Saharan.
+1. Afro-Asiatic Super-Family
+
+This is the largest language super-family in Ethiopia, covering a significant geographical area and population. It is further divided into three linguistic families:
+
+    Cushitic:
+        Spoken by the vast majority of people in Ethiopia, with some speakers in neighboring countries.
+        Sub-divisions:
+            North Cushitic: Anciently widespread between the Red Sea and Nile Valley.
+                Represented today by the Beja language in Northwestern Eritrea.
+            Central Cushitic:
+                Includes the Bilen in Eritrea.
+                Includes the Agaw languages (Qimant, Himitagna, Awign) in Ethiopia.
+            Eastern Cushitic: The largest and most diverse branch.
+                Subdivided into:
+                    Lowland East Cushitic: Speakers originally lived in eastern lowlands.
+                        Examples: Oromo, Afar, Somali, Konso, Gidole, Erbore, Dassenech, Saho.
+                        Grew significantly in size due to population movements in the 16th century.
+                    Highland East Cushitic: Speakers live in the highlands of central Ethiopia.
+                        Examples: Hadiya, Kambata, Tambaro, Halaba, Sidama, Gedeo, Burji.
+            Southern Cushitic: Represented by Dhalo in Kenya and Nbugua in Tanzania (outside the primary scope of Ethiopia but part of the broader family).
+
+    Semitic:
+        Divided into Northern and Southern branches.
+            Northern Semitic:
+                Ge'ez: An ancient language of northern Ethiopia, now confined to the Ethiopian Orthodox Tewahedo Church.
+                Tigre: Found in the Eritrean lowlands.
+                Tigrinya: Spoken in southern Eritrea and Tigray.
+            Southern Semitic:
+                Includes: Amharic, Argobba, Gafat (extinct), Guraghigna, Siltie, Harari, Zay.
+
+    Omotic:
+        Most speakers reside in and around the Omo River basin.
+        Originally extended further north, with groups like the Shinasha (Benishangul-Gumuz) and Anfillo (Wallaga) representing this migration.
+        Numerous Omotic languages are spoken today.
+        Examples: Ari, Banna, Basketo, Bench, Chara, Dawuro, Dime, Dizi, Dorze, Gamo, Ganza, Gayil, Gofa, Hamer, Hozo, Kachama Ganjule, Karo, Keficho, Konta, Korete, Male, Melo, Nayi, Oyda, Sezo, Shekkacho, Sheko, Wolaita, Yem, Zayse.
+        Key Groups within Omotic:
+            Ometo: Includes Wolaita and Gamo.
+            Gonga: Main example is Keficho.
+
+2. Nilo-Saharan Super-Family
+
+    Primarily spoken along the Ethio-Sudanese border.
+    Some speakers are found in the Abay gorge and along tributaries of the Abay River in Wallaga.
+    Has two families:
+        Chari-Nile:
+            Includes languages of the Anuak, Nuer, Mi'en, Majang, Benishangul, Kunama, Mursi, Surma, and Tirma peoples.
+        Koman:
+            Includes languages of the Gumuz, Koma, Sese, Ma'o, and Komo peoples.
+
+Languages in Danger of Extinction
+
+    Some Ethiopian languages are extinct or endangered due to a decreasing number of speakers.
+    Gafat is an example of an extinct language.
+
+B. Major Religions of Ethiopia
+
+Ethiopia exhibits religious complexity with indigenous religions, Judaism, Christianity, and Islam practiced by its diverse population.
+1. Indigenous Religion
+
+    Definition: Beliefs practiced exclusively within a specific culture, native to the region.
+    Origins: Emerged with sedentary settlement and agricultural development, leading to the development of priests.
+    Practices:
+        Priests conducted prayers for rainfall, thanksgiving, and protection from hazards.
+        Farmers paid tributes to priests.
+        Worship or sacrifices were offered.
+        Special reverence for ancestors.
+    Beliefs:
+        Belief in a Supreme Being as the creator.
+        Natural phenomena are considered sacred and are attributed special powers.
+        Spiritual functionaries (priests) officiate rituals and act as intermediaries between society and spirits.
+    Example: Waqeffanna of the Oromo:
+        Based on the existence of a Supreme Being called Waqa.
+        Waqa's power is manifested through spirits called Ayyana.
+        Qallu (male) and Qallitti (female) are revered experts maintaining the link between Ayyana and believers.
+    Syncretism: Indigenous practices and beliefs often fuse with Christianity and Islam, a phenomenon known as syncretism.
+
+2. Judaism
+
+    Presence: Practiced in Ethiopia from ancient times.
+    Followers: Known as Bete-Israel (meaning "House of Israel").
+        They trace their descent from Israelite tribes who came to Ethiopia during the Exodus.
+        Formerly resided in northwest Ethiopia, with a large migration to Israel in the 1980s and 1990s.
+    Tradition: Maintained Jewish traditions for generations despite pressure from Christian neighbors.
+    Similarities with Ethiopian Orthodox Tewahedo Church:
+        Adhere to the teachings of the Old Testament.
+        Employ Ge'ez for liturgy.
+        Adhere to Old Testament customs.
+        Similarities in appearance, symbolism, behavior, and hierarchy of priests.
+    Distinction: Bete-Israel persistently clung to Judaic rituals and doctrines.
+    Current Status: Judaism was mostly found in northern Ethiopia, with only a few Jews remaining today.
+
+3. Christianity
+
+    Introduction: Around 330 AD by Frumentius (also known as Freminatos).
+        Frumentius converted King Ezana (r. 320-350 AD) and his associates.
+        Secured royal support and became the state religion.
+    Expansion:
+        The arrival of the Nine Saints towards the end of the 5th century helped spread Christianity among the broader population.
+        Churches and monasteries were established, including the first at Debre-Damo.
+        The Bible was translated into Ge'ez, which became the liturgical language.
+    External Relations:
+        Reinforced Aksum's exposure to the outside world.
+        Patriarch Atnatewos of Alexandria consecrated Freminatos as Abuna Salam, the first bishop of the Ethiopian Orthodox Tewahedo Church.
+        This tradition of consecrating bishops from Egypt continued until 1959, when Abune Baselios became the first Ethiopian Patriarch.
+    Further Expansion:
+        Continued during the Zagwe period (1150-1270).
+        Gained significant momentum in the Early Medieval Period (1270-1527) with the construction of churches and monasteries in newly incorporated territories.
+        Important centers included: Rock-hewn churches of Lalibela (Lasta), Debra-Bizan (Hamasen, Eritrea), Debra-Hayiq (Wollo), Debre-Dima and Debre-Werq (Gojjam), Debra-Libanos (Shewa), Birbir Mariam (Gamo), Debre-Asabot (near Harar).
+        Prominent religious figures who expanded Christianity: Abba Iyesus Moa, Abba Giyorgis Zegasicha, Abune Tekle-Haymanot.
+        Spread to regions like Gamo in southern Ethiopia.
+    Cultural Impact: Accompanied by the development of art, literature, architecture, and music.
+
+Catholic and Protestant Missions
+
+    Catholicism:
+        Introduction: Late 15th century via Portuguese voyages.
+        Jesuits: Unsuccessfully attempted conversions from the mid-16th to early 17th centuries.
+        Emperor Susneyos (1622): Publicly adhered to Catholicism to strengthen his political power.
+        Patriarch Afonso Mendes (1622): Appointed by Pope Urban VII, imposed changes against Orthodox practices, leading to uprisings and civil war.
+        Emperor Fasilidas (1636): Expelled the Patriarch and missionaries, closing Ethiopia to Europeans until the early 19th century.
+    Protestantism:
+        Introduction: Early 19th century, with missionary activities resuming.
+        Catholic Missionaries: Led by Giuseppe Sapeto, Giustino De Jacobis, and Cardinal Massaja.
+        Protestant Missions:
+            Systematic approach, winning local confidence.
+            Included: Anglican Church Missionary Society, Church Missionary Society of London, Wesleyan Methodist Society.
+            Leaders: Samuel Gobat, C.W. Isenberg, J.L. Krapf.
+            Sudan Interior Mission: Started work in Wolaita, Hadiya, and Kambata in the early 20th century.
+        Missionary Methods:
+            Translated spiritual books into local languages.
+            Adopted local names for God.
+            Established schools and medical centers.
+            Preached the faith.
+        Impact: Continuous indoctrination led to the grafting of new teachings onto indigenous religions, attracting many followers.
+
+4. Islam
+
+    Origins: Arose in the early 7th century in the Arabian Peninsula.
+    Introduction to Ethiopia (615 AD):
+        Prophet Mohammed sent a group of followers to the Kingdom of Aksum to escape persecution from the Quraysh tribe.
+        Led by Jafar Abu Talib.
+        The Aksumite king, Armah Ella Seham (Ahmed al-Nejash in Arabic sources), granted them asylum from 615-628 AD.
+        Prophet Mohammed exempted Aksum from future jihad due to the kind reception.
+    Spread via Trade Routes:
+        Introduced peacefully through trade routes.
+        Muslim clerics and merchants acted as missionaries.
+        Three main gateways:
+            Red Sea (North):
+                After Adulis' destruction (702 AD), Muslim Arabs occupied the Dahlak Islands.
+                Sultanate of Dahlak established in the 10th century.
+                Muslim communities settled on Red Sea coastal regions, converting pastoral peoples.
+                Islam failed to penetrate the interior of northern Ethiopia due to the strong presence of Christianity. Confined to lowland regions.
+            Gulf of Aden (East):
+                The port of Zeila became increasingly important after Adulis' destruction.
+                Arab Muslim merchants used the Zeila trade route to spread Islam into the interior.
+                Successfully spread to eastern Harar, Shewa, and Wollo.
+                Later spread to Bale, Arsi, and Hadya regions in south-central Ethiopia.
+            Indian Ocean (Southeast):
+                Penetrated the Somali region through coastal towns like Mogadishu, Brava, and Merca.
+    Impact:
+        Led to the emergence of several Muslim sultanates along trade routes.
+        Coexisted peacefully with Christianity.
+        Contributed to the development and enrichment of cultures.
+        Development of mosques and Islamic centers of learning (e.g., Harar, flourishing from the 16th century).
+        Ethiopian Muslims maintained links with Islamic centers in Arabia, Egypt, and Yemen through trade, pilgrimage, and religious training.
+
+II. Settlement Patterns of Peoples of Ethiopia
+
+    Definition: The distribution of peoples across the landscape, resulting from long historical processes.
+    Peopling of Ethiopia: An extensive process of migration driven by pull (availability of resources) and push (shortage of resources) factors.
+    Influencing Factors: Environmental, socioeconomic, and political factors have profoundly modified settlement patterns.
+    Density Variation: Varies from dense in some regions to sparse in others, with people inhabiting both vast heights and lowlands.
+    Distribution of Major Linguistic Groups:
+        Cushitic and Semitic speakers: Historically resided between the Red Sea (east) and Blue Nile (west) before dispersing. They form the main linguistic groups in Ethiopia and the Horn.
+        Omotic speakers: Primarily live in southwest Ethiopia along the Omo River valley, with exceptions like the Shinasha and South Mao groups.
+        Nilotic speakers: Largely inhabit the Ethiopia-Sudanese border, with some Chari-Nile family members settling in Southern Omo.
+
+III. Pre-Aksumite States and their Geographical Setting
+
+Several states emerged in the Horn of Africa before the rise of Aksum.
+A. Punt
+
+    Location: Ancient and historically known state in the Horn of Africa, but its exact location and territorial limits are not well-defined.
+        Historians suggest its territory encompassed Red Sea and Indian Ocean coastal parts of present-day Djibouti, Eritrea, Ethiopia, and Somalia.
+    Trade Relations: Had trade relations with Egypt since the third millennium BC, conducted by land and sea.
+    Exports to Egypt:
+        Gold (undoubtedly from western Ethiopia).
+        Ivory, panther and other skins, myrrh and myrrh trees, ostrich feathers (could have come from anywhere in the Horn).
+    Egyptian Imports: Hatchets, daggers, necklaces.
+
+B. Other Pre-Aksumite States (Emergence: circa 1000 BC onwards)
+
+    Yeha:
+        Located 30 km northeast of Aksum.
+        Oldest of these centers, presumably appearing around 1000 BC.
+        Wealth peaked between 750 and 500 BC.
+        Evidence: Remains of walls, stone masonry, a standing temple, and inscriptions.
+    Hawulti Melazo:
+        Situated southeast of Aksum.
+        Stone tablets with inscriptions have been excavated.
+    Damat:
+        Existed prior to Aksum's rise, centered a few kilometers south of Aksum.
+        Rulers adopted the South Arabian title Mukarib.
+        Established external relations with South Arabia, evidenced by inscriptions from a 5th-century BC ruler.
+        Used the Red Sea port of Adulis.
+    Other mentioned states: Addi-Seglemeni, Metera, Kaskase, Coloe.
+
+IV. The Aksumite Kingdom
+
+    Emergence: First century AD, with its nucleus at Aksum.
+        The city of Aksum served as its political and religious center.
+        Adorned with temples and stone monuments like the monolithic steles.
+    Expansion (4th - 6th centuries AD):
+        Expanded significantly to include:
+            Territories beyond the Red Sea (southern Arabia).
+            The River Abay in the west.
+            The northern tip of Eritrea in the north.
+            North Shewa in the south.
+    Economy:
+        Plough agriculture was a primary economic base.
+        Generated considerable income from local and external trade via the port of Adulis on the Red Sea coast.
+        Minted bronze, silver, and gold coins to facilitate trade.
+    Society and Politics:
+        A powerful state with a well-demarcated social structure.
+        The king and people were linked by the payment of tribute.
+    Language and Writing:
+        Ge'ez evolved as a written language in the first three centuries AD.
+        Inscriptions and coins show the prior use of Sabean and Greek languages, the latter likely due to trade with the Greco-Roman world and its status as the lingua franca of the region.
+    Religion:
+        Belief in indigenous religions before the introduction of Christianity (4th century AD) and Islam (early 7th century AD).
+    Civilization:
+        Continued as an important center of a highly developed civilization for several centuries, unlike other centers like Yeha, Mattara, and Adulis.
+        Evidence includes ruins of temples, iron tools, bricks, coins, tombs, and obelisks.
+        Shipbuilding technology was well-known at Adulis.
+        These ruins are now major tourism centers.
+    Decline:
+        Loss of Red Sea control: Started when Muslim Arabs gained control of the Red Sea and the destruction of Adulis in 702 AD.
+        Economic, political, and military power waned due to the loss of trade.
+        Internal Rebellions: Rebellion against King Kaleb (r. 500-535 AD), who had controlled South Arabia in 525 AD. South Arabians expelled Aksumite governors and soldiers between 580-590 AD, leading to the loss of control over Red Sea trade.
+        Loss of South Arabian territory: Aksum lost control of its territories in South Arabia.
+        Internal Political Disturbances: Continued in subsequent centuries.
+        Beja Rebellions: Inability to check rebellions from the north pushed the Aksumite state southward.
+        Relocation: Pushed southward to Kubar (southern Tigray) and by the late 9th century, took refuge in the Agaw-inhabited area.
+
+V. The Zagwe Dynasty (c. 1150 - 1270 AD)
+
+    Origins: Came from the local Agaw ruling class in Lasta, part of the former Aksumite Empire.
+    Founding: Around 1150 AD by Mera Tekle Haymnot.
+    Capital: Established a new capital at Adefa (Roha) in Lasta.
+    Nature: Considered a political power shift, not a new kingdom.
+    Economy:
+        Based on agriculture.
+        Trade provided additional income.
+        Zeila port served as a main outlet, along with Dahlak Islands on the Red Sea coast.
+    Architectural Achievements:
+        Renowned for the technology of building monolithic rock-hewn Churches at Roha (later renamed Lalibela).
+        Eleven rock-hewn churches were constructed during the reign of Emperor Lalibela in the first half of the 13th century.
+        Lalibela became an important center of learning and Christian culture.
+    Downfall:
+        Succession Problems: Frequent power struggles and use of force to settle succession issues among Zagwe princes, preventing smooth transitions.
+        Strong Opposition: Faced opposition, particularly from Tigray and Amhara regions.
+            Tigray: Leading clergy spread anti-Zagwe propaganda based on the legend of the Queen of Sheba and King Solomon, portraying Zagwe kings as "illegitimate" successors to Aksum.
+            Amhara Region: Initiative to overthrow the Zagwe came from this region (south of Lasta, around southern Wollo and northern Shewa).
+        Overthrow: An Amhara chief, Yekuno Amlak, organized a movement and defeated the last Zagwe king, Yetbarek, in battle in 1270 AD.
+    Establishment of the "Solomonic Dynasty":
+        Yekuno Amlak established a genealogy linking him to the last Aksumite king, Dil Naod.
+        Declared himself Emperor and restorer of the "Solomonic dynasty."
+        Used this legend to legitimize his political power, a tradition that continued until 1974.
+
+VI. The Sultanate of Shewa
+
+    Emergence of Muslim States: Following the introduction of Islam, a series of Muslim states emerged from the 9th century AD.
+    Shift in Trade Importance:
+        Northern Ethiopian trade declined due to Arab control of the Red Sea and Adulis' destruction.
+        Zeila on the Gulf of Aden coast emerged as a primary port for southeastern Ethiopian trade and a crucial gateway for Islam into the Horn.
+    Formation: Muslim states formed along the Zeila trade route.
+    Sultanate of Shewa:
+        Established: 896 AD.
+        Dynasty: Makhzunmite dynasty, founded by rulers claiming descent from the Makhzunmite clan of southern Arabia.
+        Location: Hot lowland region to the left of the Awash River.
+        Decline: Internal power struggles within the ruling family led to its eventual decline.
+
+A. Ifat Sultanate
+
+    Founding: Founded by Umar Walasma (hence the Walasma dynasty) in 1285 AD, south of Shewa.
+    Significance: Became the strongest Muslim sultanate in the region, superseding the Makhzumite dynasty of Shewa.
+    Territorial Control: Controlled a vast territory through which the long-distance Zeila trade routes passed.
+    Economic Power: Gained control of most of the profitable Zeila trade.
+    Rivalry with Christian Highland State:
+        Became the strongest rival to the Christian highland state.
+        Since 1270, the Christian highland state had also developed a strong interest in the Zeila trade and routes.
+        The need to control the Zeila trade became the main source of conflict between Ifat and the Christian highland kingdom.
+

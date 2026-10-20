@@ -1,0 +1,128 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 6: REGULAR POLYGONS: 6.1 Sum of Interior Angles of a Convex Polygon, 6.2 Sum of Exterior Angles of a Convex Polygon, 6.3 Measures of Each Interior Angle and Exterior Angle of a Regular Polygon, 6.4 Properties of Regular Polygons: Pentagon, Hexagon, Octagon and Decagon, UNIT 6: Summary, UNIT 6: Review Exercise
+
+Unit 6: Regular Polygons
+
+    This section covers the properties of polygons, focusing on regular polygons, their interior and exterior angles, symmetry, and their relationship to inscribed and circumscribed circles.
+
+6.1 Sum of Interior Angles of a Convex Polygon
+Concave and Convex Polygons
+
+    Polygon: A simple closed plane figure formed by three or more line segments joined end to end, no two of which in succession are collinear.
+        Sides: The line segments forming the polygon.
+        Vertex: The common end point of any two sides.
+        Interior Angles: The angles formed inside the polygon.
+
+    Naming Polygons:
+    Name of polygon 	Number of sides 	Number of vertices
+    Triangle 	3 	3
+    Quadrilateral 	4 	4
+    Pentagon 	5 	5
+    Hexagon 	6 	6
+    Heptagon 	7 	7
+    Octagon 	8 	8
+    Nonagon 	9 	9
+    Decagon 	10 	10
+
+    In general, a polygon with 𝑛 sides is called an "𝑛-gon".
+
+Definition of Convex and Concave Polygons
+
+    Convex Polygon: A polygon where the measure of each interior angle is less than 180 degrees. The vertices of a convex polygon always point outwards.
+
+    Concave Polygon: A polygon where at least one interior angle has a measure more than 180 degrees. The vertices of a concave polygon point inwards and outwards.
+
+    Alternative Description: If none of the side extensions intersects the polygon, then the polygon is convex; otherwise it is concave.
+
+    Key Takeaway: Convex polygons have all interior angles less than 180°, while concave polygons have at least one interior angle greater than 180°.
+
+6.2 Sum of Exterior Angles of a Convex Polygon
+Exterior Angles of a Convex Polygon
+
+    Exterior Angle: An angle outside the polygon formed by one of its sides and the extension of an adjacent side.
+
+Sum of Exterior Angles of a Polygon
+
+    The sum of the exterior angles of a polygon does not depend on the number of sides of the polygon.
+
+Derivation of the sum of exterior angles:
+
+    The sum of the interior angles of an 𝑛-sided polygon is 
+
+.
+The sum of interior and exterior angles at each vertex is
+.
+Therefore, the sum of all interior and exterior angles in an 𝑛-sided polygon is
+.
+Sum of interior angles + Sum of exterior angles =
++ Sum of exterior angles = Sum of exterior angles = Sum of exterior angles = Sum of exterior angles =
+
+Key Theorem: The sum of the measures of exterior angles of any polygon (convex) is
+
+    .
+
+6.3 Measures of Each Interior Angle and Exterior Angle of a Regular Polygon
+Definition of a Regular Polygon
+
+    Regular Polygon: A polygon that is equiangular (having equal angles) and equilateral (having equal sides).
+        Examples: Equilateral triangles and squares.
+
+Measures of Interior and Exterior Angles of a Regular Polygon
+
+For an 𝑛-sided regular polygon:
+
+    Sum of interior angles: 
+
+Sum of exterior angles: Measure of each interior angle: Measure of each exterior angle:
+
+    Key Formulas: Memorize the formulas for calculating each interior and exterior angle of a regular polygon.
+
+6.4 Properties of Regular Polygons: Pentagon, Hexagon, Octagon, and Decagon
+Line of Symmetry for Regular Polygons
+
+    Symmetry: When two parts of a figure are identical after folding or flipping. To be symmetrical, one half must be the mirror image of the other.
+
+    Line of Symmetry: A line through which the two halves of the figure match exactly. Also called a mirror line. A figure can have more than one line of symmetry. An asymmetrical figure has no line of symmetry.
+
+    Symmetry in Regular Polygons: All regular polygons are symmetrical.
+        An equilateral triangle has 3 lines of symmetry.
+        A square has 4 lines of symmetry.
+        A regular pentagon has 5 lines of symmetry.
+        A regular hexagon has 6 lines of symmetry.
+        The lines of symmetry meet at a point inside the polygon called the center of the polygon.
+
+    Lines of Symmetry Based on Number of Sides:
+        If 𝑛 (number of sides) is odd, the line of symmetry connects a vertex to the midpoint of the opposite side.
+        If 𝑛 is even, the line of symmetry connects a vertex to the opposite vertex, and the midpoint of a side to the midpoint of the opposite side.
+
+    Key Property: An 𝑛-sided regular polygon has 𝑛 lines of symmetry.
+
+Inscribed and Circumscribed Polygons
+
+    Circumcircle: A circle that passes through all the vertices of a polygon.
+
+    Incircle: A circle inside a polygon that touches each side of the polygon at its midpoint. The radius of the incircle is the apothem of the polygon.
+
+    Apothem: A line segment from the center of a regular polygon perpendicular to a side (and bisecting that side).
+
+    A circle can be inscribed in and circumscribed about any regular polygon.
+
+Measure of Central Angles
+
+    Central Angle: An angle formed at the center of a circle by two consecutive radii from the vertices of a polygon.
+    For an 𝑛-sided regular polygon, 𝑛 isosceles triangles are formed.
+    The sum of the central angles is 
+
+.
+Measure of each central angle:
+Perimeter, Area, and Apothem of Regular Polygons Inscribed in a Circle
+
+For an 𝑛-sided regular polygon inscribed in a circle with center 𝑂 and radius 𝑟:
+
+    Side length (
+
+): Perimeter (): Apothem (): Area ():
+
+Theorem 6.1: For an 𝑛-sided regular polygon inscribed in a circle of radius 𝑟, the length of side 𝑠, apothem 𝑎, perimeter 𝑃, and area 𝐴 are determined by:

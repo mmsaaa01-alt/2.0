@@ -1,0 +1,37 @@
+UNIT 3: NATIONAL INCOME ACCOUNTING
+
+3.1 NATURE OF NATIONAL INCOME ACCOUNT AND ITS IMPORTANCE
+- National Income Accounting: The accounting system used to measure aggregate economic activities and provide an official measurement of the flow of income and product within an economy.
+- Usefulness: It helps determine the level of output, observe long-run growth trends, serve as evidence for policy-making, and facilitate cross-country comparisons.
+
+3.2 GROSS DOMESTIC PRODUCT (GDP) AND GROSS NATIONAL PRODUCT (GNP)
+- Gross Domestic Product (GDP): The total market value of all final goods and services produced annually within a country's borders.
+- Gross National Product (GNP): The total market value of all final goods and services produced annually by resources of a country, regardless of their location.
+- Net Foreign Factor Income (NFFI): The difference between income earned by a country's citizens abroad and foreign earnings within the country, serving as the primary difference between GDP and GNP.
+- Flow Concept: GDP is a flow concept measured per unit of time, representing new additions to an existing value rather than a stock measure at a given point in time.
+
+3.3 APPROACHES OF MEASURING NATIONAL INCOME (GDP/GNP)
+- Expenditure Approach: Measures GDP by adding consumption spending (C), business investment spending (I), government spending (G), and net exports (NX = X - M).
+- Income Approach: Measures GDP by aggregating factor returns (employment compensation, rent, interest, and profit) plus indirect business taxes and depreciation.
+- Value-Added Approach: Estimates GDP by calculating and summing the monetary value contributed at each stage of production.
+
+3.4 PROBLEMS WITH GDP MEASUREMENT
+- Measurement Challenges: Include double counting, the large informal sector/underground economy, non-productive transactions (such as transfer payments), non-traded goods and services, and accounting for quality improvements.
+- Solutions: Explicitly excluding non-productive transactions, carefully recording used items by only counting broker commissions, and estimating informal and self-consumption activities.
+
+3.5 THE GDP DEFLATOR AND THE CONSUMER PRICE INDEX
+- Nominal vs. Real GDP: Nominal GDP values output at current prices, whereas real GDP values output at constant base-year prices to remove the distorting effects of inflation.
+- GDP Deflator: The ratio of nominal GDP to real GDP, measuring changes in general prices across all consumer and producer goods produced domestically.
+- Consumer Price Index (CPI): Measures the price of a fixed basket of goods and services purchased by a typical consumer relative to a base year, accounting for both domestic and imported goods.
+
+3.6 OTHER MEASURES OF NATIONAL INCOME ACCOUNT
+- Net Domestic Product (NDP): GDP minus capital consumption allowance (depreciation).
+- National Income (NI): The total income earned by a country's citizens and businesses through payments to factors of production.
+- Personal Income: Income actually received by people, adjusted for earned-but-not-received and received-but-not-earned items.
+- Disposable Personal Income: The portion of personal income available for consumption or saving after taxes.
+- Per Capita GDP: GDP divided by total population, indicating average earnings per person.
+- Market Price vs. Factor Cost: Market prices include net indirect taxes (indirect taxes minus subsidies) over the factor cost of production.
+
+3.7 GDP AND INCOME DISTRIBUTION
+- Limitations: Per capita GDP only provides average earnings and fails to reflect how income is distributed among individuals within a country.
+- Current Trend: Policymakers are shifting toward incorporating income distribution, inequality, poverty analysis, and broader development indicators alongside GDP.

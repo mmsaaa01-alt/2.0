@@ -1,0 +1,98 @@
+Study Notes: Economics - G9
+
+UNIT 2: The Basic Economic Problems and Economic Systems: 2.1 The Basic Economic Problems: Scarcity, Choice, and Opportunity Cost, 2.2 Central Problems of Economies, 2.3 Economic Systems, UNIT 2: Unit Summary, UNIT 2: Review Questions[cite: 6]
+Unit 2: The Basic Economic Problems and Economic Systems[cite: 6]
+
+• Chapter Overview: Introduces fundamental economic concepts like scarcity, choice, and opportunity cost, illustrates them using the Production Possibilities Frontier (PPF), explores central economic problems, and describes various economic systems[cite: 6].
+
+1. The Basic Economic Problems: Scarcity, Choice, and Opportunity Cost
+1.1 Understanding Fundamental Economic Concepts
+
+• Core Issue: Imbalance between limited resources and unlimited human wants, which leads to scarcity, necessitates choices, and incurs opportunity costs[cite: 6].
+• Scarcity:
+  ◦ Definition: The fundamental economic problem reflecting that all economic resources society wants to use are finite or limited in supply relative to unlimited human wants[cite: 6].
+  ◦ Implication: Scarcity generates economic problems; if resources were fully abundant, no economic problems would exist[cite: 6].
+  ◦ Scarcity vs. Shortage: Scarcity means available amount is less than wanted at zero price (universal and endless); a shortage occurs when people cannot get what they want at the prevailing price (specific and short-term)[cite: 6].
+• Choice:
+  ◦ Reason: Output is limited due to scarcity, so not all wants can be satisfied, forcing individuals, firms, and governments to make choices[cite: 6].
+  ◦ Decisions: Must decide what output to produce, in what quantity, and what not to produce[cite: 6].
+  ◦ Relationship: Scarcity implies choice, which in turn implies opportunity cost[cite: 6].
+• Opportunity Cost:
+  ◦ Definition: The amount or value of the next best alternative that must be sacrificed (forgone) to obtain one more unit of a product[cite: 6].
+  ◦ Principle: Deciding to have more of one thing means deciding to have less of another[cite: 6].
+  ◦ Key Points: Measured in terms of goods and services (not money); aligns with the principle of substitution[cite: 6].
+  ◦ Summary: Arises from resource scarcity and alternative uses; when opportunity cost increases, people substitute other activities[cite: 6].
+
+1.2 The Production Possibilities Frontier (PPF/PPC)
+
+• Definition: A curve showing the various possible combinations of goods and services that a society can produce given its resources and technology[cite: 6].
+• Assumptions: Fixed quantity and quality of resources, two broad classes of output, full employment/production, constant technology, and specialization exist[cite: 6].
+• Related Terms:
+  ◦ Production efficiency: Maximum level of output a manufacturer can produce without lowering another product's output[cite: 6].
+  ◦ Resource allocation: Distribution of finite resources to specified purposes[cite: 6].
+• PPF Graphical Layout:
+  ◦ Points on the curve: Attainable and efficient[cite: 6].
+  ◦ Points inside the curve: Attainable but inefficient[cite: 6].
+  ◦ Points outside the curve: Unattainable with current resources and technology[cite: 6].
+• Concepts Described: Illustrates scarcity (boundary limit), choice (movement along curve), and opportunity cost (downward slope)[cite: 6].
+  ◦ Law of Increasing Opportunity Cost: As more of a product is produced, the opportunity cost per unit increases, making the PPF concave to the origin due to resource specialization[cite: 6].
+
+1.3 Economic Growth and the PPF
+
+• Definition: An increase in the total output level of an economy[cite: 6].
+• Conditions: Occurs due to an increase in the quantity/quality of economic resources or advances in technology[cite: 6].
+• Representation: Outward shift of the PPF[cite: 6].
+• Asymmetric Growth: Growth can occur in only one sector, shifting the PPF along just the Y-axis or X-axis[cite: 6].
+
+2. Central Problems of Economies
+
+• Basic Questions: Every modern society must answer what to produce, how to produce, and for whom to produce[cite: 6].
+
+2.1 What Goods and Services Are to Be Produced?
+
+• Also called: The problem of resource allocation[cite: 6].
+• Choices: Deciding between consumption vs. capital goods, civil vs. military goods, and necessity vs. luxury goods[cite: 6].
+
+2.2 How to Produce Goods and Services?
+
+• Also called: The problem of choice of technique[cite: 6].
+• Techniques:
+  ◦ Labour-intensive techniques: Use more labor relative to capital per unit of output[cite: 6].
+  ◦ Capital-intensive techniques: Use more capital relative to labor per unit of output[cite: 6].
+• Determinant: Depends on available factor supplies and relative prices[cite: 6].
+
+2.3 For Whom Goods and Services Are to Be Produced?
+
+• Also called: The problem of national product distribution[cite: 6].
+• Focus: Relates to how the material product is distributed among society members (e.g., prioritizing necessary goods for the entire population first)[cite: 6].
+
+3. Economic Systems
+
+• Definition: The organizational and institutional framework a society establishes to answer the basic economic questions, primarily classified based on resource ownership[cite: 6].
+• Main Types: Traditional, capitalist, command, and mixed economies[cite: 6].
+
+3.1 Traditional Economy
+
+• Definition: Relies on customs, history, and time-honored beliefs to guide production and distribution[cite: 6].
+• Activities & Trade: Based on agriculture, fishing, hunting, or gathering; typically uses barter instead of money and produces mainly for need without surplus[cite: 6].
+
+3.2 Capitalist Economy (Capitalism)
+
+• Definition: Means of production are privately owned, production is driven by private entrepreneurs for profit, and government intervention is negligible (also called free market or laissez-faire economy)[cite: 6].
+• Main Features: Private property right, consumer sovereignty, competition, limited government involvement, self-interest motivation, and income inequalities[cite: 6].
+
+3.3 Command Economy (Socialism)
+
+• Definition: Economic institutions are owned and controlled by the state and operate under a centralized plan[cite: 6].
+• Main Features: Collective ownership, central economic planning, strong government control, and relative equality of incomes[cite: 6].
+
+3.4 Mixed Economy
+
+• Definition: Combines characteristics of capitalism and socialism with a blend of private and public ownership and government control[cite: 6].
+• Main Features: Co-existence of public and private sectors, economic planning for rapid development, and regulations to prevent excessive wealth concentration[cite: 6].
+
+Unit Summary
+
+• Basic Economic Problems: Stem from resource scarcity (unlimited wants vs. limited means)[cite: 6].
+• Production Possibility Curve (PPC): Depicts maximum output combinations; law of increasing opportunity cost explains its concave shape[cite: 6].
+• Four Basic Economic Systems: Traditional (customs), Capitalist (private ownership/markets), Command (state ownership/planning), and Mixed (public-private blend)[cite: 6].

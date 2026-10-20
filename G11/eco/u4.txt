@@ -1,0 +1,33 @@
+UNIT 4: CONSUMPTION, SAVING AND INVESTMENT
+
+4.1 CONSUMPTION
+- Consumption and Disposable Income: Consumption is the expenditure on goods and services by households, which significantly influences aggregate demand. Disposable income (YD) is income available after personal taxes are deducted ($Y_D = Y - T$) and serves as the primary determinant of consumption and saving.
+- Keynesian Consumption Function: Keynes posited a direct, positive relationship between consumption and disposable income represented by the linear equation $C = \bar{C} + MPC \cdot Y_D$.
+  - Autonomous Consumption ($\bar{C}$): The minimum level of consumption needed to survive even at zero income, financed through past savings or borrowing.
+  - Induced Consumption ($MPC \cdot Y_D$): The portion of consumption dependent on disposable income.
+- Average Propensity to Consume (APC): The ratio of total consumption to total disposable income ($APC = C / Y_D$). It falls as income rises and can exceed 1 at very low income levels during dissaving.
+- Marginal Propensity to Consume (MPC): The rate of change in consumption due to a change in income ($MPC = \Delta C / \Delta Y_D$), with values ranging between zero and one ($0 < MPC < 1$).
+- Determinants of Consumption: Beyond disposable income, consumption is influenced by income distribution, direct taxes, expectations about future income and prices, interest rates, and the level of wealth.
+
+4.2 SAVING
+- Saving Function: Saving is the portion of disposable income not spent on consumption ($S = Y_D - C$). Substituting the consumption function yields the linear saving function $S = -\bar{C} + MPS \cdot Y_D$, where $-\bar{C}$ represents dissaving at zero income.
+- Average Propensity to Save (APS): The ratio of total saving to total disposable income ($APS = S / Y_D$).
+- Marginal Propensity to Save (MPS): The ratio of the change in saving to the change in disposable income ($MPS = \Delta S / \Delta Y_D$), with values between zero and one ($0 < MPS < 1$).
+- Determinants of Saving: Influenced by the level of income, income distribution, expectations of future prices and income, interest rates, wealth, direct taxes, and individual nature.
+
+4.3 THE RELATIONSHIP BETWEEN SAVING AND CONSUMPTION
+- Core Identities: Because disposable income is entirely allocated to either consumption or saving, the sum of MPC and MPS equals one ($MPC + MPS = 1$), and the sum of APC and APS equals one ($APC + APS = 1$).
+- 45° Reference Line: In macroeconomic graphical analysis, the 45° line shows points where income equals total expenditure ($Y = C$). 
+  - Zero saving occurs where the consumption function intersects the 45° line ($C = Y_D$).
+  - Positive saving occurs when disposable income is above the intersection point ($C < Y_D$).
+  - Dissaving occurs when disposable income is below the intersection point ($C > Y_D$).
+- Iqub: An indigenous, informal revolving savings practice in Ethiopia operating outside formal banking systems based on mutual trust and regular periodic contributions to fund consumption or investment.
+
+4.4 INVESTMENT
+- Types of Investment:
+  - Gross vs. Net Investment: Gross investment includes total spending on new capital plus replacement investment for depreciation, while net investment is gross investment minus depreciation ($I_{net} = I_{gross} - Depreciation$).
+  - Autonomous vs. Induced Investment: Autonomous investment is independent of income changes (often undertaken by government for public infrastructure), while induced investment is driven by profit expectations and national income changes.
+  - Private vs. Public Investment: Private investment is made by firms for profit, whereas public investment provides vital national goods, infrastructure, and human capital.
+- Real vs. Nominal Interest Rates: The real interest rate is adjusted for inflation by subtracting the inflation rate from the nominal interest rate ($r = Nominal - \pi$).
+- Determinants of Investment: Influenced by interest rates, expectations about future sales, business taxes, national income, and structural business environment challenges such as infrastructure gaps and access to finance.
+- Role in Investment and Growth: Investment adds to aggregate demand, increases productive capital capacity, shifts the production possibilities curve outwards, and drives economic growth via the accelerator theory, which states that changes in consumer demand result in a proportionately larger change in investment demand.

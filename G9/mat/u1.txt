@@ -1,0 +1,621 @@
+
+Study Notes: Mathematics - G9
+
+UNIT 1: FURTHER ON SETS: 1.1 Sets and Elements, 1.2 Set Description, 1.3 The Notion of Sets, 1.4 Operations on Sets, 1.5 Application, UNIT 1: Summary, UNIT 1: Review Exercise
+
+Unit 1: Further on Sets
+
+    This unit builds upon basic set concepts learned in Grade 7, introducing more advanced definitions, operations, and applications of sets. The concept of a set is fundamental in modern mathematics and is used to define relations and functions.
+
+1.1 Sets and Elements
+Defining a Set
+
+A set is a collection of well-defined objects or elements.
+
+    Well-defined: This means that for any given object, we can definitively determine whether it belongs to the set or not.
+
+Examples of Well-Defined vs. Not Well-Defined Sets:
+
+    Well-defined:
+        Collection of students in your class. (Elements are clearly known).
+        Collection of consonants of the English alphabet. (Clearly defined members).
+        A collection of all boys in your class.
+        A collection of all natural numbers less than 100.
+        The collection of songs by Artist Tilahun Ges sese.
+    Not well-defined:
+        Collection of beautiful girls in your class. (What constitutes "beautiful" is subjective).
+        Collection of hardworking teachers in a school. (What constitutes "hardworking" is subjective).
+        The collection of kind students in your school. (Subjective criteria).
+
+Elements of a Set and Notation
+
+    If a is an element of set A, we say " a belongs to A ". The Greek symbol ∈ (epsilon) denotes "belongs to". We write this as a ∈ A.
+    If b is not an element of set A, we write b ∉ A and read it as " b does not belong to set A " or " b is not a member of set A ".
+
+Examples of Element Notation:
+
+    Consider G as a set of vowel letters in the English alphabet. Then a ∈ G, o ∈ G, i ∈ G, but b ∉ G.
+    Let A be the set of positive even numbers (
+
+).
+
+Conventions for Naming Sets and Elements
+
+    Sets are usually denoted by capital letters like A, B, C, X, Y, Z, etc.
+    The elements of a set are represented by small letters like a, b, c, x, y, z, etc.
+
+1.2 Set Description
+
+Sets can be described in various ways to clearly communicate their elements.
+i) Verbal Method (Statement Form)
+
+    In this method, the well-defined description of the elements of the set is written in an ordinary English language statement form (in words).
+
+Examples of Verbal Method:
+
+    The set of whole numbers greater than 1 and less than 20.
+    The set of students in this mathematics class.
+
+ii) Listing Methods
+a) Complete Listing Method (Roster Method)
+
+    In this method, all elements of the set are completely listed.
+    The elements are separated by commas and are enclosed within set braces, { }.
+
+Examples of Complete Listing Method:
+
+    The set of all even positive integers less than 7 is described as 
+
+.
+The set of all vowel letters in the English alphabet is described as
+
+    .
+
+b) Partial Listing Method
+
+    This method is used when listing all elements of a set is difficult or impossible, but the elements can be clearly indicated by listing a few of them that fully describe the set.
+    Three dots (...) are used to indicate that the elements continue in a discernible pattern.
+
+Examples of Partial Listing Method:
+
+    The set of natural numbers less than 100: 
+
+. (The ... after 3 and before 99 indicate the pattern continues up to 99).
+The set of whole numbers:
+
+    . (The ... indicate the pattern continues indefinitely).
+
+iii) Set Builder Method (Method of Defining Property)
+
+    The set-builder method describes a set by a common property that its members must satisfy.
+
+    It writes the condition to be satisfied by the elements of a set.
+
+    Format: {representative | condition_that_representative_must_satisfy}.
+        A vertical line | or a colon : is used to separate the representative element (e.g., x) from the condition.
+
+In set brace, write the representative of the elements of a set, for example
+, and then write the condition that should satisfy after the vertical line (
+
+        ) or colon (:).
+
+Examples of Set Builder Method:
+
+    Set 
+
+can be described as: . (Read as "A is the set of all elements such that is a natural number and
+is less than 11.")
+Let set
+. This can be described as:
+
+OR OR
+Common Sets of Numbers
+
+    Natural Numbers (
+
+): The counting numbers. Whole Numbers (): Natural numbers including zero. Integers (): All whole numbers and their negative counterparts.
+1.3 The Notion of Sets
+
+This section introduces different types of sets based on their characteristics and relationships.
+Empty Set
+
+    Definition: A set which does not contain any element is called an empty set, void set, or null set.
+    Notation: The empty set is denoted mathematically by the symbol {} or Ø.
+
+Example of an Empty Set:
+
+    Let set 
+
+. Then
+
+    is an empty set, because there is no natural number between 1 and 2.
+
+Finite Set and Infinite Set
+Definition 1.1:
+
+    A set which consists of a definite number of elements is called a finite set.
+    A set which is not finite is called an infinite set.
+
+Examples of Finite and Infinite Sets:
+
+    Finite Sets:
+        The set of natural numbers up to 10: 
+
+    . (It has a definite, limited number of elements).
+    The set of African countries.
+    The set of days in a week.
+
+Infinite Sets:
+
+    The set of whole numbers: 
+
+.
+The set of all integers.
+.
+.
+
+        .
+
+Number of Elements in a Set
+
+    The number of elements of set A is denoted by 
+
+.
+
+    For example, if 
+
+, then . (Read
+
+        as "number of elements of set A").
+
+Equal Sets, Equivalent Sets, Universal Set, Subset and Proper Subset
+Equal Sets
+Definition 1.2:
+
+    Two sets A and B are said to be equal if and only if they have exactly the same or identical elements.
+    Notation: 
+
+    .
+
+Example of Equal Sets:
+
+    Let 
+
+and . Then
+
+    . The order of elements does not matter.
+
+Equivalent Sets
+Definition 1.3:
+
+    Two sets A and B are said to be equivalent if there is a one-to-one correspondence between the two sets.
+    Notation: 
+
+(or
+
+    ).
+
+Note on Equivalent Sets:
+
+    Two finite sets A and B are equivalent if and only if they have an equal number of elements.
+    Mathematically: 
+
+    .
+
+Example of Equivalent Sets:
+
+    Consider two sets 
+
+and
+.
+In set A, there are four elements (
+). In set B, there are also four elements (
+
+    ).
+    Therefore, set A and set B are equivalent.
+
+Universal Set (
+)
+Definition 1.4:
+
+    A universal set (usually denoted by U) is a set which has elements of all the related sets under consideration, without any repetition of elements.
+
+Example of a Universal Set:
+
+    Let set 
+
+(even natural numbers) and
+(odd natural numbers).
+The universal set U could consist of all natural numbers, such that
+
+    .
+    As all even and odd numbers are part of natural numbers, set U contains all elements of set A and set B.
+
+Subset (
+)
+Definition 1.5:
+
+    Set A is said to be a subset of set B if every element of A is also an element of B.
+    Notation: We write this as 
+
+.
+If set A is not a subset of set B, then it is written as
+.
+Example of a Subset:
+
+    Let 
+
+and
+be sets.
+Here, set A is a subset of set B, or
+
+    , since all members of set A are found in set B.
+
+Important Properties of Subsets:
+
+    Any set is a subset of itself (
+
+).
+The empty set (Ø or {}) is a subset of every set (
+).
+If set A is a finite set with
+elements, then the number of subsets of set A is
+
+    .
+
+Example: Finding Subsets
+
+    Given set 
+
+.
+The subsets of set A are:
+
+(the empty set)
+, ,
+(single-element subsets)
+, ,
+(two-element subsets)
+
+    (the set itself)
+
+The number of subsets of set A is 8. (Since
+, the number of subsets is
+
+    ).
+
+Proper Subset (
+)
+Definition 1.6:
+
+    If 
+
+(A is a subset of B) and
+(A is not equal to B), then A is called the proper subset of set B.
+Notation: It can be written as
+
+    .
+
+Example of a Proper Subset:
+
+    Given that sets 
+
+and
+.
+Set A is a proper subset of set B, that is,
+, since and
+.
+Observe also that
+
+    .
+
+Important Properties of Proper Subsets:
+
+    For any set A, A is not a proper subset of itself (
+
+).
+If set A is finite with
+elements, the number of proper subsets of set A is
+.
+The empty set (Ø or {}) is a proper subset of any other set.
+If set A is a subset of set B (
+), conversely B is a superset of A, written as
+
+    .
+
+Example: Finding Proper Subsets
+
+    Given set 
+
+.
+The proper subsets of set A are:
+
+, , , , There are seven proper subsets. (Since , the number of proper subsets is
+
+    ).
+
+1.4 Operations on Sets
+
+Set operations are processes of forming new sets from existing ones. The most important set operations are Union (
+), Intersection (
+
+), Complement ('), and Difference (-).
+Venn Diagrams
+
+    A Venn diagram is a schematic or pictorial representation of the sets involved in a discussion.
+    Usually, sets are represented as interlocking circles, each of which is enclosed in a rectangle, which represents the universal set (U).
+
+Union and Intersection
+Definition 1.7: Union of Two Sets (
+)
+
+    The union of two sets A and B, denoted by 
+
+, is the set of all elements that are either in set A or in set B (or in both sets).
+Mathematically:
+.
+
+    \cup is only supported in math mode\text{Figure 1.5: Shaded region representing A \cup B}
+
+Definition 1.8: Intersection of Two Sets (
+)
+
+    The intersection of two sets A and B, denoted by 
+
+, is the set of all elements that are both in set A and in set B.
+Mathematically:
+.
+
+    \cap is only supported in math mode\text{Figure 1.6: Shaded region representing A \cap B}
+
+Disjoint Sets
+
+    Two sets A and B are disjoint if their intersection is the empty set, meaning 
+
+.
+Examples of Union and Intersection:
+
+    Let 
+
+and be sets.
+Let (positive even numbers) and (multiples of 3).
+
+        (multiples of 6)
+
+Laws of Union and Intersection (Commutative and Associative)
+
+    Law of 
+
+and :
+
+Commutative Law:
+
+Associative Law:
+
+Complement of Sets
+Definition 1.9: Absolute Complement (
+)
+
+    Let A be a subset of a universal set U.
+    The absolute complement (or simply complement) of A, denoted by 
+
+, is defined as the set of all elements of U that are not in A.
+Mathematically:
+.
+Examples of Complement:
+
+    Let 
+
+and .
+
+    Then 
+
+    .
+
+Let
+be a universal set.
+
+a. Find and :
+
+b. Find and :
+
+    First, 
+
+.
+.
+From
+and above,
+.
+Observation:
+
+            . This demonstrates the first statement of De Morgan's Law.
+
+De Morgan's Law
+
+For the complement of
+and
+
+:
+
+    1st statement: 
+
+2nd statement:
+Difference of Sets
+Definition 1.10: Difference Between Two Sets (
+)
+
+    The difference between two sets A and B, denoted by 
+
+, is the set of all elements in A and not in B.
+This set is also called the relative complement of A with respect to B.
+Notation: We write this mathematically as
+.
+The notation
+can also be written as .
+Examples of Set Difference:
+
+    If sets 
+
+and .
+
+    Then 
+
+or
+
+    .
+
+Let U be a universal set of one-digit numbers (
+).
+
+    A be the set of even numbers less than 10 (
+
+).
+B be the set of prime numbers less than 10 (
+).
+a. or : Elements in A but not in B.
+
+b. or : Elements in B but not in A.
+
+c. : Elements in A or B or both.
+
+d. or : Elements in U that are not in .
+
+Using the same sets from Example 2:
+
+    a. 
+
+: Elements in U not in A.
+
+b. : Elements in U not in A.
+
+Observation:
+
+    .
+
+c.
+: Elements in U not in B.
+
+d. : Elements common to A and .
+
+Observation: From Example 2.a and this result,
+
+            .
+
+Theorem 1.1: Properties of Complement and Difference
+
+For any two sets A and B, the following hold true:
+
+(The complement of the complement of A is A itself)
+(The complement of A is the universal set minus A)
+(The difference A minus B is A intersected with the complement of B)
+
+    (If A is a subset of B, then the complement of B is a subset of the complement of A, and vice versa)
+
+Symmetric Difference of Two Sets
+Definition 1.11: Symmetric Difference (
+)
+
+    For two sets A and B, the symmetric difference between these two sets is denoted by 
+
+.
+It is defined as:
+
+(the union of elements unique to A and elements unique to B)
+OR
+(the elements in the union that are not in the intersection)
+\Delta is only supported in math mode\text{Figure 1.14: Shaded region representing A \Delta B}
+
+        \Delta is only supported in math mode\text{Figure 1.15: Alternative representation of A \Delta B using (A \cup B) \ (A \cap B)}
+
+Examples of Symmetric Difference:
+
+    Consider sets 
+
+and .
+
+    First, find 
+
+Then, find Hence,
+.
+Alternatively, using the second definition:
+
+        .
+
+Given sets
+and .
+
+    First, find 
+
+(since no common elements)
+Then, find
+(since no common elements)
+Hence,
+
+        .
+
+Cartesian Product of Two Sets
+Definition 1.12: Cartesian Product of Two Sets (
+)
+
+    The Cartesian product of two sets A and B, denoted by 
+
+, is the set of all ordered pairs
+where a is an element of A and b is an element of B.
+Mathematically:
+.
+Examples of Cartesian Product:
+
+    Let 
+
+and .
+
+    a. Find 
+
+:
+
+b. Find :
+
+If .
+
+    Find sets A and B.
+    A is the set of all first components of the ordered pairs in 
+
+, so
+.
+B is the set of all second components of the ordered pairs in
+, so
+
+        .
+
+1.5 Application
+Number of Elements of Union of Two Sets
+
+For two subsets A and B of a universal set U, the following formula for the number of elements holds:
+
+    General Formula:
+
+This formula accounts for elements counted twice when adding
+and (those in the intersection ).
+\cup is only supported in math mode\text{Figure 1.17: Venn Diagram illustrating n(A \cup B)}
+
+    \cap is only supported in math mode\text{Figure 1.18: Shaded areas for n(A), n(B), n(A \cap B) within the union formula}
+
+Special Case: Disjoint Sets
+
+    If 
+
+(meaning the sets are disjoint), then
+.
+In this case, the formula simplifies to:
+Example: Calculating Number of Elements in Union/Intersection
+
+    Let A and B be two finite sets such that 
+
+, , and
+.
+Find
+.
+Solution:
+
+    Using the formula 
+
+:
